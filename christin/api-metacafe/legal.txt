@@ -1,0 +1,11 @@
+
+The Parser class libray function taken from the following url
+
+http://php.net/manual/en/function.xml-parse.php
+
+
+API for licensed content :
+----------------------------
+http://www.metacafe.com/api/licensed_content/
+
+

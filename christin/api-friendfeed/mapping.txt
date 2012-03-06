@@ -1,0 +1,4 @@
+object : data->title, data->nickname,data->name
+actor : data->id, data->date, data->body
+verb : data->likes, 
+attachment : data->url, data->profileurl,data->iconurl,

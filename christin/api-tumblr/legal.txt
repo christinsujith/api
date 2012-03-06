@@ -1,0 +1,6 @@
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+
+Tumblr class library taken from the following url
+
+http://groups.google.com/group/tumblr-api/browse_thread/thread/83a49e2015afb271

@@ -1,0 +1,32 @@
+    download the foursquare library from https://developer.foursquare.com/resources/libraries
+
+    extract the library to your root folder
+
+    the libraray class file is in the folder 'src' and the remaining 3 scripts are in the folder 'examples'
+
+    firstly we need to https://foursquare.com/oauth/ and here we should register our application by creating a new consumer
+
+    once its created, it gives us the Client ID and Client SECRET code. this are important which we need in the scripts
+
+    and most importantly we need to generate the authoristaion token which helps us retrieving the content from foursquare, for doing this we can run the script tokenrequest.php. which gives us the token code. and we need to pass that in the respective variable in the code.
+
+Retrieving the User deatails:
+
+    in the script users.php we need to pass the client id and client secret code in the respective variables
+
+    once its set we can run the script and its askd us to search for a user.
+
+    we can type a user name and search there , and its results in giving the related usernames of the word we searched.
+
+    it gives us the useID, firstname, lastname, photo, gender, home city of the users
+
+Retrieving the Venue deatails:
+
+    in the script venue.php we need to pass the client id and client secret code in the respective variables
+
+    once its set we can run the script and its askd us to search for a venue.
+
+    we can retrieve the venue details of a venue by searching in it.
+
+    it gives us the venuId, contact details, locaton deatils of the respective venue as we search.
+

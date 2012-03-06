@@ -1,0 +1,10 @@
+Term of use:
+------------
+
+http://www.flickr.com/services/api/tos/
+
+
+Flickr Code:
+-----------
+
+http://code.google.com/p/phpflickr/

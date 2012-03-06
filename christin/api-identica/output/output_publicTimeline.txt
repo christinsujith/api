@@ -1,0 +1,2849 @@
+stdClass Object
+(
+    [generator] => StatusNet 1.0.1
+    [title] => Identi.ca public timeline
+    [totalItems] => 20
+    [items] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [actor] => stdClass Object
+                        (
+                            [displayName] => luxfashionsw
+                            [id] => http://identi.ca/user/617495
+                            [avatarLinks] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => https://secure.gravatar.com/avatar.php?gravatar_id=453361631b6553d1c51d36c1002ec7d8&default=http%3A%2F%2Ftheme1.status.net%2Fneo%2Fdefault-avatar-profile.png&size=96
+                                            [rel] => avatar
+                                            [width] => 96
+                                            [height] => 96
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [url] => https://secure.gravatar.com/avatar.php?gravatar_id=453361631b6553d1c51d36c1002ec7d8&default=http%3A%2F%2Ftheme1.status.net%2Fneo%2Fdefault-avatar-stream.png&size=48
+                                            [rel] => avatar
+                                            [width] => 48
+                                            [height] => 48
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [url] => https://secure.gravatar.com/avatar.php?gravatar_id=453361631b6553d1c51d36c1002ec7d8&default=http%3A%2F%2Ftheme1.status.net%2Fneo%2Fdefault-avatar-mini.png&size=24
+                                            [rel] => avatar
+                                            [width] => 24
+                                            [height] => 24
+                                        )
+
+                                )
+
+                            [image] => stdClass Object
+                                (
+                                    [url] => https://secure.gravatar.com/avatar.php?gravatar_id=453361631b6553d1c51d36c1002ec7d8&default=http%3A%2F%2Ftheme1.status.net%2Fneo%2Fdefault-avatar-profile.png&size=96
+                                    [rel] => avatar
+                                    [width] => 96
+                                    [height] => 96
+                                )
+
+                            [objectType] => person
+                            [url] => http://identi.ca/user/617495
+                            [statusnet:profile_info] => stdClass Object
+                                (
+                                    [local_id] => 617495
+                                )
+
+                            [geopoint] => stdClass Object
+                                (
+                                    [type] => Point
+                                    [coordinates] => Array
+                                        (
+                                            [0] => 34.05223
+                                            [1] => -118.24368
+                                        )
+
+                                )
+
+                            [contact] => stdClass Object
+                                (
+                                    [preferredUsername] => luxfashionsw
+                                    [displayName] => luxfashionsw
+                                    [addresses] => stdClass Object
+                                        (
+                                            [formatted] => los angeles
+                                        )
+
+                                )
+
+                        )
+
+                    [content] => http://identi.ca/url/67488669 Loris Azzaro Dre
+                    [id] => http://identi.ca/notice/91436241
+                    [object] => stdClass Object
+                        (
+                            [displayName] => http://identi.ca/url/67488669 Loris Azzaro Dre
+                            [id] => http://identi.ca/notice/91436241
+                            [objectType] => note
+                            [content] => http://identi.ca/url/67488669 Loris Azzaro Dre
+                            [url] => http://identi.ca/notice/91436241
+                        )
+
+                    [geopoint] => stdClass Object
+                        (
+                            [type] => Point
+                            [coordinates] => Array
+                                (
+                                    [0] => 34.05223
+                                    [1] => -118.24368
+                                )
+
+                            [deprecated] => 1
+                        )
+
+                    [location] => stdClass Object
+                        (
+                            [objectType] => place
+                            [position] => +34.05223-118.24368/
+                            [lat] => 34.05223
+                            [lon] => -118.24368
+                            [displayName] => Los Angeles, California, United States
+                            [url] => http://www.geonames.org/5368361
+                        )
+
+                    [context] => stdClass Object
+                        (
+                            [conversation] => http://identi.ca/conversation/91187017
+                        )
+
+                    [published] => 2012-03-02T13:18:44+00:00
+                    [provider] => stdClass Object
+                        (
+                            [objectType] => service
+                            [displayName] => Identi.ca
+                            [url] => http://identi.ca/
+                        )
+
+                    [title] => http://identi.ca/url/67488669 Loris Azzaro Dre
+                    [verb] => post
+                    [url] => http://identi.ca/notice/91436241
+                    [statusnet:notice_info] => stdClass Object
+                        (
+                            [local_id] => 91436241
+                            [source] => OnlyWire
+                            [source_link] => http://onlywire.com
+                        )
+
+                )
+
+            [1] => stdClass Object
+                (
+                    [actor] => stdClass Object
+                        (
+                            [displayName] => fzerorubigd
+                            [id] => http://identi.ca/user/217425
+                            [avatarLinks] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/217425-150-20120221211956.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 150
+                                            [height] => 150
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/217425-96-20120221211957.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 96
+                                            [height] => 96
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/217425-48-20120221211957.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 48
+                                            [height] => 48
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/217425-24-20120221211957.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 24
+                                            [height] => 24
+                                        )
+
+                                )
+
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://avatar3.status.net/i/identica/217425-96-20120221211957.jpeg
+                                    [rel] => avatar
+                                    [type] => image/jpeg
+                                    [width] => 96
+                                    [height] => 96
+                                )
+
+                            [objectType] => person
+                            [url] => http://identi.ca/user/217425
+                            [statusnet:profile_info] => stdClass Object
+                                (
+                                    [local_id] => 217425
+                                )
+
+                            [contact] => stdClass Object
+                                (
+                                    [preferredUsername] => fzerorubigd
+                                    [displayName] => fzerorubigd
+                                    [note] => F � zero � ru �  big d
+                                )
+
+                        )
+
+                    [content] => ایده براندازی، شاید الان ایده خوبی باشه، ولی یه زمان نمی ارزید. یه انقلاب دیگه ، یه عالمه قربانی،‌یه زمان امید بود به اصلاح، الان نیست
+                    [id] => http://identi.ca/notice/91436234
+                    [object] => stdClass Object
+                        (
+                            [displayName] => ایده براندازی، شاید الان ایده خوبی باشه، ولی یه زمان نمی ارزید. یه انقلاب دیگه ، یه عالمه قربانی،‌یه زمان امید بود به اصلاح، الان نیست
+                            [id] => http://identi.ca/notice/91436234
+                            [objectType] => comment
+                            [content] => ایده براندازی، شاید الان ایده خوبی باشه، ولی یه زمان نمی ارزید. یه انقلاب دیگه ، یه عالمه قربانی،‌یه زمان امید بود به اصلاح، الان نیست
+                            [url] => http://identi.ca/notice/91436234
+                        )
+
+                    [to] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [objectType] => person
+                                    [id] => http://identi.ca/user/39217
+                                    [url] => http://identi.ca/user/39217
+                                )
+
+                        )
+
+                    [context] => stdClass Object
+                        (
+                            [inReplyTo] => stdClass Object
+                                (
+                                    [objectType] => note
+                                    [id] => http://identi.ca/notice/91422246
+                                    [url] => http://identi.ca/notice/91422246
+                                )
+
+                            [conversation] => http://identi.ca/conversation/91173393
+                        )
+
+                    [published] => 2012-03-02T13:18:26+00:00
+                    [provider] => stdClass Object
+                        (
+                            [objectType] => service
+                            [displayName] => Identi.ca
+                            [url] => http://identi.ca/
+                        )
+
+                    [title] => ایده براندازی، شاید الان ایده خوبی باشه، ولی یه زمان نمی ارزید. یه انقلاب دیگه ، یه عالمه قربانی،‌یه زمان امید بود به اصلاح، الان نیست
+                    [verb] => post
+                    [url] => http://identi.ca/notice/91436234
+                    [statusnet:notice_info] => stdClass Object
+                        (
+                            [local_id] => 91436234
+                            [source] => web
+                        )
+
+                )
+
+            [2] => stdClass Object
+                (
+                    [actor] => stdClass Object
+                        (
+                            [displayName] => Earl Netwal
+                            [id] => http://identi.ca/user/630638
+                            [avatarLinks] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/630638-100-20120302130640.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 100
+                                            [height] => 100
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/630638-96-20120302130640.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 96
+                                            [height] => 96
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/630638-48-20120302130640.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 48
+                                            [height] => 48
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/630638-24-20120302130640.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 24
+                                            [height] => 24
+                                        )
+
+                                )
+
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://avatar3.status.net/i/identica/630638-96-20120302130640.jpeg
+                                    [rel] => avatar
+                                    [type] => image/jpeg
+                                    [width] => 96
+                                    [height] => 96
+                                )
+
+                            [objectType] => person
+                            [url] => http://identi.ca/user/630638
+                            [statusnet:profile_info] => stdClass Object
+                                (
+                                    [local_id] => 630638
+                                )
+
+                            [geopoint] => stdClass Object
+                                (
+                                    [type] => Point
+                                    [coordinates] => Array
+                                        (
+                                            [0] => 44.97997
+                                            [1] => -93.26384
+                                        )
+
+                                )
+
+                            [contact] => stdClass Object
+                                (
+                                    [preferredUsername] => minneapolisinternetmarketingconsultant
+                                    [displayName] => Earl Netwal
+                                    [note] => Marketing Consultant Focusing on Helping Client Become more finadable by Customers online using multiple modalities
+                                    [addresses] => stdClass Object
+                                        (
+                                            [formatted] => Minneapolis, MN
+                                        )
+
+                                    [urls] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [type] => homepage
+                                                    [value] => http://MinnepolisInternetMarketingConsultant.com
+                                                    [primary] => true
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [content] => Water Damage Kansas City http://www.youtube.com/watch?v=y0oyhvqLprs New Client - Getting his YouTube Video to Rank on 1st page Google
+                    [id] => http://identi.ca/notice/91436185
+                    [object] => stdClass Object
+                        (
+                            [displayName] => Water Damage Kansas City http://www.youtube.com/watch?v=y0oyhvqLprs New Client - Getting his YouTube Video to Rank on 1st page Google
+                            [id] => http://identi.ca/notice/91436185
+                            [objectType] => note
+                            [content] => Water Damage Kansas City http://www.youtube.com/watch?v=y0oyhvqLprs New Client - Getting his YouTube Video to Rank on 1st page Google
+                            [url] => http://identi.ca/notice/91436185
+                            [attachments] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [id] => http://www.youtube.com/watch?v=y0oyhvqLprs
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [mediaLink] => stdClass Object
+                                                (
+                                                    [url] => http://www.youtube.com/watch?v=y0oyhvqLprs
+                                                    [type] => text/html; charset=utf-8
+                                                )
+
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [displayName] => Water Damage Kansas City
+                                        )
+
+                                )
+
+                        )
+
+                    [geopoint] => stdClass Object
+                        (
+                            [type] => Point
+                            [coordinates] => Array
+                                (
+                                    [0] => 44.97997
+                                    [1] => -93.26384
+                                )
+
+                            [deprecated] => 1
+                        )
+
+                    [location] => stdClass Object
+                        (
+                            [objectType] => place
+                            [position] => +44.97997-93.26384/
+                            [lat] => 44.97997
+                            [lon] => -93.26384
+                            [displayName] => Minneapolis, Minnesota, United States
+                            [url] => http://www.geonames.org/5037649
+                        )
+
+                    [context] => stdClass Object
+                        (
+                            [conversation] => http://identi.ca/conversation/91186963
+                        )
+
+                    [published] => 2012-03-02T13:17:53+00:00
+                    [provider] => stdClass Object
+                        (
+                            [objectType] => service
+                            [displayName] => Identi.ca
+                            [url] => http://identi.ca/
+                        )
+
+                    [title] => Water Damage Kansas City http://www.youtube.com/watch?v=y0oyhvqLprs New Client - Getting his YouTube Video to Rank on 1st page Google
+                    [verb] => post
+                    [url] => http://identi.ca/notice/91436185
+                    [statusnet:notice_info] => stdClass Object
+                        (
+                            [local_id] => 91436185
+                            [source] => web
+                        )
+
+                )
+
+            [3] => stdClass Object
+                (
+                    [actor] => stdClass Object
+                        (
+                            [displayName] => Adam John Trickett
+                            [id] => http://identi.ca/user/46889
+                            [avatarLinks] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/46889-82-20090402193201.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 82
+                                            [height] => 82
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/46889-96-20090402193201.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 96
+                                            [height] => 96
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/46889-48-20090402193201.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 48
+                                            [height] => 48
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/46889-24-20090402193201.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 24
+                                            [height] => 24
+                                        )
+
+                                )
+
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://avatar3.status.net/i/identica/46889-96-20090402193201.png
+                                    [rel] => avatar
+                                    [type] => image/png
+                                    [width] => 96
+                                    [height] => 96
+                                )
+
+                            [objectType] => person
+                            [url] => http://identi.ca/user/46889
+                            [statusnet:profile_info] => stdClass Object
+                                (
+                                    [local_id] => 46889
+                                )
+
+                            [contact] => stdClass Object
+                                (
+                                    [preferredUsername] => ajt
+                                    [displayName] => Adam John Trickett
+                                    [note] => Perl on Linux hacker
+                                    [addresses] => stdClass Object
+                                        (
+                                            [formatted] => Hampshire, UK
+                                        )
+
+                                    [urls] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [type] => homepage
+                                                    [value] => http://www.iredale.net/
+                                                    [primary] => true
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [content] => Going to collect a thermal imaging camera today, so I can do another batch of houses in the village this month.
+                    [id] => http://identi.ca/notice/91436133
+                    [object] => stdClass Object
+                        (
+                            [displayName] => Going to collect a thermal imaging camera today, so I can do another batch of houses in the village this month.
+                            [id] => http://identi.ca/notice/91436133
+                            [objectType] => note
+                            [content] => Going to collect a thermal imaging camera today, so I can do another batch of houses in the village this month.
+                            [url] => http://identi.ca/notice/91436133
+                        )
+
+                    [context] => stdClass Object
+                        (
+                            [conversation] => http://identi.ca/conversation/91186912
+                        )
+
+                    [published] => 2012-03-02T13:17:12+00:00
+                    [provider] => stdClass Object
+                        (
+                            [objectType] => service
+                            [displayName] => Identi.ca
+                            [url] => http://identi.ca/
+                        )
+
+                    [title] => Going to collect a thermal imaging camera today, so I can do another batch of houses in the village this month.
+                    [verb] => post
+                    [url] => http://identi.ca/notice/91436133
+                    [statusnet:notice_info] => stdClass Object
+                        (
+                            [local_id] => 91436133
+                            [source] => Net::Twitter
+                            [source_link] => http://search.cpan.org/dist/Net-Twitter/
+                        )
+
+                )
+
+            [4] => stdClass Object
+                (
+                    [actor] => stdClass Object
+                        (
+                            [displayName] => Lutz H.
+                            [id] => http://identi.ca/user/142916
+                            [avatarLinks] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/142916-300-20110603145622.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 300
+                                            [height] => 300
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/142916-96-20110603145622.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 96
+                                            [height] => 96
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/142916-48-20110603145622.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 48
+                                            [height] => 48
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/142916-24-20110603145622.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 24
+                                            [height] => 24
+                                        )
+
+                                )
+
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://avatar3.status.net/i/identica/142916-96-20110603145622.jpeg
+                                    [rel] => avatar
+                                    [type] => image/jpeg
+                                    [width] => 96
+                                    [height] => 96
+                                )
+
+                            [objectType] => person
+                            [url] => http://identi.ca/user/142916
+                            [statusnet:profile_info] => stdClass Object
+                                (
+                                    [local_id] => 142916
+                                )
+
+                            [geopoint] => stdClass Object
+                                (
+                                    [type] => Point
+                                    [coordinates] => Array
+                                        (
+                                            [0] => 51.33962
+                                            [1] => 12.37129
+                                        )
+
+                                )
+
+                            [contact] => stdClass Object
+                                (
+                                    [preferredUsername] => fraulutz
+                                    [displayName] => Lutz H.
+                                    [note] => Freies Radio, bezahltes Programmieren
+                                    [addresses] => stdClass Object
+                                        (
+                                            [formatted] => Leipzig
+                                        )
+
+                                    [urls] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [type] => homepage
+                                                    [value] => http://rostbot.posterous.net
+                                                    [primary] => true
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [content] => Mal wieder etwas Musik zum Träumen... Gregor Samsa - Pseudonyms http://identi.ca/url/67488620
+                    [id] => http://identi.ca/notice/91436187
+                    [object] => stdClass Object
+                        (
+                            [displayName] => Mal wieder etwas Musik zum Träumen... Gregor Samsa - Pseudonyms http://identi.ca/url/67488620
+                            [id] => http://identi.ca/notice/91436187
+                            [objectType] => note
+                            [content] => Mal wieder etwas Musik zum Träumen... Gregor Samsa - Pseudonyms http://identi.ca/url/67488620
+                            [url] => http://identi.ca/notice/91436187
+                            [attachments] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [id] => http://www.youtube.com/watch?v=7IulAE9BGoc
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [mediaLink] => stdClass Object
+                                                (
+                                                    [url] => http://www.youtube.com/watch?v=7IulAE9BGoc
+                                                    [type] => text/html; charset=utf-8
+                                                )
+
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [displayName] => Pseudonyms - Gregor Samsa
+                                        )
+
+                                )
+
+                        )
+
+                    [context] => stdClass Object
+                        (
+                            [conversation] => http://identi.ca/conversation/91186965
+                        )
+
+                    [published] => 2012-03-02T13:16:57+00:00
+                    [provider] => stdClass Object
+                        (
+                            [objectType] => service
+                            [displayName] => Identi.ca
+                            [url] => http://identi.ca/
+                        )
+
+                    [title] => Mal wieder etwas Musik zum Träumen... Gregor Samsa - Pseudonyms http://identi.ca/url/67488620
+                    [verb] => post
+                    [url] => http://identi.ca/notice/91436187
+                    [statusnet:notice_info] => stdClass Object
+                        (
+                            [local_id] => 91436187
+                            [source] => web
+                        )
+
+                )
+
+            [5] => stdClass Object
+                (
+                    [actor] => stdClass Object
+                        (
+                            [displayName] => Adam John Trickett
+                            [id] => http://identi.ca/user/46889
+                            [avatarLinks] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/46889-82-20090402193201.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 82
+                                            [height] => 82
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/46889-96-20090402193201.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 96
+                                            [height] => 96
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/46889-48-20090402193201.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 48
+                                            [height] => 48
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/46889-24-20090402193201.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 24
+                                            [height] => 24
+                                        )
+
+                                )
+
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://avatar3.status.net/i/identica/46889-96-20090402193201.png
+                                    [rel] => avatar
+                                    [type] => image/png
+                                    [width] => 96
+                                    [height] => 96
+                                )
+
+                            [objectType] => person
+                            [url] => http://identi.ca/user/46889
+                            [statusnet:profile_info] => stdClass Object
+                                (
+                                    [local_id] => 46889
+                                )
+
+                            [contact] => stdClass Object
+                                (
+                                    [preferredUsername] => ajt
+                                    [displayName] => Adam John Trickett
+                                    [note] => Perl on Linux hacker
+                                    [addresses] => stdClass Object
+                                        (
+                                            [formatted] => Hampshire, UK
+                                        )
+
+                                    [urls] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [type] => homepage
+                                                    [value] => http://www.iredale.net/
+                                                    [primary] => true
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [content] => Going to collect a thermal imaging camera tomorrow, so I can do another batch of houses in the village this month.
+                    [id] => http://identi.ca/notice/91436127
+                    [object] => stdClass Object
+                        (
+                            [displayName] => Going to collect a thermal imaging camera tomorrow, so I can do another batch of houses in the village this month.
+                            [id] => http://identi.ca/notice/91436127
+                            [objectType] => note
+                            [content] => Going to collect a thermal imaging camera tomorrow, so I can do another batch of houses in the village this month.
+                            [url] => http://identi.ca/notice/91436127
+                        )
+
+                    [context] => stdClass Object
+                        (
+                            [conversation] => http://identi.ca/conversation/91186906
+                        )
+
+                    [published] => 2012-03-02T13:16:56+00:00
+                    [provider] => stdClass Object
+                        (
+                            [objectType] => service
+                            [displayName] => Identi.ca
+                            [url] => http://identi.ca/
+                        )
+
+                    [title] => Going to collect a thermal imaging camera tomorrow, so I can do another batch of houses in the village this month.
+                    [verb] => post
+                    [url] => http://identi.ca/notice/91436127
+                    [statusnet:notice_info] => stdClass Object
+                        (
+                            [local_id] => 91436127
+                            [source] => Net::Twitter
+                            [source_link] => http://search.cpan.org/dist/Net-Twitter/
+                        )
+
+                )
+
+            [6] => stdClass Object
+                (
+                    [actor] => stdClass Object
+                        (
+                            [displayName] => Mikael
+                            [id] => http://identi.ca/user/409553
+                            [avatarLinks] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/409553-207-20110905093504.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 207
+                                            [height] => 207
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/409553-96-20110905093504.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 96
+                                            [height] => 96
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/409553-48-20110905093505.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 48
+                                            [height] => 48
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/409553-24-20110905093505.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 24
+                                            [height] => 24
+                                        )
+
+                                )
+
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://avatar3.status.net/i/identica/409553-96-20110905093504.jpeg
+                                    [rel] => avatar
+                                    [type] => image/jpeg
+                                    [width] => 96
+                                    [height] => 96
+                                )
+
+                            [objectType] => person
+                            [url] => http://identi.ca/user/409553
+                            [statusnet:profile_info] => stdClass Object
+                                (
+                                    [local_id] => 409553
+                                )
+
+                            [geopoint] => stdClass Object
+                                (
+                                    [type] => Point
+                                    [coordinates] => Array
+                                        (
+                                            [0] => 62
+                                            [1] => 15
+                                        )
+
+                                )
+
+                            [contact] => stdClass Object
+                                (
+                                    [preferredUsername] => inscius
+                                    [displayName] => Mikael
+                                    [note] => Ignorance is not bliss, it just feels that way. 
+My name is Ignoramus, but you can call me Mikael.
+                                    [addresses] => stdClass Object
+                                        (
+                                            [formatted] => Sweden
+                                        )
+
+                                    [urls] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [type] => homepage
+                                                    [value] => http://inscius.se
+                                                    [primary] => true
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [content] => @satipera they gonna install another dictatorship that is friendly to #BP and #Total
+                    [id] => http://identi.ca/notice/91436179
+                    [object] => stdClass Object
+                        (
+                            [displayName] => @satipera they gonna install another dictatorship that is friendly to #BP and #Total
+                            [id] => http://identi.ca/notice/91436179
+                            [objectType] => comment
+                            [content] => @satipera they gonna install another dictatorship that is friendly to #BP and #Total
+                            [url] => http://identi.ca/notice/91436179
+                            [tags] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [objectType] => http://activityschema.org/object/hashtag
+                                            [displayName] => bp
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [objectType] => http://activityschema.org/object/hashtag
+                                            [displayName] => total
+                                        )
+
+                                )
+
+                        )
+
+                    [to] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [objectType] => person
+                                    [id] => http://identi.ca/user/100003
+                                    [url] => http://identi.ca/user/100003
+                                )
+
+                        )
+
+                    [context] => stdClass Object
+                        (
+                            [inReplyTo] => stdClass Object
+                                (
+                                    [objectType] => note
+                                    [id] => http://identi.ca/notice/91435885
+                                    [url] => http://identi.ca/notice/91435885
+                                )
+
+                            [conversation] => http://identi.ca/conversation/91186679
+                        )
+
+                    [published] => 2012-03-02T13:16:49+00:00
+                    [provider] => stdClass Object
+                        (
+                            [objectType] => service
+                            [displayName] => Identi.ca
+                            [url] => http://identi.ca/
+                        )
+
+                    [title] => @satipera they gonna install another dictatorship that is friendly to #BP and #Total
+                    [verb] => post
+                    [url] => http://identi.ca/notice/91436179
+                    [statusnet:notice_info] => stdClass Object
+                        (
+                            [local_id] => 91436179
+                            [source] => Choqok
+                            [source_link] => http://choqok.gnufolks.org/
+                        )
+
+                )
+
+            [7] => stdClass Object
+                (
+                    [actor] => stdClass Object
+                        (
+                            [displayName] => Thorsten Leemhuis
+                            [id] => http://identi.ca/user/38666
+                            [avatarLinks] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/38666-446-20090206182128.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 446
+                                            [height] => 446
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/38666-96-20090206182128.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 96
+                                            [height] => 96
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/38666-48-20090206182128.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 48
+                                            [height] => 48
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/38666-24-20090206182128.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 24
+                                            [height] => 24
+                                        )
+
+                                )
+
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://avatar3.status.net/i/identica/38666-96-20090206182128.jpeg
+                                    [rel] => avatar
+                                    [type] => image/jpeg
+                                    [width] => 96
+                                    [height] => 96
+                                )
+
+                            [objectType] => person
+                            [url] => http://identi.ca/user/38666
+                            [statusnet:profile_info] => stdClass Object
+                                (
+                                    [local_id] => 38666
+                                )
+
+                            [contact] => stdClass Object
+                                (
+                                    [preferredUsername] => knurd666
+                                    [displayName] => Thorsten Leemhuis
+                                    [note] => Fedora and RPM Fusion contributor
+                                    [addresses] => stdClass Object
+                                        (
+                                            [formatted] => Hannover, Germany
+                                        )
+
+                                )
+
+                        )
+
+                    [content] => RT @windtaenzer: Wir suchen einen Webprogrammierer, perfekt wäre ein Perl Muttersprachler: http://t.co/8ZfoRqFJ #heise #perl
+                    [id] => http://identi.ca/notice/91436115
+                    [object] => stdClass Object
+                        (
+                            [displayName] => RT @windtaenzer: Wir suchen einen Webprogrammierer, perfekt wäre ein Perl Muttersprachler: http://t.co/8ZfoRqFJ #heise #perl
+                            [id] => http://identi.ca/notice/91436115
+                            [objectType] => note
+                            [content] => RT @windtaenzer: Wir suchen einen Webprogrammierer, perfekt wäre ein Perl Muttersprachler: http://t.co/8ZfoRqFJ #heise #perl
+                            [url] => http://identi.ca/notice/91436115
+                            [tags] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [objectType] => http://activityschema.org/object/hashtag
+                                            [displayName] => heise
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [objectType] => http://activityschema.org/object/hashtag
+                                            [displayName] => perl
+                                        )
+
+                                )
+
+                        )
+
+                    [context] => stdClass Object
+                        (
+                            [conversation] => http://identi.ca/conversation/91186896
+                        )
+
+                    [published] => 2012-03-02T13:16:34+00:00
+                    [provider] => stdClass Object
+                        (
+                            [objectType] => service
+                            [displayName] => Identi.ca
+                            [url] => http://identi.ca/
+                        )
+
+                    [title] => RT @windtaenzer: Wir suchen einen Webprogrammierer, perfekt wäre ein Perl Muttersprachler: http://t.co/8ZfoRqFJ #heise #perl
+                    [verb] => post
+                    [url] => http://identi.ca/notice/91436115
+                    [statusnet:notice_info] => stdClass Object
+                        (
+                            [local_id] => 91436115
+                            [source] => web
+                        )
+
+                )
+
+            [8] => stdClass Object
+                (
+                    [actor] => stdClass Object
+                        (
+                            [displayName] => Morten Juhl-Johansen Zölde-Fejér
+                            [id] => http://identi.ca/user/33264
+                            [avatarLinks] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/33264-80-20100902072740.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 80
+                                            [height] => 80
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/33264-96-20100902072740.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 96
+                                            [height] => 96
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/33264-48-20100902072740.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 48
+                                            [height] => 48
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/33264-24-20100902072740.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 24
+                                            [height] => 24
+                                        )
+
+                                )
+
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://avatar3.status.net/i/identica/33264-96-20100902072740.png
+                                    [rel] => avatar
+                                    [type] => image/png
+                                    [width] => 96
+                                    [height] => 96
+                                )
+
+                            [objectType] => person
+                            [url] => http://identi.ca/user/33264
+                            [statusnet:profile_info] => stdClass Object
+                                (
+                                    [local_id] => 33264
+                                )
+
+                            [geopoint] => stdClass Object
+                                (
+                                    [type] => Point
+                                    [coordinates] => Array
+                                        (
+                                            [0] => 55.39594
+                                            [1] => 10.38831
+                                        )
+
+                                )
+
+                            [contact] => stdClass Object
+                                (
+                                    [preferredUsername] => mjjzf
+                                    [displayName] => Morten Juhl-Johansen Zölde-Fejér
+                                    [note] => Free software and culture-loving OfficeGeek, linguist, teacher, husband, father, fencer, writer, reader, eater and drinker.
+                                    [addresses] => stdClass Object
+                                        (
+                                            [formatted] => Odense, Denmark
+                                        )
+
+                                    [urls] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [type] => homepage
+                                                    [value] => http://writtenandread.net
+                                                    [primary] => true
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [content] => @cyberkiller As long as they keep it to CD size, I am cool with it.
+                    [id] => http://identi.ca/notice/91436126
+                    [object] => stdClass Object
+                        (
+                            [displayName] => @cyberkiller As long as they keep it to CD size, I am cool with it.
+                            [id] => http://identi.ca/notice/91436126
+                            [objectType] => comment
+                            [content] => @cyberkiller As long as they keep it to CD size, I am cool with it.
+                            [url] => http://identi.ca/notice/91436126
+                        )
+
+                    [geopoint] => stdClass Object
+                        (
+                            [type] => Point
+                            [coordinates] => Array
+                                (
+                                    [0] => 55.39594
+                                    [1] => 10.38831
+                                )
+
+                            [deprecated] => 1
+                        )
+
+                    [location] => stdClass Object
+                        (
+                            [objectType] => place
+                            [position] => +55.39594+10.38831/
+                            [lat] => 55.39594
+                            [lon] => 10.38831
+                            [displayName] => Odense, South Denmark, Denmark
+                            [url] => http://www.geonames.org/2615876
+                        )
+
+                    [to] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [objectType] => person
+                                    [id] => http://identi.ca/user/73902
+                                    [url] => http://identi.ca/user/73902
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [objectType] => person
+                                    [id] => http://identi.ca/group/57/id
+                                    [url] => http://identi.ca/group/57/id
+                                )
+
+                        )
+
+                    [context] => stdClass Object
+                        (
+                            [inReplyTo] => stdClass Object
+                                (
+                                    [objectType] => note
+                                    [id] => http://identi.ca/notice/91421983
+                                    [url] => http://identi.ca/notice/91421983
+                                )
+
+                            [conversation] => http://identi.ca/conversation/91172006
+                        )
+
+                    [published] => 2012-03-02T13:16:26+00:00
+                    [provider] => stdClass Object
+                        (
+                            [objectType] => service
+                            [displayName] => Identi.ca
+                            [url] => http://identi.ca/
+                        )
+
+                    [title] => @cyberkiller As long as they keep it to CD size, I am cool with it.
+                    [verb] => post
+                    [url] => http://identi.ca/notice/91436126
+                    [statusnet:notice_info] => stdClass Object
+                        (
+                            [local_id] => 91436126
+                            [source] => IdentiCurse
+                            [source_link] => http://identicurse.net/
+                        )
+
+                )
+
+            [9] => stdClass Object
+                (
+                    [actor] => stdClass Object
+                        (
+                            [displayName] => zital
+                            [id] => http://identi.ca/user/166842
+                            [avatarLinks] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/166842-200-20110926114732.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 200
+                                            [height] => 200
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/166842-96-20110926114732.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 96
+                                            [height] => 96
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/166842-48-20110926114732.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 48
+                                            [height] => 48
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/166842-24-20110926114732.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 24
+                                            [height] => 24
+                                        )
+
+                                )
+
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://avatar3.status.net/i/identica/166842-96-20110926114732.jpeg
+                                    [rel] => avatar
+                                    [type] => image/jpeg
+                                    [width] => 96
+                                    [height] => 96
+                                )
+
+                            [objectType] => person
+                            [url] => http://identi.ca/user/166842
+                            [statusnet:profile_info] => stdClass Object
+                                (
+                                    [local_id] => 166842
+                                )
+
+                            [contact] => stdClass Object
+                                (
+                                    [preferredUsername] => zital
+                                    [displayName] => zital
+                                    [note] => gehidxen bat:
+gnu/linux, software askie, web garapena, paridek, euskerie, troleuek eta skate
+                                    [addresses] => stdClass Object
+                                        (
+                                            [formatted] => Bermio EH-ko 8. probintzidxe
+                                        )
+
+                                    [urls] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [type] => homepage
+                                                    [value] => http://zital.no-ip.org
+                                                    [primary] => true
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [content] => Five Finger Death Punch "Back For More" #metal http://is.gd/A9oJlx /cc @g0re_k @perikobermio
+                    [id] => http://identi.ca/notice/91436113
+                    [object] => stdClass Object
+                        (
+                            [displayName] => Five Finger Death Punch "Back For More" #metal http://is.gd/A9oJlx /cc @g0re_k @perikobermio
+                            [id] => http://identi.ca/notice/91436113
+                            [objectType] => note
+                            [content] => Five Finger Death Punch "Back For More" #metal http://is.gd/A9oJlx /cc @g0re_k @perikobermio
+                            [url] => http://identi.ca/notice/91436113
+                            [attachments] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [id] => http://www.youtube.com/watch?v=3Dxe1bvjqFo
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [mediaLink] => stdClass Object
+                                                (
+                                                    [url] => http://www.youtube.com/watch?v=3Dxe1bvjqFo
+                                                    [type] => text/html; charset=utf-8
+                                                )
+
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [displayName] => Five Finger Death Punch- Back For More Lyrics
+                                        )
+
+                                )
+
+                            [tags] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [objectType] => http://activityschema.org/object/hashtag
+                                            [displayName] => metal
+                                        )
+
+                                )
+
+                        )
+
+                    [context] => stdClass Object
+                        (
+                            [conversation] => http://identi.ca/conversation/91186894
+                        )
+
+                    [published] => 2012-03-02T13:16:04+00:00
+                    [provider] => stdClass Object
+                        (
+                            [objectType] => service
+                            [displayName] => Identi.ca
+                            [url] => http://identi.ca/
+                        )
+
+                    [title] => Five Finger Death Punch "Back For More" #metal http://is.gd/A9oJlx /cc @g0re_k @perikobermio
+                    [verb] => post
+                    [url] => http://identi.ca/notice/91436113
+                    [statusnet:notice_info] => stdClass Object
+                        (
+                            [local_id] => 91436113
+                            [source] => Choqok
+                            [source_link] => http://choqok.gnufolks.org/
+                        )
+
+                )
+
+            [10] => stdClass Object
+                (
+                    [actor] => stdClass Object
+                        (
+                            [displayName] => Thorsten Leemhuis
+                            [id] => http://identi.ca/user/39242
+                            [avatarLinks] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/39242-446-20110415140801.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 446
+                                            [height] => 446
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/39242-96-20110415140802.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 96
+                                            [height] => 96
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/39242-48-20110415140802.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 48
+                                            [height] => 48
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/39242-24-20110415140802.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 24
+                                            [height] => 24
+                                        )
+
+                                )
+
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://avatar3.status.net/i/identica/39242-96-20110415140802.jpeg
+                                    [rel] => avatar
+                                    [type] => image/jpeg
+                                    [width] => 96
+                                    [height] => 96
+                                )
+
+                            [objectType] => person
+                            [url] => http://identi.ca/user/39242
+                            [statusnet:profile_info] => stdClass Object
+                                (
+                                    [local_id] => 39242
+                                )
+
+                            [geopoint] => stdClass Object
+                                (
+                                    [type] => Point
+                                    [coordinates] => Array
+                                        (
+                                            [0] => 52.3705163
+                                            [1] => 9.7332215
+                                        )
+
+                                )
+
+                            [contact] => stdClass Object
+                                (
+                                    [preferredUsername] => thleemhuis
+                                    [displayName] => Thorsten Leemhuis
+                                    [note] => Schreiberling, Linux-Kernel-Geek und geduldeter Untermieter bei drei Katzen ;-)
+                                    [addresses] => stdClass Object
+                                        (
+                                            [formatted] => Hannover, Germany
+                                        )
+
+                                )
+
+                        )
+
+                    [content] => RT @windtaenzer: Wir suchen einen Webprogrammierer, perfekt wäre ein Perl Muttersprachler: http://t.co/8ZfoRqFJ #heise #perl
+                    [id] => http://identi.ca/notice/91436101
+                    [object] => stdClass Object
+                        (
+                            [displayName] => RT @windtaenzer: Wir suchen einen Webprogrammierer, perfekt wäre ein Perl Muttersprachler: http://t.co/8ZfoRqFJ #heise #perl
+                            [id] => http://identi.ca/notice/91436101
+                            [objectType] => note
+                            [content] => RT @windtaenzer: Wir suchen einen Webprogrammierer, perfekt wäre ein Perl Muttersprachler: http://t.co/8ZfoRqFJ #heise #perl
+                            [url] => http://identi.ca/notice/91436101
+                            [tags] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [objectType] => http://activityschema.org/object/hashtag
+                                            [displayName] => heise
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [objectType] => http://activityschema.org/object/hashtag
+                                            [displayName] => perl
+                                        )
+
+                                )
+
+                        )
+
+                    [geopoint] => stdClass Object
+                        (
+                            [type] => Point
+                            [coordinates] => Array
+                                (
+                                    [0] => 52.37052
+                                    [1] => 9.73322
+                                )
+
+                            [deprecated] => 1
+                        )
+
+                    [location] => stdClass Object
+                        (
+                            [objectType] => place
+                            [position] => +52.37052+9.73322/
+                            [lat] => 52.37052
+                            [lon] => 9.73322
+                            [displayName] => Hanover, Lower Saxony, Germany
+                            [url] => http://www.geonames.org/2910831
+                        )
+
+                    [context] => stdClass Object
+                        (
+                            [conversation] => http://identi.ca/conversation/91186884
+                        )
+
+                    [published] => 2012-03-02T13:16:02+00:00
+                    [provider] => stdClass Object
+                        (
+                            [objectType] => service
+                            [displayName] => Identi.ca
+                            [url] => http://identi.ca/
+                        )
+
+                    [title] => RT @windtaenzer: Wir suchen einen Webprogrammierer, perfekt wäre ein Perl Muttersprachler: http://t.co/8ZfoRqFJ #heise #perl
+                    [verb] => post
+                    [url] => http://identi.ca/notice/91436101
+                    [statusnet:notice_info] => stdClass Object
+                        (
+                            [local_id] => 91436101
+                            [source] => web
+                        )
+
+                )
+
+            [11] => stdClass Object
+                (
+                    [actor] => stdClass Object
+                        (
+                            [displayName] => Johnny Null
+                            [id] => http://identi.ca/user/301996
+                            [avatarLinks] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/301996-270-20110716184751.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 270
+                                            [height] => 270
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/301996-96-20110716184751.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 96
+                                            [height] => 96
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/301996-48-20110716184751.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 48
+                                            [height] => 48
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/301996-24-20110716184751.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 24
+                                            [height] => 24
+                                        )
+
+                                )
+
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://avatar3.status.net/i/identica/301996-96-20110716184751.png
+                                    [rel] => avatar
+                                    [type] => image/png
+                                    [width] => 96
+                                    [height] => 96
+                                )
+
+                            [objectType] => person
+                            [url] => http://identi.ca/user/301996
+                            [statusnet:profile_info] => stdClass Object
+                                (
+                                    [local_id] => 301996
+                                )
+
+                            [geopoint] => stdClass Object
+                                (
+                                    [type] => Point
+                                    [coordinates] => Array
+                                        (
+                                            [0] => 41.66704
+                                            [1] => -72.66648
+                                        )
+
+                                )
+
+                            [contact] => stdClass Object
+                                (
+                                    [preferredUsername] => johnnynull
+                                    [displayName] => Johnny Null
+                                    [note] => Random jerk doin' stuff.
+                                    [addresses] => stdClass Object
+                                        (
+                                            [formatted] => Connecticut
+                                        )
+
+                                )
+
+                        )
+
+                    [content] => @vanden Huh. And I thought electric knives were pretty high-larious.
+                    [id] => http://identi.ca/notice/91436224
+                    [object] => stdClass Object
+                        (
+                            [displayName] => @vanden Huh. And I thought electric knives were pretty high-larious.
+                            [id] => http://identi.ca/notice/91436224
+                            [objectType] => comment
+                            [content] => @vanden Huh. And I thought electric knives were pretty high-larious.
+                            [url] => http://identi.ca/notice/91436224
+                        )
+
+                    [to] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [objectType] => person
+                                    [id] => http://identi.ca/user/46904
+                                    [url] => http://identi.ca/user/46904
+                                )
+
+                        )
+
+                    [context] => stdClass Object
+                        (
+                            [inReplyTo] => stdClass Object
+                                (
+                                    [objectType] => note
+                                    [id] => http://identi.ca/notice/91434261
+                                    [url] => http://identi.ca/notice/91434261
+                                )
+
+                            [conversation] => http://identi.ca/conversation/91185097
+                        )
+
+                    [published] => 2012-03-02T13:15:33+00:00
+                    [provider] => stdClass Object
+                        (
+                            [objectType] => service
+                            [displayName] => Identi.ca
+                            [url] => http://identi.ca/
+                        )
+
+                    [title] => @vanden Huh. And I thought electric knives were pretty high-larious.
+                    [verb] => post
+                    [url] => http://identi.ca/notice/91436224
+                    [statusnet:notice_info] => stdClass Object
+                        (
+                            [local_id] => 91436224
+                            [source] => Turpial
+                            [source_link] => http://turpial.org.ve/
+                        )
+
+                )
+
+            [12] => stdClass Object
+                (
+                    [actor] => stdClass Object
+                        (
+                            [displayName] => Car Title Loans
+                            [id] => http://identi.ca/user/629320
+                            [avatarLinks] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/629320-53-20120229133049.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 53
+                                            [height] => 53
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/629320-96-20120229133049.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 96
+                                            [height] => 96
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/629320-48-20120229133049.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 48
+                                            [height] => 48
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/629320-24-20120229133049.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 24
+                                            [height] => 24
+                                        )
+
+                                )
+
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://avatar3.status.net/i/identica/629320-96-20120229133049.jpeg
+                                    [rel] => avatar
+                                    [type] => image/jpeg
+                                    [width] => 96
+                                    [height] => 96
+                                )
+
+                            [objectType] => person
+                            [url] => http://identi.ca/user/629320
+                            [statusnet:profile_info] => stdClass Object
+                                (
+                                    [local_id] => 629320
+                                )
+
+                            [contact] => stdClass Object
+                                (
+                                    [preferredUsername] => acartitleloans
+                                    [displayName] => Car Title Loans
+                                    [note] => A Car Title Loan.Com provides great rates on car title loans Apply online or call 1-888-744-8953. or visit http://www.acartitleloan.com
+                                    [addresses] => stdClass Object
+                                        (
+                                            [formatted] => 1625 Palo Alto St., Suite 301 Los Angeles, CA 90026
+                                        )
+
+                                    [urls] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [type] => homepage
+                                                    [value] => http://www.acartitleloan.com
+                                                    [primary] => true
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [content] => http://identi.ca/url/67488569
+                    [id] => http://identi.ca/notice/91436089
+                    [object] => stdClass Object
+                        (
+                            [displayName] => http://identi.ca/url/67488569
+                            [id] => http://identi.ca/notice/91436089
+                            [objectType] => note
+                            [content] => http://identi.ca/url/67488569
+                            [url] => http://identi.ca/notice/91436089
+                        )
+
+                    [context] => stdClass Object
+                        (
+                            [conversation] => http://identi.ca/conversation/91186873
+                        )
+
+                    [published] => 2012-03-02T13:15:32+00:00
+                    [provider] => stdClass Object
+                        (
+                            [objectType] => service
+                            [displayName] => Identi.ca
+                            [url] => http://identi.ca/
+                        )
+
+                    [title] => http://identi.ca/url/67488569
+                    [verb] => post
+                    [url] => http://identi.ca/notice/91436089
+                    [statusnet:notice_info] => stdClass Object
+                        (
+                            [local_id] => 91436089
+                            [source] => web
+                        )
+
+                )
+
+            [13] => stdClass Object
+                (
+                    [actor] => stdClass Object
+                        (
+                            [displayName] => Planet KDE
+                            [id] => http://identi.ca/user/628373
+                            [avatarLinks] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/628373-128-20120227231729.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 128
+                                            [height] => 128
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/628373-96-20120227231729.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 96
+                                            [height] => 96
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/628373-48-20120227231729.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 48
+                                            [height] => 48
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/628373-24-20120227231729.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 24
+                                            [height] => 24
+                                        )
+
+                                )
+
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://avatar3.status.net/i/identica/628373-96-20120227231729.png
+                                    [rel] => avatar
+                                    [type] => image/png
+                                    [width] => 96
+                                    [height] => 96
+                                )
+
+                            [objectType] => person
+                            [url] => http://identi.ca/user/628373
+                            [statusnet:profile_info] => stdClass Object
+                                (
+                                    [local_id] => 628373
+                                )
+
+                            [contact] => stdClass Object
+                                (
+                                    [preferredUsername] => planetkde
+                                    [displayName] => Planet KDE
+                                    [note] => Mirroring updates from Planet KDE
+                                    [urls] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [type] => homepage
+                                                    [value] => http://planetkde.org/
+                                                    [primary] => true
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [content] => Kded appmenu support (part2) http://dlvr.it/1GXT1W !KDE
+                    [id] => http://identi.ca/notice/91436226
+                    [object] => stdClass Object
+                        (
+                            [displayName] => Kded appmenu support (part2) http://dlvr.it/1GXT1W !KDE
+                            [id] => http://identi.ca/notice/91436226
+                            [objectType] => note
+                            [content] => Kded appmenu support (part2) http://dlvr.it/1GXT1W !KDE
+                            [url] => http://identi.ca/notice/91436226
+                        )
+
+                    [to] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [objectType] => person
+                                    [id] => http://identi.ca/group/57/id
+                                    [url] => http://identi.ca/group/57/id
+                                )
+
+                        )
+
+                    [context] => stdClass Object
+                        (
+                            [conversation] => http://identi.ca/conversation/91187003
+                        )
+
+                    [published] => 2012-03-02T13:15:27+00:00
+                    [provider] => stdClass Object
+                        (
+                            [objectType] => service
+                            [displayName] => Identi.ca
+                            [url] => http://identi.ca/
+                        )
+
+                    [title] => Kded appmenu support (part2) http://dlvr.it/1GXT1W !KDE
+                    [verb] => post
+                    [url] => http://identi.ca/notice/91436226
+                    [statusnet:notice_info] => stdClass Object
+                        (
+                            [local_id] => 91436226
+                            [source] => api
+                        )
+
+                )
+
+            [14] => stdClass Object
+                (
+                    [actor] => stdClass Object
+                        (
+                            [displayName] => Hmm
+                            [id] => http://identi.ca/user/375317
+                            [avatarLinks] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/375317-158-20110203004000.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 158
+                                            [height] => 158
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/375317-96-20110203004000.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 96
+                                            [height] => 96
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/375317-48-20110203004000.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 48
+                                            [height] => 48
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/375317-24-20110203004000.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 24
+                                            [height] => 24
+                                        )
+
+                                )
+
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://avatar3.status.net/i/identica/375317-96-20110203004000.jpeg
+                                    [rel] => avatar
+                                    [type] => image/jpeg
+                                    [width] => 96
+                                    [height] => 96
+                                )
+
+                            [objectType] => person
+                            [url] => http://identi.ca/user/375317
+                            [statusnet:profile_info] => stdClass Object
+                                (
+                                    [local_id] => 375317
+                                )
+
+                            [geopoint] => stdClass Object
+                                (
+                                    [type] => Point
+                                    [coordinates] => Array
+                                        (
+                                            [0] => 0
+                                            [1] => 0
+                                        )
+
+                                )
+
+                            [contact] => stdClass Object
+                                (
+                                    [preferredUsername] => h2m
+                                    [displayName] => Hmm
+                                    [note] => Wuff
+                                    [addresses] => stdClass Object
+                                        (
+                                            [formatted] => Earth
+                                        )
+
+                                )
+
+                        )
+
+                    [content] => skuba im Verteidigungsmodus 4 the sake of unibas - Räte in BL im finanziellen Angriffsmodus. URL: http://ur1.ca/8h41j (Petition!)
+                    [id] => http://identi.ca/notice/91436218
+                    [object] => stdClass Object
+                        (
+                            [displayName] => skuba im Verteidigungsmodus 4 the sake of unibas - Räte in BL im finanziellen Angriffsmodus.
+URL: http://ur1.ca/8h41j (Petition!)
+                            [id] => http://identi.ca/notice/91436218
+                            [objectType] => note
+                            [content] => skuba im Verteidigungsmodus 4 the sake of unibas - Räte in BL im finanziellen Angriffsmodus.
+URL: http://ur1.ca/8h41j (Petition!)
+                            [url] => http://identi.ca/notice/91436218
+                        )
+
+                    [context] => stdClass Object
+                        (
+                            [conversation] => http://identi.ca/conversation/91186996
+                        )
+
+                    [published] => 2012-03-02T13:15:26+00:00
+                    [provider] => stdClass Object
+                        (
+                            [objectType] => service
+                            [displayName] => Identi.ca
+                            [url] => http://identi.ca/
+                        )
+
+                    [title] => skuba im Verteidigungsmodus 4 the sake of unibas - Räte in BL im finanziellen Angriffsmodus. URL: http://ur1.ca/8h41j (Petition!)
+                    [verb] => post
+                    [url] => http://identi.ca/notice/91436218
+                    [statusnet:notice_info] => stdClass Object
+                        (
+                            [local_id] => 91436218
+                            [source] => web
+                        )
+
+                )
+
+            [15] => stdClass Object
+                (
+                    [actor] => stdClass Object
+                        (
+                            [displayName] => Olivier Berger
+                            [id] => http://identi.ca/user/79134
+                            [avatarLinks] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/79134-129-20090907102947.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 129
+                                            [height] => 129
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/79134-96-20090907102948.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 96
+                                            [height] => 96
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/79134-48-20090907102948.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 48
+                                            [height] => 48
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/79134-24-20090907102948.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 24
+                                            [height] => 24
+                                        )
+
+                                )
+
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://avatar3.status.net/i/identica/79134-96-20090907102948.png
+                                    [rel] => avatar
+                                    [type] => image/png
+                                    [width] => 96
+                                    [height] => 96
+                                )
+
+                            [objectType] => person
+                            [url] => http://identi.ca/user/79134
+                            [statusnet:profile_info] => stdClass Object
+                                (
+                                    [local_id] => 79134
+                                )
+
+                            [geopoint] => stdClass Object
+                                (
+                                    [type] => Point
+                                    [coordinates] => Array
+                                        (
+                                            [0] => 48.84391
+                                            [1] => 2.78701
+                                        )
+
+                                )
+
+                            [contact] => stdClass Object
+                                (
+                                    [preferredUsername] => oberger
+                                    [displayName] => Olivier Berger
+                                    [addresses] => stdClass Object
+                                        (
+                                            [formatted] => 77700, FR
+                                        )
+
+                                    [urls] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [type] => homepage
+                                                    [value] => http://www.olivierberger.org/
+                                                    [primary] => true
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [content] => Merdouilles avec l'encaissement des CESU... pourquoi ai-je pu les faire virer �  la nounou l'année dernière et pas cette année #vdm
+                    [id] => http://identi.ca/notice/91436086
+                    [object] => stdClass Object
+                        (
+                            [displayName] => Merdouilles avec l'encaissement des CESU... pourquoi ai-je pu les faire virer �  la nounou l'année dernière et pas cette année #vdm
+                            [id] => http://identi.ca/notice/91436086
+                            [objectType] => note
+                            [content] => Merdouilles avec l'encaissement des CESU... pourquoi ai-je pu les faire virer �  la nounou l'année dernière et pas cette année #vdm
+                            [url] => http://identi.ca/notice/91436086
+                            [tags] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [objectType] => http://activityschema.org/object/hashtag
+                                            [displayName] => vdm
+                                        )
+
+                                )
+
+                        )
+
+                    [geopoint] => stdClass Object
+                        (
+                            [type] => Point
+                            [coordinates] => Array
+                                (
+                                    [0] => 48.63333
+                                    [1] => 2.45
+                                )
+
+                            [deprecated] => 1
+                        )
+
+                    [location] => stdClass Object
+                        (
+                            [objectType] => place
+                            [position] => +48.63333+2.45000/
+                            [lat] => 48.63333
+                            [lon] => 2.45
+                            [displayName] => Évry, Île-de-France, France
+                            [url] => http://www.geonames.org/3019256
+                        )
+
+                    [context] => stdClass Object
+                        (
+                            [conversation] => http://identi.ca/conversation/91186870
+                        )
+
+                    [published] => 2012-03-02T13:15:22+00:00
+                    [provider] => stdClass Object
+                        (
+                            [objectType] => service
+                            [displayName] => Identi.ca
+                            [url] => http://identi.ca/
+                        )
+
+                    [title] => Merdouilles avec l'encaissement des CESU... pourquoi ai-je pu les faire virer �  la nounou l'année dernière et pas cette année #vdm
+                    [verb] => post
+                    [url] => http://identi.ca/notice/91436086
+                    [statusnet:notice_info] => stdClass Object
+                        (
+                            [local_id] => 91436086
+                            [source] => web
+                        )
+
+                )
+
+            [16] => stdClass Object
+                (
+                    [actor] => stdClass Object
+                        (
+                            [displayName] => Random Form Microblogger
+                            [id] => http://identi.ca/user/110506
+                            [avatarLinks] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/110506-359-20091224110024.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 359
+                                            [height] => 359
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/110506-96-20091224110025.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 96
+                                            [height] => 96
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/110506-48-20091224110025.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 48
+                                            [height] => 48
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/110506-24-20091224110025.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 24
+                                            [height] => 24
+                                        )
+
+                                )
+
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://avatar3.status.net/i/identica/110506-96-20091224110025.jpeg
+                                    [rel] => avatar
+                                    [type] => image/jpeg
+                                    [width] => 96
+                                    [height] => 96
+                                )
+
+                            [objectType] => person
+                            [url] => http://identi.ca/user/110506
+                            [statusnet:profile_info] => stdClass Object
+                                (
+                                    [local_id] => 110506
+                                )
+
+                            [contact] => stdClass Object
+                                (
+                                    [preferredUsername] => randomform
+                                    [displayName] => Random Form Microblogger
+                                    [note] => A web service generating random form descriptions for you to use. If there is a problem with me, contact @robmyers.
+                                    [addresses] => stdClass Object
+                                        (
+                                            [formatted] => The Internet
+                                        )
+
+                                    [urls] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [type] => homepage
+                                                    [value] => https://gitorious.org/robmyers/microblog-bots
+                                                    [primary] => true
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [content] => A streamlined painful crazy configuration.
+                    [id] => http://identi.ca/notice/91436227
+                    [object] => stdClass Object
+                        (
+                            [displayName] => A streamlined painful crazy configuration.
+                            [id] => http://identi.ca/notice/91436227
+                            [objectType] => note
+                            [content] => A streamlined painful crazy configuration.
+                            [url] => http://identi.ca/notice/91436227
+                        )
+
+                    [context] => stdClass Object
+                        (
+                            [conversation] => http://identi.ca/conversation/91187004
+                        )
+
+                    [published] => 2012-03-02T13:15:17+00:00
+                    [provider] => stdClass Object
+                        (
+                            [objectType] => service
+                            [displayName] => Identi.ca
+                            [url] => http://identi.ca/
+                        )
+
+                    [title] => A streamlined painful crazy configuration.
+                    [verb] => post
+                    [url] => http://identi.ca/notice/91436227
+                    [statusnet:notice_info] => stdClass Object
+                        (
+                            [local_id] => 91436227
+                            [source] => api
+                        )
+
+                )
+
+            [17] => stdClass Object
+                (
+                    [actor] => stdClass Object
+                        (
+                            [displayName] => 比良坂竜二
+                            [id] => http://identi.ca/user/628667
+                            [avatarLinks] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/628667-352-20120229060614.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 352
+                                            [height] => 352
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/628667-96-20120229060614.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 96
+                                            [height] => 96
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/628667-48-20120229060614.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 48
+                                            [height] => 48
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/628667-24-20120229060614.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 24
+                                            [height] => 24
+                                        )
+
+                                )
+
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://avatar3.status.net/i/identica/628667-96-20120229060614.jpeg
+                                    [rel] => avatar
+                                    [type] => image/jpeg
+                                    [width] => 96
+                                    [height] => 96
+                                )
+
+                            [objectType] => person
+                            [url] => http://identi.ca/user/628667
+                            [statusnet:profile_info] => stdClass Object
+                                (
+                                    [local_id] => 628667
+                                )
+
+                            [contact] => stdClass Object
+                                (
+                                    [preferredUsername] => hirasakaryuji
+                                    [displayName] => 比良坂竜二
+                                )
+
+                        )
+
+                    [content] => コーラ一日に３リットル飲むとか・・・� め� よね
+                    [id] => http://identi.ca/notice/91436217
+                    [object] => stdClass Object
+                        (
+                            [displayName] => コーラ一日に３リットル飲むとか・・・� め� よね
+                            [id] => http://identi.ca/notice/91436217
+                            [objectType] => note
+                            [content] => コーラ一日に３リットル飲むとか・・・� め� よね
+                            [url] => http://identi.ca/notice/91436217
+                        )
+
+                    [context] => stdClass Object
+                        (
+                            [conversation] => http://identi.ca/conversation/91186995
+                        )
+
+                    [published] => 2012-03-02T13:15:17+00:00
+                    [provider] => stdClass Object
+                        (
+                            [objectType] => service
+                            [displayName] => Identi.ca
+                            [url] => http://identi.ca/
+                        )
+
+                    [title] => コーラ一日に３リットル飲むとか・・・� め� よね
+                    [verb] => post
+                    [url] => http://identi.ca/notice/91436217
+                    [statusnet:notice_info] => stdClass Object
+                        (
+                            [local_id] => 91436217
+                            [source] => web
+                        )
+
+                )
+
+            [18] => stdClass Object
+                (
+                    [actor] => stdClass Object
+                        (
+                            [displayName] => xexio
+                            [id] => http://identi.ca/user/93530
+                            [avatarLinks] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/93530-96-20110922090212.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 96
+                                            [height] => 96
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/93530-96-20110922090212.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 96
+                                            [height] => 96
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/93530-48-20110922090213.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 48
+                                            [height] => 48
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/93530-24-20110922090213.jpeg
+                                            [rel] => avatar
+                                            [type] => image/jpeg
+                                            [width] => 24
+                                            [height] => 24
+                                        )
+
+                                )
+
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://avatar3.status.net/i/identica/93530-96-20110922090212.jpeg
+                                    [rel] => avatar
+                                    [type] => image/jpeg
+                                    [width] => 96
+                                    [height] => 96
+                                )
+
+                            [objectType] => person
+                            [url] => http://identi.ca/user/93530
+                            [statusnet:profile_info] => stdClass Object
+                                (
+                                    [local_id] => 93530
+                                )
+
+                            [geopoint] => stdClass Object
+                                (
+                                    [type] => Point
+                                    [coordinates] => Array
+                                        (
+                                            [0] => 39.46975
+                                            [1] => -0.37739
+                                        )
+
+                                )
+
+                            [contact] => stdClass Object
+                                (
+                                    [preferredUsername] => xexio
+                                    [displayName] => xexio
+                                    [note] => ña
+                                )
+
+                        )
+
+                    [content] => si que les cuesta meter !rekonq en !arch coño !kde !eol !taraos
+                    [id] => http://identi.ca/notice/91436210
+                    [object] => stdClass Object
+                        (
+                            [displayName] => si que les cuesta meter !rekonq en !arch coño !kde !eol !taraos
+                            [id] => http://identi.ca/notice/91436210
+                            [objectType] => note
+                            [content] => si que les cuesta meter !rekonq en !arch coño !kde !eol !taraos
+                            [url] => http://identi.ca/notice/91436210
+                        )
+
+                    [to] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [objectType] => person
+                                    [id] => http://identi.ca/group/55/id
+                                    [url] => http://identi.ca/group/55/id
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [objectType] => person
+                                    [id] => http://identi.ca/group/57/id
+                                    [url] => http://identi.ca/group/57/id
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [objectType] => person
+                                    [id] => http://identi.ca/group/2980/id
+                                    [url] => http://identi.ca/group/2980/id
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [objectType] => person
+                                    [id] => http://identi.ca/group/4214/id
+                                    [url] => http://identi.ca/group/4214/id
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [objectType] => person
+                                    [id] => http://identi.ca/group/10146/id
+                                    [url] => http://identi.ca/group/10146/id
+                                )
+
+                        )
+
+                    [context] => stdClass Object
+                        (
+                            [conversation] => http://identi.ca/conversation/91186988
+                        )
+
+                    [published] => 2012-03-02T13:14:52+00:00
+                    [provider] => stdClass Object
+                        (
+                            [objectType] => service
+                            [displayName] => Identi.ca
+                            [url] => http://identi.ca/
+                        )
+
+                    [title] => si que les cuesta meter !rekonq en !arch coño !kde !eol !taraos
+                    [verb] => post
+                    [url] => http://identi.ca/notice/91436210
+                    [statusnet:notice_info] => stdClass Object
+                        (
+                            [local_id] => 91436210
+                            [source] => Choqok
+                            [source_link] => http://choqok.gnufolks.org/
+                        )
+
+                )
+
+            [19] => stdClass Object
+                (
+                    [actor] => stdClass Object
+                        (
+                            [displayName] => Zadlander
+                            [id] => http://identi.ca/user/607698
+                            [avatarLinks] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/607698-200-20120127104250.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 200
+                                            [height] => 200
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/607698-96-20120127104250.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 96
+                                            [height] => 96
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/607698-48-20120127104250.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 48
+                                            [height] => 48
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [url] => http://avatar3.status.net/i/identica/607698-24-20120127104250.png
+                                            [rel] => avatar
+                                            [type] => image/png
+                                            [width] => 24
+                                            [height] => 24
+                                        )
+
+                                )
+
+                            [image] => stdClass Object
+                                (
+                                    [url] => http://avatar3.status.net/i/identica/607698-96-20120127104250.png
+                                    [rel] => avatar
+                                    [type] => image/png
+                                    [width] => 96
+                                    [height] => 96
+                                )
+
+                            [objectType] => person
+                            [url] => http://identi.ca/user/607698
+                            [statusnet:profile_info] => stdClass Object
+                                (
+                                    [local_id] => 607698
+                                )
+
+                            [geopoint] => stdClass Object
+                                (
+                                    [type] => Point
+                                    [coordinates] => Array
+                                        (
+                                            [0] => 40.4165
+                                            [1] => -3.70256
+                                        )
+
+                                )
+
+                            [contact] => stdClass Object
+                                (
+                                    [preferredUsername] => zadlander
+                                    [displayName] => Zadlander
+                                    [note] => Toda la actualidad política española en Zadlander, el blog concienciado con la defensa de España, de su pueblo y su tradición.
+                                    [addresses] => stdClass Object
+                                        (
+                                            [formatted] => Madrid, España, UE
+                                        )
+
+                                    [urls] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [type] => homepage
+                                                    [value] => http://zadlander.blogspot.com
+                                                    [primary] => true
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [content] => Una de las frases más repetidas por individuos de ciertas corrientes políticas que os podreís imaginar es aquella de�
+                    [id] => http://identi.ca/notice/91436209
+                    [object] => stdClass Object
+                        (
+                            [displayName] => Una de las frases más repetidas por individuos de ciertas corrientes políticas que os podreís imaginar es aquella de http://ur1.ca/8h41g
+                            [id] => http://identi.ca/notice/91436209
+                            [objectType] => note
+                            [content] => Una de las frases más repetidas por individuos de ciertas corrientes políticas que os podreís imaginar es aquella de�
+                            [url] => http://identi.ca/notice/91436209
+                        )
+
+                    [context] => stdClass Object
+                        (
+                            [conversation] => http://identi.ca/conversation/91186987
+                        )
+
+                    [published] => 2012-03-02T13:14:52+00:00
+                    [provider] => stdClass Object
+                        (
+                            [objectType] => service
+                            [displayName] => Identi.ca
+                            [url] => http://identi.ca/
+                        )
+
+                    [title] => Una de las frases más repetidas por individuos de ciertas corrientes políticas que os podreís imaginar es aquella de http://ur1.ca/8h41g
+                    [verb] => post
+                    [url] => http://identi.ca/notice/91436209
+                    [statusnet:notice_info] => stdClass Object
+                        (
+                            [local_id] => 91436209
+                            [source] => feed
+                        )
+
+                )
+
+        )
+
+    [links] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [url] => http://identi.ca/
+                    [rel] => alternate
+                    [type] => text/html
+                )
+
+        )
+
+)

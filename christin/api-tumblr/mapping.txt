@@ -1,0 +1,3 @@
+actor data->name
+object  data->following, data->title
+attachment data->url, data->post_url

@@ -1,0 +1,45 @@
+Registration:
+------------
+
+First of all register with metacafe in the following link
+
+http://www.metacafe.com
+
+API functions documentation:
+----------------------------
+
+API for videos:
+----------------------------
+http://www.metacafe.com/api/videos/
+
+API for find videos for related title:
+----------------------------
+http://www.metacafe.com/api/videos/?vq=funny+dogs
+
+API for licensed content :
+----------------------------
+http://www.metacafe.com/api/licensed_content/
+
+API for channels:
+----------------------------
+http://www.metacafe.com/api/channels/
+
+API for find users using username:
+----------------------------
+http://www.metacafe.com/api/users/prabhakar/
+
+API for find users channels using username:
+----------------------------
+http://www.metacafe.com/api/users/prabhakar/channel/
+
+
+API for find items(videos) using item id and releted chars:
+----------------------------
+http://www.metacafe.com/api/8166833/wakfu_closer_look_at_the_sram_class/
+
+
+API for find items(videos) using item id:
+----------------------------
+
+http://www.metacafe.com/api/item/8166833/
+

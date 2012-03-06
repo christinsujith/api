@@ -1,0 +1,269 @@
+﻿<pre>stdClass Object
+(
+    [rss] => stdClass Object
+        (
+            [channel] => stdClass Object
+                (
+                    [title] => Nina Zulian
+                    [link] => http://pinterest.com/ninazulian/
+                    [description] => Array
+                        (
+                        )
+
+                    [atom:link] => Array
+                        (
+                        )
+
+                    [atom:link_attr] => stdClass Object
+                        (
+                            [href] => http://pinterest.com/ninazulian/feed.rss
+                            [rel] => self
+                        )
+
+                    [language] => en-us
+                    [lastBuildDate] => Mon, 27 Feb 2012 16:17:26 -0800
+                    [item] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [title] => Circular Motion
+                                    [link] => http://pinterest.com/pin/33565959692714519/
+                                    [description] => <p><a href="/pin/33565959692714519/"><img src="http://media-cdn.pinterest.com/upload/245094404690709719_Zn4qrOhB_b.jpg"></a></p><p>Circular Motion</p>
+                                    [pubDate] => Mon, 27 Feb 2012 16:17:26 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692714519/
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [title] => schiele reflected nu
+                                    [link] => http://pinterest.com/pin/33565959692714513/
+                                    [description] => <p><a href="/pin/33565959692714513/"><img src="http://media-cdn.pinterest.com/upload/3870349649252611_PQmpqpSg_b.jpg"></a></p><p>schiele reflected nude</p>
+                                    [pubDate] => Mon, 27 Feb 2012 16:16:30 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692714513/
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [title] => Fashion illustration
+                                    [link] => http://pinterest.com/pin/33565959692714133/
+                                    [description] => <p><a href="/pin/33565959692714133/"><img src="http://media-cdn.pinterest.com/upload/125397170844274985_3a7gf3JG_b.jpg"></a></p><p>Fashion illustrations by Floyd Grey</p>
+                                    [pubDate] => Mon, 27 Feb 2012 13:33:25 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692714133/
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [title] => Pretty.
+                                    [link] => http://pinterest.com/pin/33565959692714132/
+                                    [description] => <p><a href="/pin/33565959692714132/"><img src="http://media-cdn.pinterest.com/upload/270004940129179599_PV4JquLs_b.jpg"></a></p><p>Pretty.</p>
+                                    [pubDate] => Mon, 27 Feb 2012 13:33:17 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692714132/
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [title] => .
+                                    [link] => http://pinterest.com/pin/33565959692714100/
+                                    [description] => <p><a href="/pin/33565959692714100/"><img src="http://media-cdn.pinterest.com/upload/112519690659818816_oEif4UOK_b.jpg"></a></p><p>.</p>
+
+                                    [pubDate] => Mon, 27 Feb 2012 13:19:39 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692714100/
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [title] => Nick & Nadine
+                                    [link] => http://pinterest.com/pin/33565959692714024/
+                                    [description] => <p><a href="/pin/33565959692714024/"><img src="http://media-cdn.pinterest.com/upload/33565959692714024_DU5XPuzw_b.jpg"></a></p><p>Nick & Nadine</p>
+                                    [pubDate] => Mon, 27 Feb 2012 12:40:15 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692714024/
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [title] => Ryoko Ishii
+                                    [link] => http://pinterest.com/pin/33565959692714018/
+                                    [description] => <p><a href="/pin/33565959692714018/"><img src="http://media-cdn.pinterest.com/upload/121034308705088718_HO7bzgnl_b.jpg"></a></p><p>Ryoko Ishii</p>
+                                    [pubDate] => Mon, 27 Feb 2012 12:37:32 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692714018/
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [title] => softie toy ornaments
+                                    [link] => http://pinterest.com/pin/33565959692714004/
+                                    [description] => <p><a href="/pin/33565959692714004/"><img src="http://media-cdn.pinterest.com/upload/130111876704094560_wpJqQix1_b.jpg"></a></p><p>softie toy ornaments</p>
+                                    [pubDate] => Mon, 27 Feb 2012 12:26:55 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692714004/
+                                )
+
+                            [8] => stdClass Object
+                                (
+                                    [title] => nina zulian pattern.
+                                    [link] => http://pinterest.com/pin/33565959692713995/
+                                    [description] => <p><a href="/pin/33565959692713995/"><img src="http://media-cdn.pinterest.com/upload/33565959692713995_51ZSc7mH_b.jpg"></a></p><p>nina zulian pattern. :)</p>
+
+                                    [pubDate] => Mon, 27 Feb 2012 12:19:56 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692713995/
+                                )
+
+                            [9] => stdClass Object
+                                (
+                                    [title] => .
+                                    [link] => http://pinterest.com/pin/33565959692713993/
+                                    [description] => <p><a href="/pin/33565959692713993/"><img src="http://media-cdn.pinterest.com/upload/71424344060291001_9NLgewWS_b.jpg"></a></p><p>.</p>
+                                    [pubDate] => Mon, 27 Feb 2012 12:18:35 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692713993/
+                                )
+
+                            [10] => stdClass Object
+                                (
+                                    [title] => georgia gray
+                                    [link] => http://pinterest.com/pin/33565959692713967/
+                                    [description] => <p><a href="/pin/33565959692713967/"><img src="http://media-cdn.pinterest.com/upload/219339444321309328_jJyZErRU_b.jpg"></a></p><p>georgia gray</p>
+                                    [pubDate] => Mon, 27 Feb 2012 11:30:01 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692713967/
+                                )
+
+                            [11] => stdClass Object
+                                (
+                                    [title] => .
+                                    [link] => http://pinterest.com/pin/33565959692713952/
+                                    [description] => <p><a href="/pin/33565959692713952/"><img src="http://media-cdn.pinterest.com/upload/219339444321262392_QCtWjCQI_b.jpg"></a></p><p>.</p>
+                                    [pubDate] => Mon, 27 Feb 2012 11:13:29 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692713952/
+                                )
+
+                            [12] => stdClass Object
+                                (
+                                    [title] => decor
+                                    [link] => http://pinterest.com/pin/33565959692713940/
+                                    [description] => <p><a href="/pin/33565959692713940/"><img src="http://media-cdn.pinterest.com/upload/37717715599192404_q29RI6Al_b.jpg"></a></p><p>decor</p>
+                                    [pubDate] => Mon, 27 Feb 2012 10:59:09 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692713940/
+                                )
+
+                            [13] => stdClass Object
+                                (
+                                    [title] => rainy
+                                    [link] => http://pinterest.com/pin/33565959692713935/
+                                    [description] => <p><a href="/pin/33565959692713935/"><img src="http://media-cdn.pinterest.com/upload/1829656068112581_vavBQKoG_b.jpg"></a></p><p>rainy</p>
+
+                                    [pubDate] => Mon, 27 Feb 2012 10:57:14 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692713935/
+                                )
+
+                            [14] => stdClass Object
+                                (
+                                    [title] => geometric
+                                    [link] => http://pinterest.com/pin/33565959692713930/
+                                    [description] => <p><a href="/pin/33565959692713930/"><img src="http://media-cdn.pinterest.com/upload/14003448810842098_PPrasiJL_b.jpg"></a></p><p>geometric</p>
+                                    [pubDate] => Mon, 27 Feb 2012 10:55:39 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692713930/
+                                )
+
+                            [15] => stdClass Object
+                                (
+                                    [title] => Watercolor and ink d
+                                    [link] => http://pinterest.com/pin/33565959692713927/
+                                    [description] => <p><a href="/pin/33565959692713927/"><img src="http://media-cdn.pinterest.com/upload/267612402827439470_hQM0TydN_b.jpg"></a></p><p>Watercolor and ink dandelion</p>
+                                    [pubDate] => Mon, 27 Feb 2012 10:53:31 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692713927/
+                                )
+
+                            [16] => stdClass Object
+                                (
+                                    [title] => elliot books...
+                                    [link] => http://pinterest.com/pin/33565959692711211/
+                                    [description] => <p><a href="/pin/33565959692711211/"><img src="http://media-cdn.pinterest.com/upload/46795283597984451_v4kCqprP_b.jpg"></a></p><p>elliot books...</p>
+                                    [pubDate] => Sun, 26 Feb 2012 23:08:28 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692711211/
+                                )
+
+                            [17] => stdClass Object
+                                (
+                                    [title] => collage
+                                    [link] => http://pinterest.com/pin/33565959692711205/
+                                    [description] => <p><a href="/pin/33565959692711205/"><img src="http://media-cdn.pinterest.com/upload/233976143110211471_t4oCGJVT_b.jpg"></a></p><p>collage</p>
+                                    [pubDate] => Sun, 26 Feb 2012 23:06:31 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692711205/
+                                )
+
+                            [18] => stdClass Object
+                                (
+                                    [title] => Shiro to Kuro
+                                    [link] => http://pinterest.com/pin/33565959692711148/
+                                    [description] => <p><a href="/pin/33565959692711148/"><img src="http://media-cdn.pinterest.com/upload/33565959692711148_R9IuZutb_b.jpg"></a></p><p>Shiro to Kuro</p>
+
+                                    [pubDate] => Sun, 26 Feb 2012 22:53:27 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692711148/
+                                )
+
+                            [19] => stdClass Object
+                                (
+                                    [title] => Shiro to Kuro
+                                    [link] => http://pinterest.com/pin/33565959692711139/
+                                    [description] => <p><a href="/pin/33565959692711139/"><img src="http://media-cdn.pinterest.com/upload/33565959692711139_nbWmghCk_b.jpg"></a></p><p>Shiro to Kuro</p>
+                                    [pubDate] => Sun, 26 Feb 2012 22:51:55 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692711139/
+                                )
+
+                            [20] => stdClass Object
+                                (
+                                    [title] => poster
+                                    [link] => http://pinterest.com/pin/33565959692700711/
+                                    [description] => <p><a href="/pin/33565959692700711/"><img src="http://media-cdn.pinterest.com/upload/33565959692700711_kdUKDkzB_b.jpg"></a></p><p>poster</p>
+                                    [pubDate] => Fri, 24 Feb 2012 22:49:00 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692700711/
+                                )
+
+                            [21] => stdClass Object
+                                (
+                                    [title] => poster
+                                    [link] => http://pinterest.com/pin/33565959692700708/
+                                    [description] => <p><a href="/pin/33565959692700708/"><img src="http://media-cdn.pinterest.com/upload/33565959692700708_2fCPctEe_b.jpg"></a></p><p>poster</p>
+                                    [pubDate] => Fri, 24 Feb 2012 22:47:55 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692700708/
+                                )
+
+                            [22] => stdClass Object
+                                (
+                                    [title] => collage
+                                    [link] => http://pinterest.com/pin/33565959692700337/
+                                    [description] => <p><a href="/pin/33565959692700337/"><img src="http://media-cdn.pinterest.com/upload/42925002668171012_XmoUvbvA_b.jpg"></a></p><p>collage</p>
+                                    [pubDate] => Fri, 24 Feb 2012 21:28:53 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692700337/
+                                )
+
+                            [23] => stdClass Object
+                                (
+                                    [title] => Tang Kwok-hin
+                                    [link] => http://pinterest.com/pin/33565959692700240/
+                                    [description] => <p><a href="/pin/33565959692700240/"><img src="http://media-cdn.pinterest.com/upload/33565959692700240_z1jCRKLI_b.jpg"></a></p><p>Tang Kwok-hin</p>
+
+                                    [pubDate] => Fri, 24 Feb 2012 21:04:37 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692700240/
+                                )
+
+                            [24] => stdClass Object
+                                (
+                                    [title] => Tang Kwok-hin
+                                    [link] => http://pinterest.com/pin/33565959692700231/
+                                    [description] => <p><a href="/pin/33565959692700231/"><img src="http://media-cdn.pinterest.com/upload/33565959692700231_nIIuyt1Y_b.jpg"></a></p><p>Tang Kwok-hin</p>
+                                    [pubDate] => Fri, 24 Feb 2012 21:03:04 -0800
+                                    [guid] => http://pinterest.com/pin/33565959692700231/
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [rss_attr] => stdClass Object
+        (
+            [xmlns:atom] => http://www.w3.org/2005/Atom
+            [version] => 2.0
+        )
+
+)

@@ -1,0 +1,17 @@
+API Access
+
+To prevent abuse, Google places limits on API requests. Using a valid OAuth token or API key allows you to exceed anonymous limits by connecting requests back to your project. 
+
+Authorized API Access
+
+OAuth allows users to share specific data with you (for example, contact lists) while keeping their usernames, passwords, and other information private.
+
+Project keys
+    Each project is identified by either an API key or an OAuth 2.0 token. Use this key/token in your API requests to identify the project, in order to record usage data, enforce your filtering restrictions, and bill usage to the proper project. You can use the Console to generate or revoke API keys or OAuth 2.0 certificates to use in your application.
+
+Team members
+    You can specify additional members with read, write, or ownership access to this project's Console page.
+
+Courtesy Limit:
+
+1,000 queries/day

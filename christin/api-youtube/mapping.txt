@@ -1,0 +1,4 @@
+object : data->description
+actor : data->videoId
+verb : data->videoTitle
+attachment : data->watchPageUrl;

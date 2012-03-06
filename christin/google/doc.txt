@@ -1,0 +1,4 @@
+1.Visit https://code.google.com/apis/console?api=plus to generate your client id, client secret, and to register your redirect uri.
+2.Download library from http://code.google.com/p/google-api-php-client/
+3.Then visit https://developers.google.com/+/api/latest/activities/list to get information about the listactivities.
+4. To list the stream I used a users id.

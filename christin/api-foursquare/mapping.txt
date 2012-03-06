@@ -1,0 +1,4 @@
+object : data->firstName
+actor : data->id
+verb : data->homeCity
+attachment : data->photo, data->canonicalUrl

@@ -1,0 +1,348 @@
+﻿array(16) {
+  ["rating"]=>
+  string(8) "4.848101"
+  ["videoId"]=>
+  string(11) "sI_KJb7hkVY"
+  ["videoTitle"]=>
+  string(73) "[HD] DON 2 Trailer [HD] - Shahrukh Khan DON2 - Must...Must...Must... See!"
+  ["updated"]=>
+  object(Zend_Gdata_App_Extension_Updated)#15 (7) {
+    ["_rootElement":protected]=>
+    string(7) "updated"
+    ["_rootNamespace":protected]=>
+    string(4) "atom"
+    ["_rootNamespaceURI":protected]=>
+    NULL
+    ["_extensionElements":protected]=>
+    array(0) {
+    }
+    ["_extensionAttributes":protected]=>
+    array(0) {
+    }
+    ["_text":protected]=>
+    string(24) "2012-02-12T05:14:10.000Z"
+    ["_namespaces":protected]=>
+    array(2) {
+      ["atom"]=>
+      array(1) {
+        [1]=>
+        array(1) {
+          [0]=>
+          string(27) "http://www.w3.org/2005/Atom"
+        }
+      }
+      ["app"]=>
+      array(2) {
+        [1]=>
+        array(1) {
+          [0]=>
+          string(25) "http://purl.org/atom/app#"
+        }
+        [2]=>
+        array(1) {
+          [0]=>
+          string(26) "http://www.w3.org/2007/app"
+        }
+      }
+    }
+  }
+  ["description"]=>
+  string(1784) "= http://bit.ly/zeendatv =  [HD] DON 2 Trailer [HD] - Shahrukh Khan DON2 - EDITED VERSION - Must...Must...Must... See! - don 2, shahrukh khan, don 2 trailer, Farhan Akhtar, Priyanka Chopra, Lara Dutta, Kunal Kapoor, shahrukh 2011, don2, shahrukh khan 2011, don2 official teaser, film shahrukh khan don 2011, shahrukh khan don 2, don 2 hd, best of clip shahroukh khan, don 2 trailer official, don 2 teaser trailer, shahrukh khan don 2 trailer,
+
+
+Don 2 - The Chase Continues is an upcoming Hindi action thriller film directed by Farhan Akhtar. It is the sequel to the 2006 hit film, Don: The Chase Begins Again, which itself is a remake of the cult 1978 blockbuster film Don, therefore making it the first sequel to a remake in Bollywood history. The film has Shahrukh Khan (as the title character), Priyanka Chopra, Boman Irani and Om Puri, reprising their roles from the previous film; with Lara Dutta, Kunal Kapoor. It has been reported that Arjun Rampal will not be reprising his role in the sequel. 
+
+Production
+
+The idea for a sequel has been conceptualized ever since the first movie was released, and a sequel was announced by Farhan Akhtar shortly after the release. However, he was involved with other commitments while Shahrukh Khan also gave his dates to the movies Rab Ne Bana Di Jodi and My Name Is Khan. Recently, however, Akhtar revealed that the script and locations for the movie has been finalized.Shooting for Don 2 will begin from October 10, 2010 in Berlin, Germany.
+
+Rights
+
+Reliance Big Pictures has bought the rights of Don 2 from Excel Entertainment for reportedly Rs 125 crore. The price has yet to be confirmed. It's thought that Reliance Big Pictures bought the rights for Don 2 along with other upcoming films from Excel Entertainment in a multi-film deal."
+  ["category"]=>
+  string(4) "Film"
+  ["tags"]=>
+  string(320) "don 2, shahrukh khan, don 2 trailer, Farhan Akhtar, Priyanka Chopra, Lara Dutta, Kunal Kapoor, shahrukh 2011, don2, shahrukh khan 2011, don2 official teaser, film shahrukh khan don 2011, shahrukh khan don 2, don 2 hd, best of clip shahroukh khan, don 2 trailer official, don 2 teaser trailer, shahrukh khan don 2 trailer"
+  ["watch_page"]=>
+  string(71) "http://www.youtube.com/watch?v=sI_KJb7hkVY&feature=youtube_gdata_player"
+  ["flashPlayerUrl"]=>
+  string(73) "http://www.youtube.com/v/sI_KJb7hkVY?version=3&f=videos&app=youtube_gdata"
+  ["duration"]=>
+  string(3) "149"
+  ["viewCount"]=>
+  string(6) "131015"
+  ["geoLocation"]=>
+  NULL
+  ["recordedOn"]=>
+  NULL
+  ["mobileRtspLink"]=>
+  array(2) {
+    [0]=>
+    string(95) "rtsp://v6.cache5.c.youtube.com/CiILENy73wIaGQlWkeG-JcqPsBMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp"
+    [1]=>
+    string(95) "rtsp://v6.cache1.c.youtube.com/CiILENy73wIaGQlWkeG-JcqPsBMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp"
+  }
+  ["thumbNail"]=>
+  array(4) {
+    ["time"]=>
+    string(12) "00:01:51.750"
+    ["url"]=>
+    string(39) "http://i.ytimg.com/vi/sI_KJb7hkVY/3.jpg"
+    ["height"]=>
+    string(2) "90"
+    ["width"]=>
+    string(3) "120"
+  }
+  ["comments"]=>
+  array(1) {
+    ["comment"]=>
+    array(25) {
+      [0]=>
+      array(3) {
+        ["title"]=>
+        string(18) "Gosh! He keeps ..."
+        ["content"]=>
+        string(360) "Gosh! He keeps getting cooler as he ages.. Dunno about others, but man!, he's my role model! I wish I keep getting awesomer as I get older.. just like him! *salutes the DON* ;)
+
+FYI.. Salman and Aamir fans.. Why the hell are you even here?! We don't waste time watching the videos of your so-called 'superstars' and giving a shitï»¿ about them.. Take a cue! :P"
+        ["author"]=>
+        string(0) ""
+      }
+      [1]=>
+      array(3) {
+        ["title"]=>
+        string(18) "sharukh chetta ..."
+        ["content"]=>
+        string(190) "sharukh chetta nammale marannoo?EMMANUEL SILKS okke ulkhadichathu ormayille.chettante padam kandu nyangalï»¿ malayalikal vijayipikkum pakaram aa MULLAPERIYAR prashnathinoru pariharam kananam"
+        ["author"]=>
+        string(0) ""
+      }
+      [2]=>
+      array(3) {
+        ["title"]=>
+        string(9) "notï»¿ hd"
+        ["content"]=>
+        string(9) "notï»¿ hd"
+        ["author"]=>
+        string(0) ""
+      }
+      [3]=>
+      array(3) {
+        ["title"]=>
+        string(16) "amazingï»¿ movie"
+        ["content"]=>
+        string(16) "amazingï»¿ movie"
+        ["author"]=>
+        string(0) ""
+      }
+      [4]=>
+      array(3) {
+        ["title"]=>
+        string(23) "stop comparing srk, ..."
+        ["content"]=>
+        string(75) "stop comparing srk, salman, amair teeno apni apniï»¿ jagey fit aur hit hain"
+        ["author"]=>
+        string(0) ""
+      }
+      [5]=>
+      array(3) {
+        ["title"]=>
+        string(20) "sï»¿ r k mast he ..."
+        ["content"]=>
+        string(29) "sï»¿ r k mast he jabardast he"
+        ["author"]=>
+        string(0) ""
+      }
+      [6]=>
+      array(3) {
+        ["title"]=>
+        string(18) "SRKï»¿ copying ..."
+        ["content"]=>
+        string(94) "SRKï»¿ copying Hollywood stars....he is not at all a gud actor,, he is jstï»¿ an entertainer.."
+        ["author"]=>
+        string(0) ""
+      }
+      [7]=>
+      array(3) {
+        ["title"]=>
+        string(17) "4 chutiyon ne ..."
+        ["content"]=>
+        string(67) "4 chutiyon ne dislike button ko download samaj keï»¿ click kar diya"
+        ["author"]=>
+        string(0) ""
+      }
+      [8]=>
+      array(3) {
+        ["title"]=>
+        string(20) "Its a copy of an ..."
+        ["content"]=>
+        string(224) "Its a copy of an old hollywood movie released in year 2007 "The death and life of Bobby Z"
+watch bothï»¿ the trailers carefuly on youtubeï»¿ god can't bollywood make their own stoires anyways 95% of their movies are copied!!"
+        ["author"]=>
+        string(0) ""
+      }
+      [9]=>
+      array(3) {
+        ["title"]=>
+        string(23) "awsome direction of ..."
+        ["content"]=>
+        string(80) "awsome direction of Farhan Akhtar. like holliwood ï»¿ and srk super style acting"
+        ["author"]=>
+        string(0) ""
+      }
+      [10]=>
+      array(3) {
+        ["title"]=>
+        string(21) "don 2 creat a new ..."
+        ["content"]=>
+        string(42) "don 2 creat a new record inï»¿ bollywood.."
+        ["author"]=>
+        string(0) ""
+      }
+      [11]=>
+      array(3) {
+        ["title"]=>
+        string(14) "SRK THEï»¿ GOD"
+        ["content"]=>
+        string(14) "SRK THEï»¿ GOD"
+        ["author"]=>
+        string(0) ""
+      }
+      [12]=>
+      array(3) {
+        ["title"]=>
+        string(25) "sahiï»¿ bola bhai.... ..."
+        ["content"]=>
+        string(30) "sahiï»¿ bola bhai............."
+        ["author"]=>
+        string(0) ""
+      }
+      [13]=>
+      array(3) {
+        ["title"]=>
+        string(23) "@farhan91919 , bhai ..."
+        ["content"]=>
+        string(117) "@farhan91919 , bhai  salman ki movie hindhi main imar mar ke chalti hai dusri language main kya khak nikalega woh ï»¿"
+        ["author"]=>
+        string(0) ""
+      }
+      [14]=>
+      array(3) {
+        ["title"]=>
+        string(19) "According to my ..."
+        ["content"]=>
+        string(412) "According to my point of view there is no comparison  "SRK".He is truly king of bolly wood no doubt about his acting skill is cant imagine salute him butï»¿ salman shits man kya yaaaaar kuch to shah Rukh ki izzat karo sale un skilled actor salman se comparison karte hooo, pls guysss look the number oh hit movies shahrukhan is far away than salman and salman is no where so pl stop and accept he is real DON SRK"
+        ["author"]=>
+        string(0) ""
+      }
+      [15]=>
+      array(3) {
+        ["title"]=>
+        string(22) "Loveï»¿ SRK...fuck ..."
+        ["content"]=>
+        string(27) "Loveï»¿ SRK...fuck Salman.."
+        ["author"]=>
+        string(0) ""
+      }
+      [16]=>
+      array(3) {
+        ["title"]=>
+        string(20) "Don 2 songs
+ 
+1. ..."
+        ["content"]=>
+        string(187) "Don 2 songs
+ 
+1.Dushman mera- /watch?v=2Gor4U_-4rw
+ 
+2.The king is back(Theme)- /watch?v=Bcmx4sgLJJ4
+ 
+3. Mujhko pehcan lo- /watch?v=xt15GW8WK4c
+ 
+4.Hiï»¿ reï»¿ Maya- /watch?v=-TMZvvIyTvE"
+        ["author"]=>
+        string(0) ""
+      }
+      [17]=>
+      array(3) {
+        ["title"]=>
+        string(21) "@alpeshpatel2616  ..."
+        ["content"]=>
+        string(312) "@alpeshpatel2616  bdygrd & ra1 both r bakwaas mve......but ra1 is technically vry good though acting & story is very poor......& bdygrd is aï»¿ disaster mve.......stop compare btwn d 2 actors......in other hand dabang is much better than ra1.......only support good mves........i think Don 2 will bcome 1 of them"
+        ["author"]=>
+        string(0) ""
+      }
+      [18]=>
+      array(3) {
+        ["title"]=>
+        string(7) "Lookï»¿"
+        ["content"]=>
+        string(7) "Lookï»¿"
+        ["author"]=>
+        string(0) ""
+      }
+      [19]=>
+      array(3) {
+        ["title"]=>
+        string(20) "'BODYGUARD' is ' ..."
+        ["content"]=>
+        string(46) "'BODYGUARD' is 'GHULAM' ofï»¿ï»¿ "BAADSHAH"..."
+        ["author"]=>
+        string(0) ""
+      }
+      [20]=>
+      array(3) {
+        ["title"]=>
+        string(25) "Luv u srk. Kingï»¿ of ..."
+        ["content"]=>
+        string(34) "Luv u srk. Kingï»¿ of world cinema"
+        ["author"]=>
+        string(0) ""
+      }
+      [21]=>
+      array(3) {
+        ["title"]=>
+        string(23) "bodyguard is a shit ..."
+        ["content"]=>
+        string(109) "bodyguard is a shit movie........really wonder what's wrong withï»¿ indian taste of cinema???????????????????"
+        ["author"]=>
+        string(0) ""
+      }
+      [22]=>
+      array(3) {
+        ["title"]=>
+        string(25) "bodyguard was muchï»¿ ..."
+        ["content"]=>
+        string(67) "bodyguard was muchï»¿ better than ra.one..
+ra.one bakwas shit movie"
+        ["author"]=>
+        string(0) ""
+      }
+      [23]=>
+      array(3) {
+        ["title"]=>
+        string(25) "I hopeï»¿ Finally Don ..."
+        ["content"]=>
+        string(414) "I hopeï»¿ Finally Don is Killed Lets hope he is killed by Angelin Jolie with an M4 Carbine after she triesï»¿ to take preity zinta hostage saying Don ko pakarna Mushkil nahin and then there is a distraction by John woos Doves while Ass Don looks Jolie looks with her Scope sigths and targets Shah ass Dons Neck and then empties the entire 35 round Magazine on his head while Ms Zinta looks on. That would be great."
+        ["author"]=>
+        string(0) ""
+      }
+      [24]=>
+      array(3) {
+        ["title"]=>
+        string(25) "M-I- 4  "C-O-N-Fâ€”I- ..."
+        ["content"]=>
+        string(329) "M-I- 4  "C-O-N-Fâ€”I-Dâ€”E-N-T-IA-L"
+âˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆž
+Mission Name : Don Protocol
+Target : Don (Shah Rukh Khan)
+Agent : Ethan Hunt (Tom Cruise)
+Deadlineï»¿ : Christmas
+Code Word: Return of the KING...
+âˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆžâˆž"
+        ["author"]=>
+        string(0) ""
+      }
+    }
+  }
+}

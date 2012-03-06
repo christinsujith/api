@@ -1,0 +1,4 @@
+    The LinkedIn User Agreement, which is located at http://www.linkedin.com/static?key=user_agreement;
+    The LinkedIn Privacy Policy, which is located at http://www.linkedin.com/static?key=privacy_policy;
+    The Platform Guidelines, which are located at the LinkedIn Developer Network site at developer.linkedin.com ("Developer Site"); and
+    The Branding Guidelines, which are also located at the Developer Site. 

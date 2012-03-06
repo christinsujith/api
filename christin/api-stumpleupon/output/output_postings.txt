@@ -1,0 +1,277 @@
+﻿<pre>Array
+(
+    [badge] => stdClass Object
+        (
+            [errorCode] => 0
+            [errorMessage] => 
+            [results] => stdClass Object
+                (
+                    [http://www.stumbleupon.com] => stdClass Object
+                        (
+                            [hash] => 6CMZPI
+                            [shortUrl] => http://su.pr/6CMZPI
+                            [shortMsg] => http://su.pr/6CMZPI
+                        )
+
+                )
+
+            [statusCode] => OK
+        )
+
+    [pageIngo] => stdClass Object
+        (
+            [result] => stdClass Object
+                (
+                    [url] => http://www.facebook.com/
+                    [in_index] => 1
+                    [publicid] => 2jWzc6
+                    [views] => 109410
+                    [title] => Welcome to Facebook - Log In, Sign Up or Learn More
+                    [thumbnail] => http://cdn.stumble-upon.com/mthumb/682/1607682.jpg
+                    [thumbnail_b] => http://cdn.stumble-upon.com/bthumb/682/1607682.jpg
+                    [submit_link] => http://www.stumbleupon.com/submit/?url=http://www.facebook.com/
+                    [badge_link] => http://www.stumbleupon.com/badge/?url=http://www.facebook.com/
+                    [info_link] => http://www.stumbleupon.com/url/www.facebook.com/
+                )
+
+            [timestamp] => 1330361184
+            [success] => 1
+        )
+
+    [rss] => Array
+        (
+            [channel] => Array
+                (
+                    [title] => StumbleUpon | Laura2908's favorites
+                    [link] => http://Laura2908.stumbleupon.com/favorites/
+                    [description] => Laura2908's recent favorites on StumbleUpon
+                    [language] => en-us
+                    [pubDate] => Mon, 27 Feb 2012 08:46:24 -0800
+                    [lastBuildDate] => Fri, 24 Feb 2012 11:09:11 -0800
+                    [admin:generatorAgent] => Array
+                        (
+                        )
+
+                    [admin:generatorAgent_attr] => Array
+                        (
+                            [rdf:resource] => http://www.stumbleupon.com/
+                        )
+
+                    [atom:link] => Array
+                        (
+                        )
+
+                    [atom:link_attr] => Array
+                        (
+                            [href] => http://rss.stumbleupon.com/user/Laura2908/favorites
+                            [rel] => self
+                            [type] => application/rss+xml
+                        )
+
+                    [image] => Array
+                        (
+                            [title] => StumbleUpon | Laura2908's favorites
+                            [link] => http://Laura2908.stumbleupon.com/favorites/
+                            [url] => http://cdn.stumble-upon.com/images/logo_su_36x36.png
+                        )
+
+                    [item] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [pubDate] => Thu, 16 Feb 2012 14:25:12 -0800
+                                    [title] => Seth Lakeman - Kitty Jay - Live St. Pancras Station London 2011
+                                    [guid] => Dk7Jgcev7cV/CT+4LhPM7z4Fzws
+                                    [guid_attr] => Array
+                                        (
+                                            [isPermaLink] => true
+                                        )
+
+                                    [link] => http://www.stumbleupon.com/to/5zJaYo/www.youtube.com/watch?v=iT1vxf-2pa8/src:favorites
+                                    [description] => 
+<a href="http://www.stumbleupon.com/to/5zJaYo/www.youtube.com/watch?v=iT1vxf-2pa8/src:favorites"><img src="http://cdn.stumble-upon.com/mthumb/385/106372385.jpg"/></a><br/>
+<a href="http://rss.stumbleupon.com/url/www.youtube.com/watch%253Fv%253DiT1vxf-2pa8">0 reviews</a>
+
+                                    [comments] => http://rss.stumbleupon.com/url/www.youtube.com/watch%253Fv%253DiT1vxf-2pa8
+                                )
+
+                            [1] => Array
+                                (
+                                    [pubDate] => Thu, 16 Feb 2012 14:18:12 -0800
+                                    [title] => President Obama Roasts Donald Trump At White House Correspondents Dinner!
+                                    [guid] => Yrnn0bl+CZzQcZbzZxDrUn4xp3s
+                                    [guid_attr] => Array
+                                        (
+                                            [isPermaLink] => true
+                                        )
+
+                                    [link] => http://www.stumbleupon.com/to/2hVoS5/www.youtube.com/watch?v=k8TwRmX6zs4/src:favorites
+                                    [description] => 
+<a href="http://www.stumbleupon.com/to/2hVoS5/www.youtube.com/watch?v=k8TwRmX6zs4/src:favorites"><img src="http://cdn.stumble-upon.com/mthumb/494/69777494.jpg"/></a><br/>
+<a href="http://rss.stumbleupon.com/url/www.youtube.com/watch%253Fv%253Dk8TwRmX6zs4">8 reviews</a>
+
+                                    [comments] => http://rss.stumbleupon.com/url/www.youtube.com/watch%253Fv%253Dk8TwRmX6zs4
+                                )
+
+                            [2] => Array
+                                (
+                                    [pubDate] => Thu, 16 Feb 2012 13:53:10 -0800
+                                    [title] => Around the World
+                                    [guid] => Tdg/anVRu2Df1ggsC3VUDUAeFXU
+                                    [guid_attr] => Array
+                                        (
+                                            [isPermaLink] => true
+                                        )
+
+                                    [link] => http://www.stumbleupon.com/to/2AyCuF/www.youtube.com/watch?v=G3OsdzSHCyI/src:favorites
+                                    [description] => 
+<a href="http://www.stumbleupon.com/to/2AyCuF/www.youtube.com/watch?v=G3OsdzSHCyI/src:favorites"><img src="http://cdn.stumble-upon.com/mthumb/354/23601354.jpg"/></a><br/>
+<a href="http://rss.stumbleupon.com/url/www.youtube.com/watch%253Fv%253DG3OsdzSHCyI">1 reviews</a>
+
+                                    [comments] => http://rss.stumbleupon.com/url/www.youtube.com/watch%253Fv%253DG3OsdzSHCyI
+                                )
+
+                            [3] => Array
+                                (
+                                    [pubDate] => Sat, 11 Feb 2012 11:46:05 -0800
+                                    [title] => Extremely shy pizza delivery man stuns everyone. [VIDEO]
+                                    [guid] => bclqaBVTOjEkQczDv97UYDpP2Gw
+                                    [guid_attr] => Array
+                                        (
+                                            [isPermaLink] => true
+                                        )
+
+                                    [link] => http://www.stumbleupon.com/to/31WYCg/www.wimp.com/deliveryman/src:favorites
+                                    [description] => 
+<a href="http://www.stumbleupon.com/to/31WYCg/www.wimp.com/deliveryman/src:favorites"><img src="http://cdn.stumble-upon.com/mthumb/418/105907418.jpg"/></a><br/>
+<a href="http://rss.stumbleupon.com/url/www.wimp.com/deliveryman/">0 reviews</a>
+
+                                    [comments] => http://rss.stumbleupon.com/url/www.wimp.com/deliveryman/
+                                )
+
+                            [4] => Array
+                                (
+                                    [pubDate] => Thu, 09 Feb 2012 16:03:22 -0800
+                                    [title] => skyRimGameJam
+                                    [guid] => J+luPHHwh8NNMGBYi2I6mNdEbJQ
+                                    [guid_attr] => Array
+                                        (
+                                            [isPermaLink] => true
+                                        )
+
+                                    [link] => http://www.stumbleupon.com/to/8D44Wr/www.youtube.com/watch?v=AYOFLqItuW4/src:favorites
+                                    [description] => 
+<a href="http://www.stumbleupon.com/to/8D44Wr/www.youtube.com/watch?v=AYOFLqItuW4/src:favorites"><img src="http://cdn.stumble-upon.com/mthumb/420/105802420.jpg"/></a><br/>
+<a href="http://rss.stumbleupon.com/url/www.youtube.com/watch%253Fv%253DAYOFLqItuW4">0 reviews</a>
+
+                                    [comments] => http://rss.stumbleupon.com/url/www.youtube.com/watch%253Fv%253DAYOFLqItuW4
+                                )
+
+                            [5] => Array
+                                (
+                                    [pubDate] => Wed, 08 Feb 2012 02:13:46 -0800
+                                    [title] => Sleepy Man Banjo Boys - How Mountain Girls Can
+                                    [guid] => G78A8/To1A5NNTyNJ3wDFX4jeiM
+                                    [guid_attr] => Array
+                                        (
+                                            [isPermaLink] => true
+                                        )
+
+                                    [link] => http://www.stumbleupon.com/to/1vPqA6/www.youtube.com/watch?v=J7MoWPTeYS4/src:favorites
+                                    [description] => 
+<a href="http://www.stumbleupon.com/to/1vPqA6/www.youtube.com/watch?v=J7MoWPTeYS4/src:favorites"><img src="http://cdn.stumble-upon.com/mthumb/478/99472478.jpg"/></a><br/>
+<a href="http://rss.stumbleupon.com/url/www.youtube.com/watch%253Fv%253DJ7MoWPTeYS4">2 reviews</a>
+
+                                    [comments] => http://rss.stumbleupon.com/url/www.youtube.com/watch%253Fv%253DJ7MoWPTeYS4
+                                )
+
+                            [6] => Array
+                                (
+                                    [pubDate] => Sun, 05 Feb 2012 13:00:41 -0800
+                                    [title] => Snoring Duck
+                                    [guid] => gJM4C80KX6x5hjkKol0qV4p1/JU
+                                    [guid_attr] => Array
+                                        (
+                                            [isPermaLink] => true
+                                        )
+
+                                    [link] => http://www.stumbleupon.com/to/3GA3sT/www.youtube.com/watch?v=_vdYSZ4YGnU/src:favorites
+                                    [description] => 
+<a href="http://www.stumbleupon.com/to/3GA3sT/www.youtube.com/watch?v=_vdYSZ4YGnU/src:favorites"><img src="http://cdn.stumble-upon.com/mthumb/271/20579271.jpg"/></a><br/>
+<a href="http://rss.stumbleupon.com/url/www.youtube.com/watch%253Fv%253D_vdYSZ4YGnU">9 reviews</a>
+
+                                    [comments] => http://rss.stumbleupon.com/url/www.youtube.com/watch%253Fv%253D_vdYSZ4YGnU
+                                )
+
+                            [7] => Array
+                                (
+                                    [pubDate] => Sun, 05 Feb 2012 05:20:24 -0800
+                                    [title] => All Of Nickelbacks Greatest Hits Played At Once
+                                    [guid] => UO2pyogRv1wpRQo8bO3qV36Ryo4
+                                    [guid_attr] => Array
+                                        (
+                                            [isPermaLink] => true
+                                        )
+
+                                    [link] => http://www.stumbleupon.com/to/AtCGdc/www.youtube.com/watch?v=SfmFt2aRjM0/src:favorites
+                                    [description] => 
+<a href="http://www.stumbleupon.com/to/AtCGdc/www.youtube.com/watch?v=SfmFt2aRjM0/src:favorites"><img src="http://cdn.stumble-upon.com/mthumb/319/95890319.jpg"/></a><br/>
+<a href="http://rss.stumbleupon.com/url/www.youtube.com/watch%253Fv%253DSfmFt2aRjM0">3 reviews</a>
+
+                                    [comments] => http://rss.stumbleupon.com/url/www.youtube.com/watch%253Fv%253DSfmFt2aRjM0
+                                )
+
+                            [8] => Array
+                                (
+                                    [pubDate] => Sat, 04 Feb 2012 12:44:45 -0800
+                                    [title] => Hysterical bubbles! (original) - laughing baby
+                                    [guid] => GQnnKIhaevqD3Jt5GAlMF+pj84w
+                                    [guid_attr] => Array
+                                        (
+                                            [isPermaLink] => true
+                                        )
+
+                                    [link] => http://www.stumbleupon.com/to/2Q9frp/www.youtube.com/watch?v=gnagemulucw/src:favorites
+                                    [description] => 
+<a href="http://www.stumbleupon.com/to/2Q9frp/www.youtube.com/watch?v=gnagemulucw/src:favorites"><img src="http://cdn.stumble-upon.com/mthumb/370/69051370.jpg"/></a><br/>
+<a href="http://rss.stumbleupon.com/url/www.youtube.com/watch%253Fv%253Dgnagemulucw">10 reviews</a>
+
+                                    [comments] => http://rss.stumbleupon.com/url/www.youtube.com/watch%253Fv%253Dgnagemulucw
+                                )
+
+                            [9] => Array
+                                (
+                                    [pubDate] => Sat, 04 Feb 2012 12:30:28 -0800
+                                    [title] => Little Kid Gives Epic Speech After First Bike Ride - Video
+                                    [guid] => KrwpTZxI1ce5VdzUQTCmkjrGLng
+                                    [guid_attr] => Array
+                                        (
+                                            [isPermaLink] => true
+                                        )
+
+                                    [link] => http://www.stumbleupon.com/to/4WnAjl/www.metacafe.com/watch/6505362/little_kid_gives_epic_speech_after_first_bike_ride/src:favorites
+                                    [description] => 
+<a href="http://www.stumbleupon.com/to/4WnAjl/www.metacafe.com/watch/6505362/little_kid_gives_epic_speech_after_first_bike_ride/src:favorites"><img src="http://cdn.stumble-upon.com/mthumb/547/73603547.jpg"/></a><br/>
+<a href="http://rss.stumbleupon.com/url/www.metacafe.com/watch/6505362/little_kid_gives_epic_speech_after_first_bike_ride/">36 reviews</a>
+
+                                    [comments] => http://rss.stumbleupon.com/url/www.metacafe.com/watch/6505362/little_kid_gives_epic_speech_after_first_bike_ride/
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [rss_attr] => Array
+        (
+            [version] => 2.0
+            [xmlns:dc] => http://purl.org/dc/elements/1.1/
+            [xmlns:sy] => http://purl.org/rss/1.0/modules/syndication/
+            [xmlns:admin] => http://webns.net/mvcb/
+            [xmlns:rdf] => http://www.w3.org/1999/02/22-rdf-syntax-ns#
+            [xmlns:content] => http://purl.org/rss/1.0/modules/content/
+            [xmlns:atom] => http://www.w3.org/2005/Atom
+        )
+
+)

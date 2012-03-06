@@ -1,0 +1,67 @@
+http://friendfeed.com/
+http://friendfeed.com/api/
+http://friendfeed.com/api/documentation
+
+http://code.google.com/p/friendfeed-api/wiki/ApiDocumentation
+
+API Registration:
+
+http://friendfeed.com/api/register
+
+Applications:
+-------------
+
+http://friendfeed.com/api/applications
+
+When I am trying to get the application key. It throws the following error,
+
+Service Unavailable
+
+We encountered an error on your last request. Our service is new, and we are just working out the kinks. We apologize for the inconvenience.
+
+group:
+------
+
+http://friendfeed.com/christin-sujith
+
+
+code:
+-----
+
+http://code.google.com/p/friendfeed-api/downloads/list
+
+here we can get the friendfeed library
+
+
+feed:
+-----
+
+http://friendfeed-api.com/v2/feed/christin-sujith
+
+feed public:
+------------
+
+http://friendfeed-api.com/v2/feed/public?format=json
+
+search:
+-------
+
+http://friendfeed-api.com/v2/search?q=obama
+
+Fetching entries for a url:
+----------------------------
+http://friendfeed-api.com/v2/url?url=http://blog.friendfeed.com/
+
+
+localization:
+-------------
+
+http://friendfeed-api.com/v2/feed/public?locale=en
+
+Comment & Like:
+----------------
+
+http://friendfeed-api.com/v2/feed/bret?maxcomments=auto&maxlikes=auto
+
+
+*Note: Friendfeed does nt provide the api key now. So we have to use the remote key.

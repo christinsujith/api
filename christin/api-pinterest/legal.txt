@@ -1,0 +1,4 @@
+
+The Parser class libray function taken from the following url
+
+http://php.net/manual/en/function.xml-parse.php

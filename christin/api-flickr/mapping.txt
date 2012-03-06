@@ -1,0 +1,4 @@
+object : data->title, data->authorname,data->_content
+actor : data->id, data->owner, data->author
+verb : data->count, data->followers
+attachment : data->uri, data->permalink

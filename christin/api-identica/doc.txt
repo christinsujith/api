@@ -1,0 +1,13 @@
+http://identi.ca/doc/api
+http://status.net/wiki/API
+
+identi.ca provides the following details to access the core information 
+
+http://identi.ca/api/search.json?q=chris
+http://identi.ca/api/statuses/public_timeline.json
+http://identi.ca/api/statuses/user_timeline/630628.as
+http://identi.ca/api/statuses/public_timeline.rss
+
+http://identi.ca/api/statuses/public_timeline.as
+http://identi.ca/rss
+http://identi.ca/christinsujith/foaf

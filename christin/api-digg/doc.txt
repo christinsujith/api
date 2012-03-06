@@ -1,0 +1,15 @@
+Please install the following PEAR packages. If you are  a windows user, download the packages and place it into the pear repository. Otherwise keep the files in a library and write the include path in you php.ini file.
+
+http://pear.php.net/package/Services_Digg2/download
+http://pear.php.net/package/Net_URL2/download
+http://pear.php.net/package/PEAR/download
+http://pear.php.net/package/HTTP_Request2/download
+http://pear.php.net/package/HTTP_OAuth/download
+
+
+https://github.com/digg/Services_Digg2
+http://developers.digg.com/toolkits
+
+Access some basic information authentication is not required. but to access the important information, we have to use the oauth verification to get the access token and the request token. Please use the following url for more information about the authentication.
+
+http://oauth.net/code/

@@ -1,0 +1,3 @@
+actor : data->author
+object : data->title,data->description, data->pubDate
+attachment : data->url, data->link, data->guid

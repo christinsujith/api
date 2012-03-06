@@ -1,0 +1,4 @@
+http://vimeo.com/api/docs/oauth
+http://vimeo.com/api/docs/methods
+http://vimeo.com/api/docs/downloads
+https://github.com/vimeo/vimeo-php-lib

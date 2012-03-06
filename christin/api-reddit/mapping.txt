@@ -1,0 +1,3 @@
+actor data->name, data->title
+object  data->created_utc, data->id, data->num_comments
+attachment data->link_karma, data-url

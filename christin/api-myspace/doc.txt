@@ -1,0 +1,15 @@
+myspace.com/580406986 
+
+http://wiki.developer.myspace.com/index.php?title=What_is_MySpaceID%3F#Setting_Up_an_Application
+
+Request Token
+http://api.myspace.com/request_token
+
+User Authorization
+http://api.myspace.com/authorize
+
+Access Token
+http://api.myspace.com/access_token
+
+
+http://wiki.developer.myspace.com/index.php?title=MySpace_Onsite_Apps

@@ -1,0 +1,61 @@
+﻿stdClass Object
+(
+    [count] => 0
+    [title] => 
+    [timestamp] => 1330501379
+    [uri] => http://services.digg.com/2.0/comment.getInfo?comment_ids=20100729223726%3A4fef610331ee46a3b5cbd740bf71313e&type=json
+    [comments] => Array
+        (
+        )
+
+    [cursor] => 
+    [version] => 2.0
+    [authorized] => 0
+    [data] => comments
+    [method] => comment.getInfo
+    [user] => 
+)
+stdClass Object
+(
+    [count] => 1
+    [users] => stdClass Object
+        (
+            [christinsujith] => stdClass Object
+                (
+                    [username] => christinsujith
+                    [about] => 
+                    [user_id] => 20120228153035:499228a0-39f5-4bfe-bffc-75a875d9d4b9
+                    [name] => Christin Sujith
+                    [icons] => Array
+                        (
+                            [0] => http://cdn1.diggstatic.com/user/20120228153035:499228a0-39f5-4bfe-bffc-75a875d9d4b9/c.3458116192.png
+                            [1] => http://cdn2.diggstatic.com/user/20120228153035:499228a0-39f5-4bfe-bffc-75a875d9d4b9/h.3458116192.png
+                            [2] => http://cdn1.diggstatic.com/user/20120228153035:499228a0-39f5-4bfe-bffc-75a875d9d4b9/m.3458116192.png
+                            [3] => http://cdn2.diggstatic.com/user/20120228153035:499228a0-39f5-4bfe-bffc-75a875d9d4b9/l.3458116192.png
+                            [4] => http://cdn2.diggstatic.com/user/20120228153035:499228a0-39f5-4bfe-bffc-75a875d9d4b9/p.3458116192.png
+                            [5] => http://cdn1.diggstatic.com/user/20120228153035:499228a0-39f5-4bfe-bffc-75a875d9d4b9/s.3458116192.png
+                            [6] => http://cdn1.diggstatic.com/user/20120228153035:499228a0-39f5-4bfe-bffc-75a875d9d4b9/r.3458116192.png
+                        )
+
+                    [gender] => 
+                    [diggs] => 0
+                    [comments] => 0
+                    [followers] => 0
+                    [location] => 
+                    [following] => 4
+                    [submissions] => 0
+                    [icon] => http://cdn1.diggstatic.com/user/20120228153035:499228a0-39f5-4bfe-bffc-75a875d9d4b9/p.3458116192.png
+                )
+
+        )
+
+    [title] => Info for users christinsujith
+    [timestamp] => 1330503802
+    [uri] => http://services.digg.com/2.0/user.getInfo?usernames=christinsujith&type=json
+    [cursor] => 
+    [version] => 2.0
+    [authorized] => 0
+    [data] => users
+    [method] => user.getInfo
+    [user] => 
+)

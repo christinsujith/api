@@ -1,0 +1,79 @@
+stdClass Object
+(
+    [rss] => stdClass Object
+        (
+            [title] => Metacafe
+            [channel] => stdClass Object
+                (
+                    [title] => Metacafe - prabhakar channel
+                    [link] => http://www.metacafe.com/channels/prabhakar/
+                    [image] => stdClass Object
+                        (
+                            [url] => http://s.mcstatic.com/Images/MCLogo4RSS.jpg
+                            [link] => http://www.metacafe.com
+                            [title] => Metacafe
+                            [height] => 65
+                            [width] => 229
+                        )
+
+                    [description] => User profile
+                    [item] => stdClass Object
+                        (
+                            [title] => prabhakar
+                            [link] => http://www.metacafe.com/channels/prabhakar
+                            [joined] => 02.23.10
+                            [last_login] => 2 years ago
+                            [channel_views] => 10
+                            [avg_rank] => 0
+                            [honors] => Array
+                                (
+                                )
+
+                            [subscribers] => 0
+                            [videos] => 0
+                            [earnings] => 0
+                            [description] => 
+				<a href="http://www.metacafe.com/channels/prabhakar"><img src="http://s6.mcstatic.com/image/user_photo/default/default.jpg" align="right" border="0" alt="prabhakar" vspace="4" hspace="4" width="75" height="53" /></a>
+								Ranked <strong>0</strong> / 5 | 0 videos | 10 views | 0 subscribers
+				<br/>Joined: 02.23.10, last visited: 2 years ago<br>			
+                            [quote] => Array
+                                (
+                                )
+
+                            [personal_info] => Array
+                                (
+                                )
+
+                            [info] => Array
+                                (
+                                )
+
+                            [url] => Array
+                                (
+                                )
+
+                            [user_picture] => Array
+                                (
+                                )
+
+                            [user_picture_attr] => stdClass Object
+                                (
+                                    [url] => http://s6.mcstatic.com/image/user_photo/default/default.jpg
+                                    [width] => 50
+                                    [height] => 50
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [rss_attr] => stdClass Object
+        (
+            [version] => 2.0
+            [xmlns:media] => http://search.yahoo.com/mrss/
+            [source] => Metacafe
+        )
+
+)

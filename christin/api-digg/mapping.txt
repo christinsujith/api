@@ -1,0 +1,4 @@
+object : data->title, data->username, data->name
+actor : data->user_id
+verb : data->count, data->followers
+attachment : data->uri, data->canonicalUrl

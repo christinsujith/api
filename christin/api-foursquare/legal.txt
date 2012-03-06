@@ -1,0 +1,8 @@
+Rate Limits:
+------------
+
+According to the rate limit which is specified in https://developer.foursquare.com/overview/ratelimits 
+
+Policies:
+---------
+https://developer.foursquare.com/overview/community

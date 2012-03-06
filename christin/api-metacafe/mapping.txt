@@ -1,0 +1,26 @@
+Videos
+----------
+object : data->title, data->channel,data->rank,data->description,data->category
+actor : data->id, data->guid, data->author,data->guid_attr,data->player_attr
+verb : data->content, data->content_attr , data->keywords,data->credit,data->rating
+attachment : data->link, data->isPermaLink
+
+licensed
+--------
+object : data->title, data->channel,data->description
+actor : data->source
+attachment : data->link, data->url
+
+Channels
+----------
+object : data->title, data->channel,data->joined,data->description,data->last_login
+actor : data->personal_info, data->info,data->quote
+verb : data->channel_views, data->avg_rank, data->earnings, data->subscribers, data->videos
+attachment : data->link, data->url
+
+Users
+----------
+object : data->title, data->channel,data->joined,data->description,data->last_login
+actor : data->personal_info, data->info,data->quote
+verb : data->channel_views, data->avg_rank, data->earnings, data->subscribers, data->videos
+attachment : data->link, data->url

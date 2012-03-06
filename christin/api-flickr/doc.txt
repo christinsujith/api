@@ -1,0 +1,25 @@
+Registration:
+------------
+
+First of all register with flickr in the following link
+
+http://www.flickr.com
+
+API Registration:
+-----------------
+
+http://www.flickr.com/services/apps/create/noncommercial/
+
+
+
+community guidelines:
+---------------------
+
+http://www.flickr.com/help/guidelines/
+
+
+API functions documentation:
+----------------------------
+
+http://www.flickr.com/services/api/
+

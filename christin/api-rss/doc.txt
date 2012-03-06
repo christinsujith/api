@@ -1,0 +1,12 @@
+Namespace Reference:
+
+http://feed2.w3.org/docs/howto/declare_namespaces.html
+www.rss-tools.com/namespace-extensions.htm
+http://validator.w3.org/feed/docs/howto/declare_namespaces.html
+http://www.rss-tools.com/rss-and-php.htm
+http://www.rssboard.org/rss-profile
+
+
+Image display in rss feed:
+
+http://www.w3schools.com/rss/tryrss.asp?filename=rss_ex_image

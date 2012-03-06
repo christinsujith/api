@@ -1,0 +1,31 @@
+stdClass Object
+(
+    [rss] => stdClass Object
+        (
+            [title] => Metacafe
+            [channel] => stdClass Object
+                (
+                    [title] => Metacafe - Videos by prabhakar
+                    [link] => http://www.metacafe.com/channels/prabhakar/
+                    [image] => stdClass Object
+                        (
+                            [url] => http://s.mcstatic.com/Images/MCLogo4RSS.jpg
+                            [link] => http://www.metacafe.com
+                            [title] => Metacafe
+                            [height] => 65
+                            [width] => 229
+                        )
+
+                    [description] => prabhakar's channel
+                )
+
+        )
+
+    [rss_attr] => stdClass Object
+        (
+            [version] => 2.0
+            [xmlns:media] => http://search.yahoo.com/mrss/
+            [source] => Metacafe
+        )
+
+)

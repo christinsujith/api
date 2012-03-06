@@ -1,0 +1,37 @@
+ * SOURCE CODE LOCATION:
+ * 
+ *   http://code.google.com/p/simple-linkedinphp/
+ *    
+ * REQUIREMENTS:
+ * 
+ * 1. You must have cURL installed on the server and available to PHP.
+ * 2. You must be running PHP 5+.
+ * 3. You must have the Simple-LinkedIn library installed on the server.   
+ *  
+ * QUICK START:
+ * 
+ * There are two files needed to enable LinkedIn API functionality from PHP; the
+ * stand-alone OAuth library, and the Simple-LinkedIn library. The latest 
+ * version of the stand-alone OAuth library can be found on Google Code:
+ * 
+ *   http://code.google.com/p/oauth/
+ * 
+ * The latest versions of the Simple-LinkedIn library and these demonstation 
+ * scripts can be found here:
+ * 
+ *   http://code.google.com/p/simple-linkedinphp/
+ *   
+ * Install these two files on your server in a location that is accessible to 
+ * these demo scripts. Make sure to change the file permissions such that your 
+ * web server can read the files.
+ * 
+ * Next, make sure the path to the LinkedIn class below is correct.
+ * 
+ * Next, insert your application API key and secret into the $API_CONFIG 
+ * variable below.  
+ * 
+ * Finally, read and follow the 'Quick Start' guidelines located in the comments
+ * of the Simple-LinkedIn library file, and the documentation located on the 
+ * Google Code page:
+ * 
+ *   http://code.google.com/p/simple-linkedinphp/wiki/QuickStart     

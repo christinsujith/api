@@ -1,0 +1,907 @@
+﻿object(stdClass)#7 (1) {
+  ["query"]=>
+  object(stdClass)#8 (4) {
+    ["count"]=>
+    int(1)
+    ["created"]=>
+    string(20) "2012-03-01T14:17:18Z"
+    ["lang"]=>
+    string(5) "en-US"
+    ["results"]=>
+    object(stdClass)#9 (1) {
+      ["item"]=>
+      object(stdClass)#10 (7) {
+        ["title"]=>
+        string(66) "China's big factories rebound as smaller firms lag 
+    (Reuters)
+"
+        ["link"]=>
+        string(111) "http://us.rd.yahoo.com/dailynews/rss/topstories/*http://news.yahoo.com/s/nm/20120301/ts_nm/us_china_economy_pmi"
+        ["guid"]=>
+        object(stdClass)#11 (2) {
+          ["isPermaLink"]=>
+          string(5) "false"
+          ["content"]=>
+          string(32) "nm/20120301/us_china_economy_pmi"
+        }
+        ["source"]=>
+        string(7) "Reuters"
+        ["category"]=>
+        string(10) "topstories"
+        ["pubDate"]=>
+        string(29) "Thu, 01 Mar 2012 12:13:23 GMT"
+        ["description"]=>
+        string(249) "Reuters - China's factories grew more than expected in February as new export orders for big firms bounced back, a government survey showed, while a private-sector report portrayed a different picture of smaller companies lagging behind the rebound."
+      }
+    }
+  }
+}
+object(stdClass)#12 (1) {
+  ["query"]=>
+  object(stdClass)#13 (4) {
+    ["count"]=>
+    int(10)
+    ["created"]=>
+    string(20) "2012-03-01T14:18:25Z"
+    ["lang"]=>
+    string(5) "en-US"
+    ["results"]=>
+    object(stdClass)#14 (1) {
+      ["event"]=>
+      array(10) {
+        [0]=>
+        object(stdClass)#15 (41) {
+          ["category_id"]=>
+          string(1) "1"
+          ["date_posted"]=>
+          string(19) "2012-01-08 10:57:45"
+          ["description"]=>
+          string(1600) "Thursday, March 1, 2012 - 9:00pm until 3:00am The End is Near Tour w/ 12th Planet, Flinch & Kastle  All Events at MIGHTY are 21+  ADV.TIX http://12planet.eventbrite.com/  MIGHTY & Scion present The End is Near Tour w/ 12th Planet, Flinch & Kastle. Opening set from Matt Haze (Slayers Club | Bikes & Beats)  Proving once again that 2011 has been a pivotal year for electronic dance music, dubstep — arguably the most niche of the EDM sub-genres in America — now has the support of some of the biggest brands in the world.  After crowning Skrillex the Best EDM Artist of 2011, We're happy to announce that a good buddy and collabo partner of Skrilex's, 12th Planet, is primed to pop as well. In fact, judging by his success in '11, next year looks to be explosive for the Los Angeles-based dubstep king and SMOG label frontman.  Not only did 12th Planet embark on a sold-out, 50-date tour of the U.S. alongside Skrill, but the DJ/ producer born John Dadzie also released his Who Are We? EP, and did production work for Korn. Now, 12th has partnered with Scion Audio Visual on a free-for-download EP titled The End Is Near; a tour of the same name will follow in 2012.  The five-track TEIN EP features bass scene notables like Skrillex & Kill the Noise, SPL (Sam Pool), Flinch, and Antiserum. Meanwhile, Flinch as well as Kastle and Crizzly will all join 12th on a 21-date tour launching from Miami on February 3 and wrapping up in Eugene, Oregon, on March 3. The End Is Near EP will be available for download on Scionav.com on January 18.  @12thplanet http://preemtiv.com/widgets/12thplanet/dl.html"
+          ["distance"]=>
+          string(4) "1.04"
+          ["distance_units"]=>
+          string(5) "miles"
+          ["end_date"]=>
+          string(10) "2012-03-02"
+          ["end_time"]=>
+          string(8) "03:00:00"
+          ["geocoding_ambiguous"]=>
+          string(1) "0"
+          ["geocoding_precision"]=>
+          string(7) "address"
+          ["id"]=>
+          string(7) "8636270"
+          ["latitude"]=>
+          string(7) "37.7671"
+          ["longitude"]=>
+          string(9) "-122.4061"
+          ["metro_id"]=>
+          string(0) ""
+          ["name"]=>
+          string(52) "The End is Near Tour w/ 12th Planet, Flinch & Kastle"
+          ["num_future_events"]=>
+          string(1) "0"
+          ["personal"]=>
+          string(1) "0"
+          ["photo_url"]=>
+          string(0) ""
+          ["selfpromotion"]=>
+          string(1) "0"
+          ["start_date"]=>
+          string(10) "2012-03-01"
+          ["start_date_last_rendition"]=>
+          string(11) "Mar 1, 2012"
+          ["start_time"]=>
+          string(8) "21:00:00"
+          ["ticket_free"]=>
+          string(1) "0"
+          ["ticket_price"]=>
+          string(7) "$10-$20"
+          ["ticket_url"]=>
+          string(31) "http://12planet.eventbrite.com/"
+          ["url"]=>
+          string(24) "http://www.mighty119.com"
+          ["user_id"]=>
+          string(7) "1378976"
+          ["utc_end"]=>
+          string(23) "2012-03-02 11:00:00 UTC"
+          ["utc_start"]=>
+          string(23) "2012-03-02 05:00:00 UTC"
+          ["venue_address"]=>
+          string(11) "550 15th St"
+          ["venue_city"]=>
+          string(13) "San Francisco"
+          ["venue_country_code"]=>
+          string(2) "us"
+          ["venue_country_id"]=>
+          string(7) "1000000"
+          ["venue_country_name"]=>
+          string(13) "United States"
+          ["venue_id"]=>
+          string(6) "368358"
+          ["venue_name"]=>
+          string(6) "Mighty"
+          ["venue_state_code"]=>
+          string(2) "CA"
+          ["venue_state_id"]=>
+          string(7) "1000000"
+          ["venue_state_name"]=>
+          string(10) "California"
+          ["venue_url"]=>
+          string(0) ""
+          ["venue_zip"]=>
+          string(5) "94103"
+          ["watchlist_count"]=>
+          string(1) "1"
+        }
+        [1]=>
+        object(stdClass)#16 (41) {
+          ["category_id"]=>
+          string(3) "1;2"
+          ["date_posted"]=>
+          string(19) "2012-02-20 13:28:04"
+          ["description"]=>
+          string(1196) "Red Bull Thre3Style is an innovative concept that gives highly skilled DJs a global platform to showcase their skills, battle and gain notoriety by rockin’ the dance floor.Red Bull Thre3Style is an innovative concept that gives highly skilled DJs a global platform to showcase their skills, battle and gain notoriety by rockin’ the dance floor. Eight battle-ready DJs from the West Coast looking to prove their supremacy as the top party DJ. Competing DJs include Bay Area locals KingMost, Zita, Theory, Just, Miles Medina and John Beaver. Also competing are Four Color Zack (won Seattle pre-qualifier) and Playtime (won Portland pre-qualifier).  The event will be hosted by Franco Finn (Golden State Warriors MC). Guest judges will include Aaron Axelsen (Live 105 Music Director and Founder of PopScene), Shortkut (Invisbl Skratch Piklz & Beat Junkies), Big Once (2011 Red Bull Thre3Style National Champion) and Bag Raiders (Australian Recording Artists & Production Duo on Modular Recordings) will judge and headline the event with a special closing set.  FaceBook Invite - https://www.facebook.com/events/327856077257867/  FaceBook Invite - https://www.facebook.com/events/327856077257867/"
+          ["distance"]=>
+          string(4) "0.88"
+          ["distance_units"]=>
+          string(5) "miles"
+          ["end_date"]=>
+          string(10) "2012-03-02"
+          ["end_time"]=>
+          string(8) "02:00:00"
+          ["geocoding_ambiguous"]=>
+          string(1) "0"
+          ["geocoding_precision"]=>
+          string(7) "address"
+          ["id"]=>
+          string(7) "8755779"
+          ["latitude"]=>
+          string(7) "37.7875"
+          ["longitude"]=>
+          string(9) "-122.4099"
+          ["metro_id"]=>
+          string(12) "2;45;1000000"
+          ["name"]=>
+          string(23) "Red Bull Thre3Style: SF"
+          ["num_future_events"]=>
+          string(1) "0"
+          ["personal"]=>
+          string(1) "0"
+          ["photo_url"]=>
+          string(66) "http://farm8.hv-static.flickr.com/7198/6919350621_d47fb24e14_t.jpg"
+          ["selfpromotion"]=>
+          string(1) "0"
+          ["start_date"]=>
+          string(10) "2012-03-01"
+          ["start_date_last_rendition"]=>
+          string(11) "Mar 1, 2012"
+          ["start_time"]=>
+          string(8) "21:00:00"
+          ["ticket_free"]=>
+          string(1) "0"
+          ["ticket_price"]=>
+          string(3) "$12"
+          ["ticket_url"]=>
+          string(23) "http://www.rubyskye.com"
+          ["url"]=>
+          string(0) ""
+          ["user_id"]=>
+          string(7) "1224967"
+          ["utc_end"]=>
+          string(23) "2012-03-02 10:00:00 UTC"
+          ["utc_start"]=>
+          string(23) "2012-03-02 05:00:00 UTC"
+          ["venue_address"]=>
+          string(12) "420 Mason St"
+          ["venue_city"]=>
+          string(13) "San Francisco"
+          ["venue_country_code"]=>
+          string(2) "US"
+          ["venue_country_id"]=>
+          string(1) "1"
+          ["venue_country_name"]=>
+          string(13) "United States"
+          ["venue_id"]=>
+          string(4) "6012"
+          ["venue_name"]=>
+          string(9) "Ruby Skye"
+          ["venue_state_code"]=>
+          string(2) "CA"
+          ["venue_state_id"]=>
+          string(1) "5"
+          ["venue_state_name"]=>
+          string(10) "California"
+          ["venue_url"]=>
+          string(23) "http://www.rubyskye.com"
+          ["venue_zip"]=>
+          string(5) "94102"
+          ["watchlist_count"]=>
+          string(1) "1"
+        }
+        [2]=>
+        object(stdClass)#17 (41) {
+          ["category_id"]=>
+          string(4) "2;10"
+          ["date_posted"]=>
+          string(19) "2012-02-27 12:51:45"
+          ["description"]=>
+          string(2399) "Hey dancers, come on out for the Friday March 2 opener of Crazy Horse for a performance by the Bay Area's hottest burlesque groups including Hubba Hubba Revue and Fishnet Follies School of Classic Burlesque before the 7:05 show.  Celebrated documentary director Frederick Wiseman spent ten weeks with his camera exploring one of the most mythic places dedicated to women: THE CRAZY HORSE. Over the years this legendary Parisian cabaret club, founded in 1951 by Alain Bernardin, has become, the Parisian... nightlife ‘must’ for any visitors, ranking alongside the Eiffel Tower and The Louvre. Wiseman’s impeccable eye allows us to enter into this intriguing international temple of the Parisian club world and to discover what makes the Crazy Horse tick: elegance, perfectionism and a grueling schedule (with two shows a night and three on Saturdays, seven days a week).   The film follows the rehearsals and performances for a new show called “DÉSIRS,” staged by Philippe Decouflé, a celebrated French choreographer, as well as the backstage preparations of the dancers (make-up and costume fittings) and also the various issues involved in the planning of the show and the administration of the club. The show DÉSIRS is an artistic, modern, humorous and colorful spectacle that is the pinnacle of ‘nude chic.’ http://www.facebook.com/CrazyHorseDoc http://twitter.com/CrazyHorseDoc   "A reminder of what a documentary can be." - A.O. Scott/The New York Times  "The artistic impulse and visual creativity behind the numbers here confirms the appeal the Crazy Horse has for both men and women... One could simply experience the film as a warm, gentle, seductive shower of similar but ever-changing images and be happy with that.” - Todd McCarthy/Hollywood Reporter  “The most artful sort of eye candy.” - Steve Dollar/Wall Street Journal  “CRITICS’ PICK! Eye-popping, sensual, engrossing and mesmerizing” - Miranda Siegel/New York Magazine  "A WORK OF ART! A reminder of what a documentary can be." - A.O. Scott/The New York Times  “From the first shot of a shadow puppet to the lavish displays of topless dancers gyrating in sync, CRAZY HORSE announces itself as a study of delicate motion.” - Eric Kohn/IndieWIRE(Included in IndieWIRE's "13 To Watch" festival preview)  The film’s running time is 128 minutes; it is not rated. In French; fully subtitled in English"
+          ["distance"]=>
+          string(4) "1.63"
+          ["distance_units"]=>
+          string(5) "miles"
+          ["end_date"]=>
+          string(10) "2012-03-08"
+          ["end_time"]=>
+          string(8) "22:00:00"
+          ["geocoding_ambiguous"]=>
+          string(1) "0"
+          ["geocoding_precision"]=>
+          string(7) "address"
+          ["id"]=>
+          string(7) "8763278"
+          ["latitude"]=>
+          string(7) "37.7946"
+          ["longitude"]=>
+          string(6) "-122.4"
+          ["metro_id"]=>
+          string(4) "2;45"
+          ["name"]=>
+          string(94) "Crazy Horse opens w/ live performance by burlesque group Hubba Hubba Revue 3/2 @Embarcadero-SF"
+          ["num_future_events"]=>
+          string(1) "0"
+          ["personal"]=>
+          string(1) "0"
+          ["photo_url"]=>
+          string(0) ""
+          ["selfpromotion"]=>
+          string(1) "0"
+          ["start_date"]=>
+          string(10) "2012-03-02"
+          ["start_date_last_rendition"]=>
+          string(11) "Mar 2, 2012"
+          ["start_time"]=>
+          string(8) "12:00:00"
+          ["ticket_free"]=>
+          string(1) "0"
+          ["ticket_price"]=>
+          string(6) "$10.50"
+          ["ticket_url"]=>
+          string(51) "http://www.landmarktheatres.com/tickets/default.asp"
+          ["url"]=>
+          string(0) ""
+          ["user_id"]=>
+          string(6) "136002"
+          ["utc_end"]=>
+          string(23) "2012-03-09 06:00:00 UTC"
+          ["utc_start"]=>
+          string(23) "2012-03-02 20:00:00 UTC"
+          ["venue_address"]=>
+          string(22) "One Embarcadero Center"
+          ["venue_city"]=>
+          string(13) "San Francisco"
+          ["venue_country_code"]=>
+          string(2) "us"
+          ["venue_country_id"]=>
+          string(1) "1"
+          ["venue_country_name"]=>
+          string(13) "United States"
+          ["venue_id"]=>
+          string(4) "9360"
+          ["venue_name"]=>
+          string(36) "Landmarks' Embarcadero Center Cinema"
+          ["venue_state_code"]=>
+          string(2) "ca"
+          ["venue_state_id"]=>
+          string(1) "5"
+          ["venue_state_name"]=>
+          string(10) "California"
+          ["venue_url"]=>
+          string(77) "http://www.landmarktheatres.com/Market/SanFrancisco/SanFrancisco_Frameset.htm"
+          ["venue_zip"]=>
+          string(5) "94111"
+          ["watchlist_count"]=>
+          string(1) "1"
+        }
+        [3]=>
+        object(stdClass)#18 (41) {
+          ["category_id"]=>
+          string(4) "2;15"
+          ["date_posted"]=>
+          string(19) "2012-02-12 14:53:53"
+          ["description"]=>
+          string(12225) " sheRose of our Time: A Tribute to the First Lady, Michelle Obama Curated by Eric Murphy  March 2 – April 19, 2012  Opening Reception: First Friday, March 2 6-9pm  Poet Voices (Deborah James, Paradise, Jeanne Powell, and Mechelle LaChaux, Katie Ball and Aqueila Lewis)  Artist Awards and Panel Talk: Thursday, April 5  5-7pm  Closing Reception: Thursday, April 19 5-8pm  2hr performance by Shelly Cone from Santa Maria, Ca. (Ay! Mami: Tales of Motherhood with a Latina Twist)  Where:  Joyce Gordon Gallery 406 14th St  Oakland, Ca. 94612 http://www.joycegordongallery.com/  Who: Christine Balza, Ebony Iman Dallas, Shari Arai Deboer, Joan Finton, Penny Harncharnvej, Betty Nobue Kano, Deborah Lozier, L. Frank Manriquez, Kemba Shakur in partnership with installation artist and sculptor Karen Seneferu and the Oakland Museum of California, Judy Stone, Flo Oy Wong, Sandhya Sood with the Julia Morgan 2012 and the Organization for Women Architects and design artists (OWA) and more.  Joyce Gordon Gallery and A.I. Oakland presents “sheRose of our Time” an exhibition paying tribute to the First Lady, Michelle Obama for her continued support of cultural and economic significance in the arts at a time when many worthy causes compete for her attention. Our First Lady informs us that nearly 6 million people make their living in the nonprofit arts industry and that arts and cultural activities contribute more than $160 billion to our economy every year. "The arts are not just a nice thing to have or to do if there is free time or if one can afford it," she said. "Rather, paintings and poetry, music and fashion, design and dialogue, they all define who we are as a people and provide an account of our history for the next generation. My husband and I believe strongly that arts education is essential for building innovative thinkers who will be our nation’s leaders of tomorrow,” – Michelle Obama  It has become commonplace in the United States for the title of "First Lady" to be bestowed on women, as a term of endearment, who have proven themselves to be of exceptional talent, even if that talent is non-political. “sheRose of our Time” highlights women artists of diverse media and performing arts who have and will inspire innovative thinkers of the next generation. In keeping with the tradition of Michelle Obama as a presenter of artist awards, we on behalf of Joyce Gordon Gallery would like to honor the first ladies of our lifetime for making a difference in the arts through history, culture, craft, design, and urban development.    Betty Nobue Kano, painter, curator and lecturer, was born in Sendai, Japan. After earning her M.F.A. in Painting from U.C. Berkeley, she has exhibited her work in over 200 regional, national and international venues. She lectures at SFSU and a former Executive Director of Pro Arts Gallery, a nonprofit art gallery in Oakland, CA.  Betty Nobue Kano and Flo Oy Wong co-founded the Asian American Women Artists Association (AAWAA), a nonprofit organization promoting the visibility of Asian American women artists and to serve as a vehicle for personal expression with a view of Asian American cultures and history from women’s perspective. We are honoring Betty Nobue Kano with a Joyce award as First Lady of Culture.  Flo Oy Wong, a Sunnyvale, California-based mixed media installation artist, is a visual storyteller who began her career at the age of forty.  Born and raised in Oakland’s Chinatown, she has received numerous awards for her narrative work, including two National Endowment for the Arts. Flo is also a co-founder of the Northern California-based Asian American Women Artists Association. AAWAA gave Asian American women artists access to major museums, galleries, collections and publications and furthers the goal of establishing the place of Asian American women in American art history. We are honoring Flo Oy Wong with a Joyce award as First Lady of Culture. Christine Balza, a mother of four children and a self taught artist, finds her inspiration with the ancient Filipino script, Baybayin. Her paintings, sculptures and informational video share a lost writing system from the indigenous people of the Philippines. Baybayin’s use can be carbon dated to as far as 900C.E. and was last actively used in the 1800’s. In 2009, newspaper articles lead to featured interviews reaching both local and international media attention. She has taught Baybayin in workshops at Immaculate Conception, Sonoma and San Francisco State University and the Asian Art Museum. Exhibitions include, Linen Life Art Gallery, City of Oakland/State of California Craft and Cultural Arts Gallery, National Japanese American Historical Society Peace Gallery and Asian Art Museum. We are honoring Christine Balza with a Joyce award as first Lady of Culture.  L. Frank (nom d'arte of L. Frank Manriquez) is a Tongva- Acjachemen artist, writer, tribal scholar, cartoonist, and indigenous language activist who work is presented by BorderZone Arts in SF. She live and work in California and has won several awards for her activities, including from the American Association of University Women, the James Irvine Foundation, the Fund for Folk Culture (travel to the Native Californian art collection at the Musée de l' Homme in Paris). In 1995 she was featured as a "Local Hero" in KQED-TV/Examiner Newspaper's Native American Heritage Month series. Her artwork has been exhibited in museums and galleries locally, nationally, and internationally. L. Frank serves on the board of The Cultural Conservancy and is a co-founder of Advocates for Indigenous California Language Survival, a non-profit entity founded in 1992 whose goal is to assist California Indian communities and individuals in keeping their language alive and provide development of new speakers. We are honoring L. Frank with a Joyce award as First Lady of Culture.  Ebony Iman Dallas is an artist, designer and co-founder of Afrikanation Artists Organization, a non-profit, non-governmental organization founded in Hargeysa, Somaliland/Somalia in March 2010. Ebony Iman Dallas is originally from Oklahoma City, OK who currently resides in Oakland, CA. Her move across country brought with it a series of events that were both life altering and revealing of her purpose. This includes one fateful meeting that led her to her long lost Somali family on her late father's side, further inspiring her work. Currently an MFA Design candidate at California College of the Arts, her primary focus is on Interactive Design. Her thesis topic is about connecting artists of African descent internationally, in an effort to promote unity, understanding, collaboration and activism towards health, economic and socially related challenges among them. We are honoring Ebony Iman Dallas with a Joyce award as First Lady of International Culture.  Kemba Shakur is the founder and director of Urban Releaf, a nonprofit responsible for the planting of an estimated 14,000 trees in low-income East Bay communities. The 2009 Alameda County Women’s Hall of fame Inductee is fondly referred to as the “tree lady” and by the Oakland Museum of California as a modern day John Muir. A pivotal moment in her life came in the 1990s, when Kemba moved to West Oakland and was struck by the lack of greenery.  Instead of packing up and moving on, Kemba started planting trees.  She founded the Urban Releaf in 1999, guiding it to success by abiding two key principles – creating a more beautiful community where residents take pride in where they live and offering opportunities for at-risk youth and unemployed adults to gain marketable skills. We are honoring Kemba Shakur with a Joyce award as First Lady of Urban Forestry and Environmental Development.   Judy Stone is one of a small group of people worldwide who call themselves enamelists. Enameling, is a centuries-old process of fusing glass to metal with high heat and a complex medium that requires that the enamelist understand the intricate dance of metal, glass and heat and use of color used three-dimensionally. Stone has studied with some of the country's most prominent enamelists including Bill Helwig, Margaret Seeler, Jamie Bennett, William Harper and Martha Banyas. Her enamels are shown at crafts fairs and galleries both in the U.S. and in Europe. She also teaches enameling throughout the United States including the enameling department at The Crucible in Oakland, California is her creation. Stone is also co-founder of the Women’s Building Celebration of Craftswomen, which began in 1979, as a small crafts show featuring 22 craftswomen in SF.  In 1989, the highly successful event out grew its new home at The Women’s Building and is now hosted annually at Fort Mason Center. Over the years, The Women’s Building Arts and Crafts Fair grew into one of San Francisco’s top holiday attractions, yet remained true to its grassroots mission: promoting hand-crafted art by women artists. We are honoring Judy Stone with a Joyce award as First Lady of Enamel, Craft and Design.  Julia Morgan (January 20, 1872 – February 2, 1957) was an American  architect, born in San Francisco and raised in Oakland, Ca. A graduate of Oakland High School in 1890, Julia was small in stature (barely 5ft tall), but she left large footprints on the field of architecture and also opened doors to opportunities for many women. Morgan was a woman of firsts: one of the first women to graduate with a degree in civil engineering from the University of California in Berkeley; the first woman to graduate with a degree in architecture from the famous Ecole des Beaux-Arts in Paris, and the first female licensed architect in the State of California. In a field dominated by men, Morgan succeeded in becoming the one of the most prolific architects in American history, designing more than seven hundred buildings over her forty-seven-year career, which include schools, churches, stores, YWCA buildings, hospitals, houses, and apartments. At the same time, she spent twenty-eight years working on California’s most magnificent building, William Randolph Hearst’s Castle home at San Simeon. Julia Morgan is buried in the Mountain View Cemetery in Oakland,California.  Morgan’s legacy reminds us of what can be accomplished by those who persevere.   Sandhya Sood is a licensed architect, exhibited artist, certified green building professional (CGBP) and founder and Principal of Accent Architecture + Design, a practice focused on ecological, vibrant and contextual architecture and urban design. Sood received a Masters in Architecture from UC Berkeley and has been inspired by fellow Cal alumnus, Julia Morgan. Sood is a member of the Landmarks California Committee, a collaboration working to raise awareness and appreciation for California’s cultural and historic resources, thereby helping to preserve California's rich landscape of natural, cultural and architectural treasures.  JM 2012, the first project of Landmarks California will celebrate the work and life of Julia Morgan, a visionary whose environmentally sustainable architecture, business acumen and diversity of projects has inspired many women architects as well as members of the Organization of Women Architects (OWA).    In honor of Julia Morgan, we present Sandhya Sood with a Joyce award as first Lady of History, Design and Innovation for the Arts. Joyce Gordon Gallery is a commercial fine art gallery located in the downtown district of Oakland California. It exhibits art that reflects the social and cultural diversity of the Bay Area and international artists. The aim of the gallery is to respect the creative pursuits of the individual and seeks to make such work accessible to a broad audience.  Joyce Gordon Gallery      406 14th St,  Oakland, CA 94612      510-465-8928  http://www.joycegordongallery.com/ The gallery is a commercial fine art gallery located in the downtown district of Oakland California. It exhibits art that reflects the social and cultural diversity of the Bay Area and international artists. The aim of the gallery is to respect the creative pursuits of the individual and seeks to make such work accessible to a broad audience."
+          ["distance"]=>
+          string(4) "9.43"
+          ["distance_units"]=>
+          string(5) "miles"
+          ["end_date"]=>
+          string(10) "2012-04-19"
+          ["end_time"]=>
+          string(8) "20:00:00"
+          ["geocoding_ambiguous"]=>
+          string(1) "0"
+          ["geocoding_precision"]=>
+          string(7) "address"
+          ["id"]=>
+          string(7) "8747603"
+          ["latitude"]=>
+          string(7) "37.8039"
+          ["longitude"]=>
+          string(9) "-122.2702"
+          ["metro_id"]=>
+          string(0) ""
+          ["name"]=>
+          string(64) "sheRose of our Time: A Tribute to the First Lady, Michelle Obama"
+          ["num_future_events"]=>
+          string(1) "0"
+          ["personal"]=>
+          string(1) "0"
+          ["photo_url"]=>
+          string(0) ""
+          ["selfpromotion"]=>
+          string(1) "0"
+          ["start_date"]=>
+          string(10) "2012-03-02"
+          ["start_date_last_rendition"]=>
+          string(11) "Mar 2, 2012"
+          ["start_time"]=>
+          string(8) "18:00:00"
+          ["ticket_free"]=>
+          string(1) "1"
+          ["ticket_price"]=>
+          string(0) ""
+          ["ticket_url"]=>
+          string(0) ""
+          ["url"]=>
+          string(34) "http://www.joycegordongallery.com/"
+          ["user_id"]=>
+          string(6) "123737"
+          ["utc_end"]=>
+          string(23) "2012-04-20 03:00:00 UTC"
+          ["utc_start"]=>
+          string(23) "2012-03-03 02:00:00 UTC"
+          ["venue_address"]=>
+          string(12) "406 14th St."
+          ["venue_city"]=>
+          string(7) "Oakland"
+          ["venue_country_code"]=>
+          string(2) "us"
+          ["venue_country_id"]=>
+          string(1) "1"
+          ["venue_country_name"]=>
+          string(13) "United States"
+          ["venue_id"]=>
+          string(6) "606775"
+          ["venue_name"]=>
+          string(20) "Joyce Gordon Gallery"
+          ["venue_state_code"]=>
+          string(2) "CA"
+          ["venue_state_id"]=>
+          string(1) "5"
+          ["venue_state_name"]=>
+          string(10) "California"
+          ["venue_url"]=>
+          string(33) "http://www.joycegordongallery.com"
+          ["venue_zip"]=>
+          string(5) "94612"
+          ["watchlist_count"]=>
+          string(1) "1"
+        }
+        [4]=>
+        object(stdClass)#19 (41) {
+          ["category_id"]=>
+          string(6) "1;2;10"
+          ["date_posted"]=>
+          string(19) "2012-02-27 16:01:29"
+          ["description"]=>
+          string(404) "March 2nd is Swing Dance Night featuring, Miss Kitty and the Big Dogs. Music at 7:00pm.  Admission at the door is $10.00 adults $5.00 for under 18.  Doors open at 6:30pm with fabulous Slow Smoked Southern Barbeque from Sebastopol's own Bar B Que Smokehouse Bistro. Winner of over 60 Harvest Fair Medals and 31/2 stars from the Press Democrat. Desserts and Lagunitas beer and fine wine are also available."
+          ["distance"]=>
+          string(5) "46.37"
+          ["distance_units"]=>
+          string(5) "miles"
+          ["end_date"]=>
+          string(0) ""
+          ["end_time"]=>
+          string(6) "-00001"
+          ["geocoding_ambiguous"]=>
+          string(1) "0"
+          ["geocoding_precision"]=>
+          string(7) "address"
+          ["id"]=>
+          string(7) "8763496"
+          ["latitude"]=>
+          string(7) "38.4068"
+          ["longitude"]=>
+          string(7) "-122.82"
+          ["metro_id"]=>
+          string(0) ""
+          ["name"]=>
+          string(42) "Swing Night with Miss Kitty & the Big Dogs"
+          ["num_future_events"]=>
+          string(1) "0"
+          ["personal"]=>
+          string(1) "0"
+          ["photo_url"]=>
+          string(0) ""
+          ["selfpromotion"]=>
+          string(1) "0"
+          ["start_date"]=>
+          string(10) "2012-03-02"
+          ["start_date_last_rendition"]=>
+          string(11) "Mar 2, 2012"
+          ["start_time"]=>
+          string(8) "19:00:00"
+          ["ticket_free"]=>
+          string(1) "0"
+          ["ticket_price"]=>
+          string(3) "$10"
+          ["ticket_url"]=>
+          string(0) ""
+          ["url"]=>
+          string(0) ""
+          ["user_id"]=>
+          string(7) "1396269"
+          ["utc_end"]=>
+          string(23) "2012-03-03 06:00:00 UTC"
+          ["utc_start"]=>
+          string(23) "2012-03-03 03:00:00 UTC"
+          ["venue_address"]=>
+          string(13) "390 Morris St"
+          ["venue_city"]=>
+          string(10) "Sebastopol"
+          ["venue_country_code"]=>
+          string(2) "US"
+          ["venue_country_id"]=>
+          string(1) "1"
+          ["venue_country_name"]=>
+          string(13) "United States"
+          ["venue_id"]=>
+          string(6) "852033"
+          ["venue_name"]=>
+          string(36) "Sebastopol Community Cultural Center"
+          ["venue_state_code"]=>
+          string(2) "CA"
+          ["venue_state_id"]=>
+          string(1) "5"
+          ["venue_state_name"]=>
+          string(10) "California"
+          ["venue_url"]=>
+          string(0) ""
+          ["venue_zip"]=>
+          string(5) "95472"
+          ["watchlist_count"]=>
+          string(1) "1"
+        }
+        [5]=>
+        object(stdClass)#20 (41) {
+          ["category_id"]=>
+          string(1) "4"
+          ["date_posted"]=>
+          string(19) "2012-02-24 18:37:17"
+          ["description"]=>
+          string(533) "Men get the Keys and Women get the Locks & everyone gets UNLOCKED ... MatchYourKey.com & The Society of Single Professionals would like to Invite you meet Meet, Mingle & Dance with new friends, Friday, March 2nd, 2012, 8pm-Midnight, at David's Restaurant at Santa Clara Golf & Tennis Club, 5151 Stars and Stripes, Santa Clara CA 95054.  The Fun does not stop until you want it to because right after the Lock & Key party starts the Dance Party and everyone is invited to stay and dance to your favorite hits with our professional DJ."
+          ["distance"]=>
+          string(5) "36.23"
+          ["distance_units"]=>
+          string(5) "miles"
+          ["end_date"]=>
+          string(0) ""
+          ["end_time"]=>
+          string(8) "12:00:00"
+          ["geocoding_ambiguous"]=>
+          string(1) "0"
+          ["geocoding_precision"]=>
+          string(7) "address"
+          ["id"]=>
+          string(7) "8760991"
+          ["latitude"]=>
+          string(7) "37.4065"
+          ["longitude"]=>
+          string(9) "-121.9694"
+          ["metro_id"]=>
+          string(3) "352"
+          ["name"]=>
+          string(37) "she has the lock... he has the key..."
+          ["num_future_events"]=>
+          string(1) "0"
+          ["personal"]=>
+          string(1) "0"
+          ["photo_url"]=>
+          string(0) ""
+          ["selfpromotion"]=>
+          string(1) "1"
+          ["start_date"]=>
+          string(10) "2012-03-02"
+          ["start_date_last_rendition"]=>
+          string(11) "Mar 2, 2012"
+          ["start_time"]=>
+          string(8) "20:00:00"
+          ["ticket_free"]=>
+          string(1) "0"
+          ["ticket_price"]=>
+          string(37) "ONLY $15 in advance, $20 at the door."
+          ["ticket_url"]=>
+          string(23) "http://MatchYourKey.com"
+          ["url"]=>
+          string(23) "http://MatchYourKey.com"
+          ["user_id"]=>
+          string(4) "4368"
+          ["utc_end"]=>
+          string(23) "2012-03-03 07:00:00 UTC"
+          ["utc_start"]=>
+          string(23) "2012-03-03 04:00:00 UTC"
+          ["venue_address"]=>
+          string(28) "5131 Stars and Stripes Drive"
+          ["venue_city"]=>
+          string(11) "Santa Clara"
+          ["venue_country_code"]=>
+          string(2) "US"
+          ["venue_country_id"]=>
+          string(1) "1"
+          ["venue_country_name"]=>
+          string(13) "United States"
+          ["venue_id"]=>
+          string(6) "109031"
+          ["venue_name"]=>
+          string(24) "David's Banquet Facility"
+          ["venue_state_code"]=>
+          string(2) "ca"
+          ["venue_state_id"]=>
+          string(1) "5"
+          ["venue_state_name"]=>
+          string(10) "California"
+          ["venue_url"]=>
+          string(36) "http://www.davidsbanquetfacility.com"
+          ["venue_zip"]=>
+          string(5) "95054"
+          ["watchlist_count"]=>
+          string(1) "1"
+        }
+        [6]=>
+        object(stdClass)#21 (41) {
+          ["category_id"]=>
+          string(1) "4"
+          ["date_posted"]=>
+          string(19) "2012-02-14 10:04:17"
+          ["description"]=>
+          string(886) "Meet new at this fun party! Women get locks; Gentlemen get keys. The fun comes when you match them up! $15/advance (by March 1) or $20/door includes dancing to your favorite hits, plus appetizers, served at 8pm, as long as they last. Adults of all ages welcome. Dressy attire requested. Friday, March 2, 2012, 8pm-Midnight.  LOCATION: David’s Restaurant at Santa Clara Golf & Tennis Club, 5151 Stars and Stripes Drive, Santa Clara CA 95054. From Hwy 101 take Great America Pkwy exit; R on Tasman; L on Centennial; L on Stars and Stripes. Free parking.  CO-SPONSORED by The Society of Single Professionals, the worlds largest non-profit singles organization; and by MatchYourKey.  DISCOUNTS & MORE SINGLES PARTIES at http://www.thepartyhotline.com.  AFFORDABLE TRAVEL at http://www.singlestravelcompany.com.  FREE ADVICE FROM SINGLES EXPERTS at http://www.singlespodcastingnetwork.com."
+          ["distance"]=>
+          string(5) "39.15"
+          ["distance_units"]=>
+          string(5) "miles"
+          ["end_date"]=>
+          string(0) ""
+          ["end_time"]=>
+          string(6) "-00001"
+          ["geocoding_ambiguous"]=>
+          string(1) "0"
+          ["geocoding_precision"]=>
+          string(7) "address"
+          ["id"]=>
+          string(7) "8750315"
+          ["latitude"]=>
+          string(7) "37.3549"
+          ["longitude"]=>
+          string(8) "-121.952"
+          ["metro_id"]=>
+          string(67) "3;352;599;923;983;1403;1718;1747;2108;2122;2289;2514;2638;2805;2902"
+          ["name"]=>
+          string(28) "Match Your Key Singles Party"
+          ["num_future_events"]=>
+          string(1) "0"
+          ["personal"]=>
+          string(1) "0"
+          ["photo_url"]=>
+          string(0) ""
+          ["selfpromotion"]=>
+          string(1) "1"
+          ["start_date"]=>
+          string(10) "2012-03-02"
+          ["start_date_last_rendition"]=>
+          string(11) "Mar 2, 2012"
+          ["start_time"]=>
+          string(8) "20:00:00"
+          ["ticket_free"]=>
+          string(1) "0"
+          ["ticket_price"]=>
+          string(2) "20"
+          ["ticket_url"]=>
+          string(49) "http://richgosse.eventbee.com/event?eid=887478214"
+          ["url"]=>
+          string(30) "http://www.thepartyhotline.com"
+          ["user_id"]=>
+          string(7) "1062574"
+          ["utc_end"]=>
+          string(23) "2012-03-03 07:00:00 UTC"
+          ["utc_start"]=>
+          string(23) "2012-03-03 04:00:00 UTC"
+          ["venue_address"]=>
+          string(26) "5151 Stars & Stripes Drive"
+          ["venue_city"]=>
+          string(11) "Santa Clara"
+          ["venue_country_code"]=>
+          string(2) "us"
+          ["venue_country_id"]=>
+          string(1) "1"
+          ["venue_country_name"]=>
+          string(13) "United States"
+          ["venue_id"]=>
+          string(5) "88318"
+          ["venue_name"]=>
+          string(35) "David's Restaurant & Banquet Center"
+          ["venue_state_code"]=>
+          string(2) "ca"
+          ["venue_state_id"]=>
+          string(1) "5"
+          ["venue_state_name"]=>
+          string(10) "California"
+          ["venue_url"]=>
+          string(0) ""
+          ["venue_zip"]=>
+          string(0) ""
+          ["watchlist_count"]=>
+          string(1) "1"
+        }
+        [7]=>
+        object(stdClass)#22 (41) {
+          ["category_id"]=>
+          string(6) "1;2;13"
+          ["date_posted"]=>
+          string(19) "2012-02-14 14:17:13"
+          ["description"]=>
+          string(1707) "The Red Star Red Army Chorus and Dance Ensemble has dazzled crowds across the globe.  Created in the 70’s in the USSR, the company has since expanded its artistic horizons and become the leading performing group of the Russian armed forces. Now under the direction of Colonel Nikolai Rabovsky, these amazing performers take the audience on a breathtaking journey of Russian music, from popular folk tunes and songs of battle, to spectacular gravity-defying Cossack dance.    The Red Star Red Army Ensemble was first formed within the USSR armed forces in 1977, performing concerts primarily for the army. What started out as an idea to entertain troops has achieved world-wide acclaim featuring a 70 member ensemble of Russia's finest dancers, singers, and musicians. Their choral repertoire includes Cossack and warrior songs, the instrumental orchestra features balalaika and bayan, and their dancing showcases high-flying kicks, mock battle scenes, glorious costumes and traditional folk dance. Straight from Russia, they’re the real deal.  The program, created for American audiences, takes you on a journey of Russian music, traditional folk songs, Meadowlands, Moscow Nights and Dark Eyes, interspersed with wonderful dances of amazing virtuosity.  The Red Star is the only military ensemble out of Russia that performed in Hong Kong before and after the legendary reunion of Hong Kong with mainland China. The incomparable Red Star Red Army Chorus and Dance Ensemble lives up to its lofty billing in a brilliant performance. More than 220 performances were given in American cities with sellout performances in New York, Chicago, Boston and other major cities, as well as on the White House Lawn."
+          ["distance"]=>
+          string(5) "15.72"
+          ["distance_units"]=>
+          string(5) "miles"
+          ["end_date"]=>
+          string(0) ""
+          ["end_time"]=>
+          string(6) "-00001"
+          ["geocoding_ambiguous"]=>
+          string(1) "0"
+          ["geocoding_precision"]=>
+          string(7) "address"
+          ["id"]=>
+          string(7) "8750565"
+          ["latitude"]=>
+          string(7) "38.0038"
+          ["longitude"]=>
+          string(9) "-122.5321"
+          ["metro_id"]=>
+          string(23) "440;1403;2122;2289;2638"
+          ["name"]=>
+          string(43) "Red Star Red Army Chorus and Dance Ensemble"
+          ["num_future_events"]=>
+          string(1) "0"
+          ["personal"]=>
+          string(1) "0"
+          ["photo_url"]=>
+          string(66) "http://farm8.hv-static.flickr.com/7210/6877782945_c2e757172c_t.jpg"
+          ["selfpromotion"]=>
+          string(1) "0"
+          ["start_date"]=>
+          string(10) "2012-03-02"
+          ["start_date_last_rendition"]=>
+          string(11) "Mar 2, 2012"
+          ["start_time"]=>
+          string(8) "20:00:00"
+          ["ticket_free"]=>
+          string(1) "0"
+          ["ticket_price"]=>
+          string(9) "$20 - $60"
+          ["ticket_url"]=>
+          string(26) "http://www.marincenter.org"
+          ["url"]=>
+          string(26) "http://www.marincenter.org"
+          ["user_id"]=>
+          string(6) "647743"
+          ["utc_end"]=>
+          string(23) "2012-03-03 07:00:00 UTC"
+          ["utc_start"]=>
+          string(23) "2012-03-03 04:00:00 UTC"
+          ["venue_address"]=>
+          string(19) "Avenue of the Flags"
+          ["venue_city"]=>
+          string(10) "San Rafael"
+          ["venue_country_code"]=>
+          string(2) "us"
+          ["venue_country_id"]=>
+          string(1) "1"
+          ["venue_country_name"]=>
+          string(13) "United States"
+          ["venue_id"]=>
+          string(6) "236521"
+          ["venue_name"]=>
+          string(62) "Marin Veterans' Memorial Auditorium At Marin Center (Bioneers)"
+          ["venue_state_code"]=>
+          string(2) "ca"
+          ["venue_state_id"]=>
+          string(1) "5"
+          ["venue_state_name"]=>
+          string(10) "California"
+          ["venue_url"]=>
+          string(0) ""
+          ["venue_zip"]=>
+          string(5) "94903"
+          ["watchlist_count"]=>
+          string(1) "1"
+        }
+        [8]=>
+        object(stdClass)#23 (41) {
+          ["category_id"]=>
+          string(1) "1"
+          ["date_posted"]=>
+          string(19) "2012-02-02 22:50:18"
+          ["description"]=>
+          string(3398) "<img src="http://www.hopeinsite.com/dr.rock/salvadorsantana-marchbanner.jpg"> Salvador Santana, the 28 year old keyboardist, vocalist, composer and songwriter re-visits his roots when he plays a number of venues with his new band comprised of members Alex Nester (vocals & keyboards,) Jared Meeker (Guitar,) Blake Collie (Drums) and Itai Shapira (bass.) The Bay Area native will perform from March 1st through March 10th when both new and old fans will be able to hear a variety songs from his previously released solo album Keyboard City, as well as his new single "Mi Tesoro." "Mi Tesoro" is the first song from Salvador's upcoming CD, which he has been writing and composing for the last year. A second single will be released shortly.  Santana is pushed by a need to step out of his comfort zone in a quest for new ideas. Easy going and humble, Santana exudes the Bay Area vibe. He began playing the drums at age three - sitting on his father's lap, controlling the snare and tom, as his father worked the hi-hat and kick drum - but his true love was discovered when he began taking piano lessons when he was six. Later, he studied at San Francisco's heralded School of the Arts before attending Cal Arts in Valencia, CA. His education, passion and lineage have turned Santana into a monster on the keys.  Music truly thrives in his veins. His maternal grandfather was blues pioneer Saunders King and his paternal grandfather was the internationally celebrated violinist and mariachi bandleader Jose Santana. And, of course, his father is 10X Grammy-winning Rock and Roll Hall of Famer Carlos Santana... who's also a frequent collaborator. (Salvador co-wrote 'El Farol' from 1999's smash album "Supernatural".) http://salvadorsantana.com Videos at: http://www.youtube.com/SalvadorSantana09  RUCKATAN Ruckatan Latin Tribe is composed of seven players who have all contributed to the local Latin Rock scene in the Bay Area and internationally with various Latin, Reggae and Rock acts. Ruckatan is a fusion of Latin and Reggae. Members hailing from three different continents infuse their culture and love of their roots into this new band called Ruckatan, which includes Carlos Elizalde on Vocals and hand percussions, Jose Angel Amador on vocals and keys, Blaine Hoopes on keys and various woodwinds, Derek Rolando on congas & timbales, Brian Camara on drums & percussions, Ray Uribes on bass and Ed "Loveletter" Elizalde on guitar. The music is very dance oriented with many Latin and Caribbean flavors. "It's a celebration of life and music" http://www.ruckatan.com  BLANCA With a soulful voice and lyrics from the heart, singer songwriter Blanca Sandoval has captivated audiences. By means of an unrivaled sound that blends together her Latin musical roots with rock, funk, jazz, and up beat ballads, her style is extremely diverse. Known as "The Sweetheart of Latin Rock, Inc", Blanca recently brought together some very talented musicians to form the band "BLANCA" which includes Robert Zamora (lead guitar), Mike Juarez (drums) and Oscar Tablada (bass). The new four/piece band has been pulling in their own audience and recruiting new fans everywhere they play. http://www.blancasmusic.net  More info at: http://www.slimspresents.com/events/2012-03-03/salvador-santana-band/ http://tickets.slims-sf.com/events/186806/Salvador-Santana--Band 333 11th St San Francisco, CA 94103 415-255-0333"
+          ["distance"]=>
+          string(4) "0.52"
+          ["distance_units"]=>
+          string(5) "miles"
+          ["end_date"]=>
+          string(0) ""
+          ["end_time"]=>
+          string(6) "-00001"
+          ["geocoding_ambiguous"]=>
+          string(1) "0"
+          ["geocoding_precision"]=>
+          string(7) "address"
+          ["id"]=>
+          string(7) "8724985"
+          ["latitude"]=>
+          string(7) "37.7714"
+          ["longitude"]=>
+          string(9) "-122.4134"
+          ["metro_id"]=>
+          string(54) "2;1311;1403;1849;1934;2122;2289;2466;2638;2962;1000000"
+          ["name"]=>
+          string(63) "Salvador Santana & Band with Ruckatan plus Special Guest Blanca"
+          ["num_future_events"]=>
+          string(1) "0"
+          ["personal"]=>
+          string(1) "0"
+          ["photo_url"]=>
+          string(0) ""
+          ["selfpromotion"]=>
+          string(1) "0"
+          ["start_date"]=>
+          string(10) "2012-03-03"
+          ["start_date_last_rendition"]=>
+          string(11) "Mar 3, 2012"
+          ["start_time"]=>
+          string(8) "20:00:00"
+          ["ticket_free"]=>
+          string(1) "0"
+          ["ticket_price"]=>
+          string(43) "$14 adv./$16 door Dinner & Admission $38.95"
+          ["ticket_url"]=>
+          string(64) "http://tickets.slims-sf.com/events/186806/Salvador-Santana--Band"
+          ["url"]=>
+          string(69) "http://www.slimspresents.com/events/2012-03-03/salvador-santana-band/"
+          ["user_id"]=>
+          string(6) "162323"
+          ["utc_end"]=>
+          string(23) "2012-03-04 07:00:00 UTC"
+          ["utc_start"]=>
+          string(23) "2012-03-04 04:00:00 UTC"
+          ["venue_address"]=>
+          string(11) "333 11th St"
+          ["venue_city"]=>
+          string(13) "San Francisco"
+          ["venue_country_code"]=>
+          string(2) "US"
+          ["venue_country_id"]=>
+          string(1) "1"
+          ["venue_country_name"]=>
+          string(13) "United States"
+          ["venue_id"]=>
+          string(5) "36024"
+          ["venue_name"]=>
+          string(6) "Slim's"
+          ["venue_state_code"]=>
+          string(2) "CA"
+          ["venue_state_id"]=>
+          string(1) "5"
+          ["venue_state_name"]=>
+          string(10) "California"
+          ["venue_url"]=>
+          string(29) "http://www.independentsf.com/"
+          ["venue_zip"]=>
+          string(5) "94103"
+          ["watchlist_count"]=>
+          string(1) "1"
+        }
+        [9]=>
+        object(stdClass)#24 (41) {
+          ["category_id"]=>
+          string(1) "1"
+          ["date_posted"]=>
+          string(19) "2012-02-03 23:01:01"
+          ["description"]=>
+          string(675) "George Komsky is a protege and scholarship beneficiary of world-renowned vocal teacher Seth Riggs whose star pupils include Barbara Streisand, Josh Groban, Natalie Cole and current Metropolitan Opera star Philip Webb.   This Bay Area native was a semifinalist on the hit TV show America's Got Talent and has toured as the lead soloist with the world renowned Irish dancing group, Riverdance.  Komsky recently sold out his solo concerts in Walnut Creek, Menlo Park and at the Herbst Theater, San Francisco.  His concert at the OFJCC will feature opera arias by Donizetti, Rossini, Bellini and Leoncavallo.  To learn more, visit George Komsky's website at www.georgekomsky.com."
+          ["distance"]=>
+          string(5) "29.37"
+          ["distance_units"]=>
+          string(5) "miles"
+          ["end_date"]=>
+          string(0) ""
+          ["end_time"]=>
+          string(8) "22:00:00"
+          ["geocoding_ambiguous"]=>
+          string(1) "0"
+          ["geocoding_precision"]=>
+          string(7) "address"
+          ["id"]=>
+          string(7) "8728603"
+          ["latitude"]=>
+          string(6) "37.425"
+          ["longitude"]=>
+          string(9) "-122.1041"
+          ["metro_id"]=>
+          string(13) "2;246;1000000"
+          ["name"]=>
+          string(24) "George Komsky in Concert"
+          ["num_future_events"]=>
+          string(1) "0"
+          ["personal"]=>
+          string(1) "0"
+          ["photo_url"]=>
+          string(0) ""
+          ["selfpromotion"]=>
+          string(1) "1"
+          ["start_date"]=>
+          string(10) "2012-03-03"
+          ["start_date_last_rendition"]=>
+          string(11) "Mar 3, 2012"
+          ["start_time"]=>
+          string(8) "20:00:00"
+          ["ticket_free"]=>
+          string(1) "0"
+          ["ticket_price"]=>
+          string(8) "$30-$40."
+          ["ticket_url"]=>
+          string(53) "http://www.paloaltojcc.org/cultural-arts/music-dance/"
+          ["url"]=>
+          string(26) "http://www.paloaltojcc.org"
+          ["user_id"]=>
+          string(4) "4368"
+          ["utc_end"]=>
+          string(23) "2012-03-04 07:00:00 UTC"
+          ["utc_start"]=>
+          string(23) "2012-03-04 04:00:00 UTC"
+          ["venue_address"]=>
+          string(15) "3921 Fabian Way"
+          ["venue_city"]=>
+          string(9) "Palo Alto"
+          ["venue_country_code"]=>
+          string(2) "US"
+          ["venue_country_id"]=>
+          string(1) "1"
+          ["venue_country_name"]=>
+          string(13) "United States"
+          ["venue_id"]=>
+          string(6) "643437"
+          ["venue_name"]=>
+          string(54) "Taube Koret Campus for Jewish Life / Oshman Family JCC"
+          ["venue_state_code"]=>
+          string(2) "CA"
+          ["venue_state_id"]=>
+          string(7) "1000000"
+          ["venue_state_name"]=>
+          string(10) "California"
+          ["venue_url"]=>
+          string(26) "http://www.paloaltojcc.org"
+          ["venue_zip"]=>
+          string(5) "94303"
+          ["watchlist_count"]=>
+          string(1) "1"
+        }
+      }
+    }
+  }
+}
+
+

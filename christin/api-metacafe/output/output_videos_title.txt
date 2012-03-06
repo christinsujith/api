@@ -1,0 +1,469 @@
+<pre>stdClass Object
+(
+    [rss] => stdClass Object
+        (
+            [title] => Metacafe
+            [channel] => stdClass Object
+                (
+                    [title] => Array
+                        (
+                        )
+
+                    [link] => http://www.metacafe.com/tags/funny_dogs/
+                    [image] => stdClass Object
+                        (
+                            [url] => http://s.mcstatic.com/Images/MCLogo4RSS.jpg
+                            [link] => http://www.metacafe.com
+                            [title] => Metacafe
+                            [height] => 65
+                            [width] => 229
+                        )
+
+                    [description] => Array
+                        (
+                        )
+
+                    [item] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [id] => 8154071
+                                    [author] => Videobash
+                                    [title] => Pat The Cat
+                                    [link] => http://www.metacafe.com/watch/8154071/pat_the_cat/
+                                    [rank] => 3.87
+                                    [category] => Comedy
+                                    [description] => 
+					<a href="http://www.metacafe.com/watch/8154071/pat_the_cat/"><img src="http://s4.mcstatic.com/thumb/8154071/21829358/4/directors_cut/0/1/pat_the_cat.jpg?v=5" align="right" border="0" alt="Pat The Cat" vspace="4" hspace="4" width="134" height="78" /></a>
+					<p>
+					Cat demands petting, cat gets petting. Cats are our masters.					<br>Ranked <strong>3.87</strong> / 5 | 17492 views | <a href="http://www.metacafe.com/watch/8154071/pat_the_cat/">0 comments</a><br/>
+					</p>
+					<p>
+						<a href="http://www.metacafe.com/watch/8154071/pat_the_cat/"><strong>Click here to watch the video</strong></a> (00:48)<br/>
+						Submitted By: 						<a href="http://www.metacafe.com/channels/Videobash/">Videobash</a><br/>
+						Tags:
+						<a href="http://www.metacafe.com/topics/funny/">Funny</a>&nbsp;<a href="http://www.metacafe.com/topics/cute/">Cute</a>&nbsp;<a href="http://www.metacafe.com/topics/cats/">Cats</a>&nbsp;<a href="http://www.metacafe.com/topics/dogs/">Dogs</a>&nbsp;<a href="http://www.metacafe.com/topics/football/">Football</a>&nbsp;<a href="http://www.metacafe.com/topics/clubs/">Clubs</a>&nbsp;<a href="http://www.metacafe.com/topics/kittens/">Kittens</a>&nbsp;<a href="http://www.metacafe.com/topics/kitty/">Kitty</a>&nbsp;<a href="http://www.metacafe.com/topics/film/">Film</a>&nbsp;<a href="http://www.metacafe.com/topics/playing/">Playing</a>&nbsp;<a href="http://www.metacafe.com/topics/new/">New</a>&nbsp;<a href="http://www.metacafe.com/topics/fold/">Fold</a>&nbsp;<a href="http://www.metacafe.com/topics/being/">Being</a>&nbsp;<a href="http://www.metacafe.com/topics/meow/">Meow</a>&nbsp;<a href="http://www.metacafe.com/topics/loves/">Loves</a>&nbsp;<a href="http://www.metacafe.com/topics/scottish/">Scottish</a>&nbsp;<a href="http://www.metacafe.com/topics/australia/">Australia</a>&nbsp;<a href="http://www.metacafe.com/topics/sydney/">Sydney</a>&nbsp;<a href="http://www.metacafe.com/topics/1992/">1992</a>&nbsp;<a href="http://www.metacafe.com/topics/albums/">Albums</a>&nbsp;<a href="http://www.metacafe.com/topics/pryde/">Pryde</a>&nbsp;<a href="http://www.metacafe.com/topics/geelong/">Geelong</a>&nbsp;<a href="http://www.metacafe.com/topics/stroked/">Stroked</a>&nbsp;						<br/>
+						Categories: <a href='http://www.metacafe.com/videos/comedy/'>Comedy</a> 					</p>
+				
+                                    [guid] => http://www.metacafe.com/watch/8154071/pat_the_cat/
+                                    [guid_attr] => stdClass Object
+                                        (
+                                            [isPermaLink] => true
+                                        )
+
+                                    [pubDate] => 27-Feb-12 +0000
+                                    [media:player] => Array
+                                        (
+                                        )
+
+                                    [media:player_attr] => stdClass Object
+                                        (
+                                            [url] => http://www.metacafe.com/watch/8154071/pat_the_cat/
+                                        )
+
+                                    [media:content] => Array
+                                        (
+                                        )
+
+                                    [media:content_attr] => stdClass Object
+                                        (
+                                            [url] => http://www.metacafe.com/fplayer/8154071/pat_the_cat.swf
+                                            [type] => application/x-shockwave-flash
+                                            [medium] => video
+                                            [height] => 360
+                                            [width] => 468
+                                            [duration] => 48
+                                        )
+
+                                    [media:thumbnail] => Array
+                                        (
+                                        )
+
+                                    [media:thumbnail_attr] => stdClass Object
+                                        (
+                                            [url] => http://s4.mcstatic.com/thumb/8154071/21829358/4/catalog_item5/0/1/pat_the_cat.jpg?v=5
+                                        )
+
+                                    [media:title] => Pat The Cat
+                                    [media:keywords] => Funny,Cute,Cats,Dogs,Football,Clubs,Kittens,Kitty,Film,Playing,New,Fold,Being,Meow,Loves,Scottish,Australia,Sydney,1992,Albums,Pryde,Geelong,Stroked
+                                    [media:description] => Cat demands petting, cat gets petting. Cats are our masters.
+                                    [media:credit] => Videobash
+                                    [media:rating] => nonadult
+                                    [media:rating_attr] => stdClass Object
+                                        (
+                                            [scheme] => urn:simple
+                                        )
+
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [id] => 8150811
+                                    [author] => Videobash
+                                    [title] => Bird Feeds Dog Noodles
+                                    [link] => http://www.metacafe.com/watch/8150811/bird_feeds_dog_noodles/
+                                    [rank] => 3.85
+                                    [category] => Comedy
+                                    [description] => 
+					<a href="http://www.metacafe.com/watch/8150811/bird_feeds_dog_noodles/"><img src="http://s4.mcstatic.com/thumb/8150811/21818907/4/directors_cut/0/1/bird_feeds_dog_noodles.jpg?v=5" align="right" border="0" alt="Bird Feeds Dog Noodles" vspace="4" hspace="4" width="134" height="78" /></a>
+					<p>
+					When this dog wants some noodles, all he needs to do is get some help from his bird friend.					<br>Ranked <strong>3.85</strong> / 5 | 18416 views | <a href="http://www.metacafe.com/watch/8150811/bird_feeds_dog_noodles/">0 comments</a><br/>
+					</p>
+					<p>
+						<a href="http://www.metacafe.com/watch/8150811/bird_feeds_dog_noodles/"><strong>Click here to watch the video</strong></a> (00:54)<br/>
+						Submitted By: 						<a href="http://www.metacafe.com/channels/Videobash/">Videobash</a><br/>
+						Tags:
+						<a href="http://www.metacafe.com/topics/funny/">Funny</a>&nbsp;<a href="http://www.metacafe.com/topics/cute/">Cute</a>&nbsp;<a href="http://www.metacafe.com/topics/animals/">Animals</a>&nbsp;<a href="http://www.metacafe.com/topics/dogs/">Dogs</a>&nbsp;<a href="http://www.metacafe.com/topics/friends/">Friends</a>&nbsp;<a href="http://www.metacafe.com/topics/bird/">Bird</a>&nbsp;<a href="http://www.metacafe.com/topics/puppies/">Puppies</a>&nbsp;<a href="http://www.metacafe.com/topics/best/">Best</a>&nbsp;<a href="http://www.metacafe.com/topics/feeding/">Feeding</a>&nbsp;<a href="http://www.metacafe.com/topics/noodles/">Noodles</a>&nbsp;<a href="http://www.metacafe.com/topics/cockatoo/">Cockatoo</a>&nbsp;						<br/>
+						Categories: <a href='http://www.metacafe.com/videos/comedy/'>Comedy</a> 					</p>
+				
+                                    [guid] => http://www.metacafe.com/watch/8150811/bird_feeds_dog_noodles/
+                                    [guid_attr] => stdClass Object
+                                        (
+                                            [isPermaLink] => true
+                                        )
+
+                                    [pubDate] => 26-Feb-12 +0000
+                                    [media:player] => Array
+                                        (
+                                        )
+
+                                    [media:player_attr] => stdClass Object
+                                        (
+                                            [url] => http://www.metacafe.com/watch/8150811/bird_feeds_dog_noodles/
+                                        )
+
+                                    [media:content] => Array
+                                        (
+                                        )
+
+                                    [media:content_attr] => stdClass Object
+                                        (
+                                            [url] => http://www.metacafe.com/fplayer/8150811/bird_feeds_dog_noodles.swf
+                                            [type] => application/x-shockwave-flash
+                                            [medium] => video
+                                            [height] => 360
+                                            [width] => 216
+                                            [duration] => 54
+                                        )
+
+                                    [media:thumbnail] => Array
+                                        (
+                                        )
+
+                                    [media:thumbnail_attr] => stdClass Object
+                                        (
+                                            [url] => http://s4.mcstatic.com/thumb/8150811/21818907/4/catalog_item5/0/1/bird_feeds_dog_noodles.jpg?v=5
+                                        )
+
+                                    [media:title] => Bird Feeds Dog Noodles
+                                    [media:keywords] => Funny,Cute,Animals,Dogs,Friends,Bird,Puppies,Best,Feeding,Noodles,Cockatoo
+                                    [media:description] => When this dog wants some noodles, all he needs to do is get some help from his bird friend.
+                                    [media:credit] => Videobash
+                                    [media:rating] => nonadult
+                                    [media:rating_attr] => stdClass Object
+                                        (
+                                            [scheme] => urn:simple
+                                        )
+
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [id] => 8150804
+                                    [author] => Videobash
+                                    [title] => This Is Why Dogs Are Awesome
+                                    [link] => http://www.metacafe.com/watch/8150804/this_is_why_dogs_are_awesome/
+                                    [rank] => 3.79
+                                    [category] => Comedy
+                                    [description] => 
+					<a href="http://www.metacafe.com/watch/8150804/this_is_why_dogs_are_awesome/"><img src="http://s1.mcstatic.com/thumb/8150804/21818905/4/directors_cut/0/1/this_is_why_dogs_are_awesome.jpg?v=5" align="right" border="0" alt="This Is Why Dogs Are Awesome" vspace="4" hspace="4" width="134" height="78" /></a>
+					<p>
+					Now this is a dog who knows how to do it all. He climbs a ladder and jumps into the pool from a high dive platform.					<br>Ranked <strong>3.79</strong> / 5 | 25340 views | <a href="http://www.metacafe.com/watch/8150804/this_is_why_dogs_are_awesome/">0 comments</a><br/>
+					</p>
+					<p>
+						<a href="http://www.metacafe.com/watch/8150804/this_is_why_dogs_are_awesome/"><strong>Click here to watch the video</strong></a> (01:11)<br/>
+						Submitted By: 						<a href="http://www.metacafe.com/channels/Videobash/">Videobash</a><br/>
+						Tags:
+						<a href="http://www.metacafe.com/topics/funny/">Funny</a>&nbsp;<a href="http://www.metacafe.com/topics/dogs/">Dogs</a>&nbsp;<a href="http://www.metacafe.com/topics/dive/">Dive</a>&nbsp;<a href="http://www.metacafe.com/topics/tricks/">Tricks</a>&nbsp;<a href="http://www.metacafe.com/topics/pool/">Pool</a>&nbsp;<a href="http://www.metacafe.com/topics/high/">High</a>&nbsp;<a href="http://www.metacafe.com/topics/jumps/">Jumps</a>&nbsp;						<br/>
+						Categories: <a href='http://www.metacafe.com/videos/comedy/'>Comedy</a> 					</p>
+				
+                                    [guid] => http://www.metacafe.com/watch/8150804/this_is_why_dogs_are_awesome/
+                                    [guid_attr] => stdClass Object
+                                        (
+                                            [isPermaLink] => true
+                                        )
+
+                                    [pubDate] => 26-Feb-12 +0000
+                                    [media:player] => Array
+                                        (
+                                        )
+
+                                    [media:player_attr] => stdClass Object
+                                        (
+                                            [url] => http://www.metacafe.com/watch/8150804/this_is_why_dogs_are_awesome/
+                                        )
+
+                                    [media:content] => Array
+                                        (
+                                        )
+
+                                    [media:content_attr] => stdClass Object
+                                        (
+                                            [url] => http://www.metacafe.com/fplayer/8150804/this_is_why_dogs_are_awesome.swf
+                                            [type] => application/x-shockwave-flash
+                                            [medium] => video
+                                            [height] => 360
+                                            [width] => 648
+                                            [duration] => 71
+                                        )
+
+                                    [media:thumbnail] => Array
+                                        (
+                                        )
+
+                                    [media:thumbnail_attr] => stdClass Object
+                                        (
+                                            [url] => http://s1.mcstatic.com/thumb/8150804/21818905/4/catalog_item5/0/1/this_is_why_dogs_are_awesome.jpg?v=5
+                                        )
+
+                                    [media:title] => This Is Why Dogs Are Awesome
+                                    [media:keywords] => Funny,Dogs,Dive,Tricks,Pool,High,Jumps
+                                    [media:description] => Now this is a dog who knows how to do it all. He climbs a ladder and jumps into the pool from a high dive platform.
+                                    [media:credit] => Videobash
+                                    [media:rating] => nonadult
+                                    [media:rating_attr] => stdClass Object
+                                        (
+                                            [scheme] => urn:simple
+                                        )
+
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [id] => 8170252
+                                    [author] => CandlewickPress
+                                    [title] => Oh No, George! by Chris Haughton Book Trailer
+                                    [link] => http://www.metacafe.com/watch/8170252/oh_no_george_by_chris_haughton_book_trailer/
+                                    [rank] => 1.00
+                                    [category] => Art & Animation
+                                    [description] => 
+					<a href="http://www.metacafe.com/watch/8170252/oh_no_george_by_chris_haughton_book_trailer/"><img src="http://s1.mcstatic.com/thumb/8170252/21859580/4/directors_cut/0/1/oh_no_george_by_chris_haughton_book_trailer.jpg" align="right" border="0" alt="Oh No, George! by Chris Haughton Book Trailer" vspace="4" hspace="4" width="134" height="78" /></a>
+					<p>
+					http://bit.ly/OhNoGeorge George is a dog with all the best intentions. And his owner, Harry, has all the best hopes that George will be a well-behaved dog when he leaves him alone for the day. But when George spies a delicious cake sitting on the kitchen table, his resolve starts to waver. You see, George loves cake. . . . Uh-oh. What to do now? It's so hard to be a good dog when there are cats to chase and flowers to dig up! What ever will Harry say when he gets back? Chris Haughton's fetchingly funny story and vibrant, retro illustrations are sure to lure dog lovers of all ages - and anyone who has ever met a temptation too good to resist.
+
+Bold, hilarious artwork captures the innocent charm of affable George, a dog who is trying to be good - with disastrous results.					<br>Ranked <strong>1.00</strong> / 5 | 0 views | <a href="http://www.metacafe.com/watch/8170252/oh_no_george_by_chris_haughton_book_trailer/">0 comments</a><br/>
+					</p>
+					<p>
+						<a href="http://www.metacafe.com/watch/8170252/oh_no_george_by_chris_haughton_book_trailer/"><strong>Click here to watch the video</strong></a> (00:35)<br/>
+						Submitted By: 						<a href="http://www.metacafe.com/channels/CandlewickPress/">CandlewickPress</a><br/>
+						Tags:
+						<a href="http://www.metacafe.com/topics/books/">Books</a>&nbsp;<a href="http://www.metacafe.com/topics/reading/">Reading</a>&nbsp;<a href="http://www.metacafe.com/topics/literacy/">Literacy</a>&nbsp;<a href="http://www.metacafe.com/topics/funny_dog/">Funny Dog</a>&nbsp;<a href="http://www.metacafe.com/topics/dogs/">Dogs</a>&nbsp;<a href="http://www.metacafe.com/topics/guilty_dog/">Guilty Dog</a>&nbsp;<a href="http://www.metacafe.com/topics/picture_book/">Picture Book</a>&nbsp;<a href="http://www.metacafe.com/topics/children%27s_book/">Children's Book</a>&nbsp;						<br/>
+						Categories: <a href='http://www.metacafe.com/videos/art_and_animation/'>Art &amp; Animation</a> 					</p>
+				
+                                    [guid] => http://www.metacafe.com/watch/8170252/oh_no_george_by_chris_haughton_book_trailer/
+                                    [guid_attr] => stdClass Object
+                                        (
+                                            [isPermaLink] => true
+                                        )
+
+                                    [pubDate] => 21 hours ago +0000
+                                    [media:player] => Array
+                                        (
+                                        )
+
+                                    [media:player_attr] => stdClass Object
+                                        (
+                                            [url] => http://www.metacafe.com/watch/8170252/oh_no_george_by_chris_haughton_book_trailer/
+                                        )
+
+                                    [media:content] => Array
+                                        (
+                                        )
+
+                                    [media:content_attr] => stdClass Object
+                                        (
+                                            [url] => http://www.metacafe.com/fplayer/8170252/oh_no_george_by_chris_haughton_book_trailer.swf
+                                            [type] => application/x-shockwave-flash
+                                            [medium] => video
+                                            [height] => 360
+                                            [width] => 640
+                                            [duration] => 35
+                                        )
+
+                                    [media:thumbnail] => Array
+                                        (
+                                        )
+
+                                    [media:thumbnail_attr] => stdClass Object
+                                        (
+                                            [url] => http://s1.mcstatic.com/thumb/8170252/21859580/4/catalog_item5/0/1/oh_no_george_by_chris_haughton_book_trailer.jpg
+                                        )
+
+                                    [media:title] => Oh No, George! by Chris Haughton Book Trailer
+                                    [media:keywords] => Books,Reading,Literacy,Funny Dog,Dogs,Guilty Dog,Picture Book,Children's Book
+                                    [media:description] => http://bit.ly/OhNoGeorge George is a dog with all the best intentions. And his owner, Harry, has all the best hopes that George will be a well-behaved dog when he leaves him alone for the day. But when George spies a delicious cake sitting on the kitchen table, his resolve starts to waver. You see, George loves cake. . . . Uh-oh. What to do now? It's so hard to be a good dog when there are cats to chase and flowers to dig up! What ever will Harry say when he gets back? Chris Haughton's fetchingly funny story and vibrant, retro illustrations are sure to lure dog lovers of all ages - and anyone who has ever met a temptation too good to resist.
+
+Bold, hilarious artwork captures the innocent charm of affable George, a dog who is trying to be good - with disastrous results.
+                                    [media:credit] => CandlewickPress
+                                    [media:rating] => nonadult
+                                    [media:rating_attr] => stdClass Object
+                                        (
+                                            [scheme] => urn:simple
+                                        )
+
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [id] => 8173370
+                                    [author] => Readinglady
+                                    [title] => A Funny Boxer Puppy Children's Book Preview
+                                    [link] => http://www.metacafe.com/watch/8173370/a_funny_boxer_puppy_childrens_book_preview/
+                                    [category] => People & Stories
+                                    [description] => 
+					<a href="http://www.metacafe.com/watch/8173370/a_funny_boxer_puppy_childrens_book_preview/"><img src="http://s3.mcstatic.com/thumb/8173370/21867031/4/directors_cut/0/1/a_funny_boxer_puppy_childrens_book_preview.jpg" align="right" border="0" alt="A Funny Boxer Puppy Children's Book Preview" vspace="4" hspace="4" width="134" height="78" /></a>
+					<p>
+					http://amzn.to/xoyRt8 A funny reading about a very mischievous dog named Roland P. Corncobbs and best friend Bella the white boxer.					<br>1 views | <a href="http://www.metacafe.com/watch/8173370/a_funny_boxer_puppy_childrens_book_preview/">0 comments</a><br/>
+					</p>
+					<p>
+						<a href="http://www.metacafe.com/watch/8173370/a_funny_boxer_puppy_childrens_book_preview/"><strong>Click here to watch the video</strong></a> (07:37)<br/>
+						Submitted By: 						<a href="http://www.metacafe.com/channels/Readinglady/">Readinglady</a><br/>
+						Tags:
+						<a href="http://www.metacafe.com/topics/funny/">Funny</a>&nbsp;<a href="http://www.metacafe.com/topics/boxers/">Boxers</a>&nbsp;<a href="http://www.metacafe.com/topics/dogs/">Dogs</a>&nbsp;<a href="http://www.metacafe.com/topics/cute/">Cute</a>&nbsp;<a href="http://www.metacafe.com/topics/puppies/">Puppies</a>&nbsp;<a href="http://www.metacafe.com/topics/farting/">Farting</a>&nbsp;<a href="http://www.metacafe.com/topics/naughty/">Naughty</a>&nbsp;<a href="http://www.metacafe.com/topics/books/">Books</a>&nbsp;<a href="http://www.metacafe.com/topics/pets/">Pets</a>&nbsp;<a href="http://www.metacafe.com/topics/children%27s/">Children's</a>&nbsp;						<br/>
+						Categories: <a href='http://www.metacafe.com/videos/people_and_stories/'>People &amp; Stories</a> 					</p>
+				
+                                    [guid] => http://www.metacafe.com/watch/8173370/a_funny_boxer_puppy_childrens_book_preview/
+                                    [guid_attr] => stdClass Object
+                                        (
+                                            [isPermaLink] => true
+                                        )
+
+                                    [pubDate] => 6 hours ago +0000
+                                    [media:player] => Array
+                                        (
+                                        )
+
+                                    [media:player_attr] => stdClass Object
+                                        (
+                                            [url] => http://www.metacafe.com/watch/8173370/a_funny_boxer_puppy_childrens_book_preview/
+                                        )
+
+                                    [media:content] => Array
+                                        (
+                                        )
+
+                                    [media:content_attr] => stdClass Object
+                                        (
+                                            [url] => http://www.metacafe.com/fplayer/8173370/a_funny_boxer_puppy_childrens_book_preview.swf
+                                            [type] => application/x-shockwave-flash
+                                            [medium] => video
+                                            [height] => 360
+                                            [width] => 480
+                                            [duration] => 457
+                                        )
+
+                                    [media:thumbnail] => Array
+                                        (
+                                        )
+
+                                    [media:thumbnail_attr] => stdClass Object
+                                        (
+                                            [url] => http://s3.mcstatic.com/thumb/8173370/21867031/4/catalog_item5/0/1/a_funny_boxer_puppy_childrens_book_preview.jpg
+                                        )
+
+                                    [media:title] => A Funny Boxer Puppy Children's Book Preview
+                                    [media:keywords] => Funny,Boxers,Dogs,Cute,Puppies,Farting,Naughty,Books,Pets,Children's
+                                    [media:description] => http://amzn.to/xoyRt8 A funny reading about a very mischievous dog named Roland P. Corncobbs and best friend Bella the white boxer.
+                                    [media:credit] => Readinglady
+                                    [media:rating] => nonadult
+                                    [media:rating_attr] => stdClass Object
+                                        (
+                                            [scheme] => urn:simple
+                                        )
+
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [id] => 8169447
+                                    [author] => jeevanmandra
+                                    [title] => Pets
+                                    [link] => http://www.metacafe.com/watch/8169447/pets/
+                                    [category] => Pets & Animals
+                                    [description] => 
+					<a href="http://www.metacafe.com/watch/8169447/pets/"><img src="http://s4.mcstatic.com/thumb/8169447/21857472/4/directors_cut/0/1/pets.jpg" align="right" border="0" alt="Pets" vspace="4" hspace="4" width="134" height="78" /></a>
+					<p>
+					bird feeding a dog					<br>0 views | <a href="http://www.metacafe.com/watch/8169447/pets/">0 comments</a><br/>
+					</p>
+					<p>
+						<a href="http://www.metacafe.com/watch/8169447/pets/"><strong>Click here to watch the video</strong></a> (00:54)<br/>
+						Submitted By: 						<a href="http://www.metacafe.com/channels/jeevanmandra/">jeevanmandra</a><br/>
+						Tags:
+						<a href="http://www.metacafe.com/topics/animals/">Animals</a>&nbsp;<a href="http://www.metacafe.com/topics/pets/">Pets</a>&nbsp;<a href="http://www.metacafe.com/topics/funny/">Funny</a>&nbsp;<a href="http://www.metacafe.com/topics/pet_funny/">Pet Funny</a>&nbsp;<a href="http://www.metacafe.com/topics/kerala/">Kerala</a>&nbsp;<a href="http://www.metacafe.com/topics/nature/">Nature</a>&nbsp;<a href="http://www.metacafe.com/topics/birds/">Birds</a>&nbsp;<a href="http://www.metacafe.com/topics/dogs/">Dogs</a>&nbsp;<a href="http://www.metacafe.com/topics/mad/">Mad</a>&nbsp;<a href="http://www.metacafe.com/topics/fun/">Fun</a>&nbsp;						<br/>
+						Categories: <a href='http://www.metacafe.com/videos/pets_and_animals/'>Pets &amp; Animals</a> 					</p>
+				
+                                    [guid] => http://www.metacafe.com/watch/8169447/pets/
+                                    [guid_attr] => stdClass Object
+                                        (
+                                            [isPermaLink] => true
+                                        )
+
+                                    [pubDate] => Yesterday +0000
+                                    [media:player] => Array
+                                        (
+                                        )
+
+                                    [media:player_attr] => stdClass Object
+                                        (
+                                            [url] => http://www.metacafe.com/watch/8169447/pets/
+                                        )
+
+                                    [media:content] => Array
+                                        (
+                                        )
+
+                                    [media:content_attr] => stdClass Object
+                                        (
+                                            [url] => http://www.metacafe.com/fplayer/8169447/pets.swf
+                                            [type] => application/x-shockwave-flash
+                                            [medium] => video
+                                            [height] => 360
+                                            [width] => 216
+                                            [duration] => 54
+                                        )
+
+                                    [media:thumbnail] => Array
+                                        (
+                                        )
+
+                                    [media:thumbnail_attr] => stdClass Object
+                                        (
+                                            [url] => http://s4.mcstatic.com/thumb/8169447/21857472/4/catalog_item5/0/1/pets.jpg
+                                        )
+
+                                    [media:title] => Pets
+                                    [media:keywords] => Animals,Pets,Funny,Pet Funny,Kerala,Nature,Birds,Dogs,Mad,Fun
+                                    [media:description] => bird feeding a dog
+                                    [media:credit] => jeevanmandra
+                                    [media:rating] => nonadult
+                                    [media:rating_attr] => stdClass Object
+                                        (
+                                            [scheme] => urn:simple
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [rss_attr] => stdClass Object
+        (
+            [version] => 2.0
+            [xmlns:media] => http://search.yahoo.com/mrss/
+            [source] => Metacafe
+        )
+
+)

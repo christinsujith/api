@@ -1,0 +1,2 @@
+https://github.com/yahoo/yos-social-php5
+http://developer.yahoo.com/yql/guide/yql-code-examples.html#yql_php

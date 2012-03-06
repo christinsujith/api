@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:geo="http://www.w3.org/2003/01/geo/">
+
+    <channel>
+        <title>R2 International</title>
+        <link>http://r2international.eu</link>
+        <description>Global Technology Solutions</description>
+
+        <dc:language>en-us</dc:language>
+        <dc:creator>Chris (christin.sujith@r2international.com)</dc:creator>
+        <dc:copyright>Copyright 2012 R2</dc:copyright>
+        <ttl>60</ttl>
+        <dc:date>2012-02-23T16:45:15-05:00</dc:date>
+        <atom:link href="http://localhost/test/rss.xml" rel="self" type="application/rss+xml"/>
+        <dc:author>christin sujith</dc:author>
+        <image>
+            <url>http://r2international.eu/wp-content/uploads/2012/02/r2international-logo.png</url>
+            <title>R2 International</title>
+            <link>http://r2international.eu</link>
+        </image>
+        <admin:generatorAgent rdf:resource="http://r2international.eu" />
+        <admin:errorReportsTo rdf:resource="christin.sujith@r2international.com"/>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+        <item>
+            <title>Company Profile</title>
+            <link>http://r2international.eu/about-us/company-profile/</link>
+            <description>
+                 In case you weren’t aware, the excellent Surreal Football has recently been involved in a high profile merger with The FCF. This is important
+            </description>
+        <image>
+            <url>http://r2international.eu/wp-content/uploads/2012/02/mission_statement.jpg</url>
+            <title>R2 International</title>
+            <link>http://r2international.eu/about-us/company-profile/</link>
+            <width>100</width>
+            <height>50</height>
+        </image>            
+            <geo:point>
+                <geo:lat>36.400001526</geo:lat>
+                <geo:long>-92.5</geo:long>
+            </geo:point>
+            <comments>test comment</comments>
+            <category>Offshore development</category>
+            <dc:creator>christin sujith</dc:creator>
+            <guid isPermaLink="true">http://r2international.eu/about-us/company-profile/</guid>
+            <dc:subject>about company</dc:subject>
+            <dc:date>2012-02-23T17:50:14-05:00</dc:date>
+            <slash:comments>3</slash:comments>
+        </item>
+
+    </channel>
+</rss>

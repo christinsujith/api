@@ -1,0 +1,233 @@
+﻿Array
+(
+    [rdf:RDF] => Array
+        (
+            [PersonalProfileDocument] => Array
+                (
+                    [0] => Array
+                        (
+                            [maker] => Array
+                                (
+                                )
+
+                            [maker_attr] => Array
+                                (
+                                    [rdf:resource] => http://identi.ca/user/630628
+                                )
+
+                            [primaryTopic] => Array
+                                (
+                                )
+
+                            [primaryTopic_attr] => Array
+                                (
+                                    [rdf:resource] => http://identi.ca/user/630628
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [maker] => Array
+                                (
+                                )
+
+                            [maker_attr] => Array
+                                (
+                                    [rdf:resource] => http://identi.ca/user/136
+                                )
+
+                            [primaryTopic] => Array
+                                (
+                                )
+
+                            [primaryTopic_attr] => Array
+                                (
+                                    [rdf:resource] => http://identi.ca/user/136
+                                )
+
+                        )
+
+                    [0_attr] => Array
+                        (
+                            [rdf:about] => 
+                        )
+
+                )
+
+            [Agent] => Array
+                (
+                    [0] => Array
+                        (
+                            [mbox_sha1sum] => 4050831a6c674fffd062278f569031fe4af0a64a
+                            [name] => christin sujith
+                            [homepage] => Array
+                                (
+                                )
+
+                            [homepage_attr] => Array
+                                (
+                                    [rdf:resource] => http://r2international.eu
+                                )
+
+                            [weblog] => Array
+                                (
+                                )
+
+                            [weblog_attr] => Array
+                                (
+                                    [rdf:resource] => http://identi.ca/christinsujith
+                                )
+
+                            [bio:olb] => web developer
+                            [based_near] => Array
+                                (
+                                    [geo:SpatialThing] => Array
+                                        (
+                                            [name] => Bangalore, State of KarnÄtaka, India
+                                            [geo:lat] => 12.97623
+                                            [geo:long] => 77.60329
+                                            [page] => Array
+                                                (
+                                                )
+
+                                            [page_attr] => Array
+                                                (
+                                                    [rdf:resource] => http://www.geonames.org/1277333
+                                                )
+
+                                        )
+
+                                    [geo:SpatialThing_attr] => Array
+                                        (
+                                            [rdf:about] => http://sws.geonames.org/1277333/
+                                        )
+
+                                )
+
+                            [account] => Array
+                                (
+                                    [OnlineAccount] => Array
+                                        (
+                                            [accountServiceHomepage] => Array
+                                                (
+                                                )
+
+                                            [accountServiceHomepage_attr] => Array
+                                                (
+                                                    [rdf:resource] => http://identi.ca/
+                                                )
+
+                                            [accountName] => christinsujith
+                                            [accountProfilePage] => Array
+                                                (
+                                                )
+
+                                            [accountProfilePage_attr] => Array
+                                                (
+                                                    [rdf:resource] => http://identi.ca/christinsujith
+                                                )
+
+                                            [sioc:account_of] => Array
+                                                (
+                                                )
+
+                                            [sioc:account_of_attr] => Array
+                                                (
+                                                    [rdf:resource] => http://identi.ca/user/630628
+                                                )
+
+                                            [sioc:follows] => Array
+                                                (
+                                                )
+
+                                            [sioc:follows_attr] => Array
+                                                (
+                                                    [rdf:resource] => http://identi.ca/user/136#acct
+                                                )
+
+                                        )
+
+                                    [OnlineAccount_attr] => Array
+                                        (
+                                            [rdf:about] => http://identi.ca/user/630628#acct
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [account] => Array
+                                (
+                                    [OnlineAccount] => Array
+                                        (
+                                            [accountServiceHomepage] => Array
+                                                (
+                                                )
+
+                                            [accountServiceHomepage_attr] => Array
+                                                (
+                                                    [rdf:resource] => http://identi.ca/
+                                                )
+
+                                            [accountName] => identica
+                                            [accountProfilePage] => Array
+                                                (
+                                                )
+
+                                            [accountProfilePage_attr] => Array
+                                                (
+                                                    [rdf:resource] => http://identi.ca/identica
+                                                )
+
+                                            [sioc:account_of] => Array
+                                                (
+                                                )
+
+                                            [sioc:account_of_attr] => Array
+                                                (
+                                                    [rdf:resource] => http://identi.ca/user/136
+                                                )
+
+                                        )
+
+                                    [OnlineAccount_attr] => Array
+                                        (
+                                            [rdf:about] => http://identi.ca/user/136#acct
+                                        )
+
+                                )
+
+                            [rdfs:seeAlso] => Array
+                                (
+                                )
+
+                            [rdfs:seeAlso_attr] => Array
+                                (
+                                    [rdf:resource] => http://identi.ca/identica/foaf
+                                )
+
+                        )
+
+                    [0_attr] => Array
+                        (
+                            [rdf:about] => http://identi.ca/user/630628
+                        )
+
+                )
+
+        )
+
+    [rdf:RDF_attr] => Array
+        (
+            [xmlns:rdf] => http://www.w3.org/1999/02/22-rdf-syntax-ns#
+            [xmlns:rdfs] => http://www.w3.org/2000/01/rdf-schema#
+            [xmlns:geo] => http://www.w3.org/2003/01/geo/wgs84_pos#
+            [xmlns:bio] => http://purl.org/vocab/bio/0.1/
+            [xmlns:sioc] => http://rdfs.org/sioc/ns#
+            [xmlns] => http://xmlns.com/foaf/0.1/
+        )
+
+)

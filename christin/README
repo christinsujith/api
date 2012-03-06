@@ -1,0 +1,123 @@
+Task
+####
+
+Your task is to evaluate different services and there apis/libraries regarding their feasability to be
+incorporated into our crawler ecosystem.
+
+The principal steps are the same as you already performed in 
+https://team.holzweg.tv/projects/visalyzeexterncrawler/task_lists
+
+Evaluate and document the feasability of the services and provide a small prototype showcasing the api and
+libraries (see below).
+
+Please follow the given Template for all your work.
+
+Template
+########
+
+Please create a directory for each service and follow this layout:
+|- doc.txt
+|- credentials.txt
+|- legal.txt
+|- mapping.txt
+|- code/
+|  |- lib/
+|  |- src/
+|- output/
+|  |- output_comments.txt
+|  |- output_postings.txt
+|  |- output_...
+
+
+Files/Directories
+#################
+
+As a general note: please always provide the links to the information/documentation.
+
+doc.txt: general documentation, links to the apis/libraries, general description of extractable information
+     with respect to the activitystream format
+
+credentials.txt: all required credentials for the use of the service: username, password, access token, 
+    appid, ...
+
+legal.txt: links and information regarding limitations, i.e. rate limits, caching limits, copyright issues,
+    ...
+
+mapping.txt: a preliminary/informal mapping of the extractable information to the activitystreams format
+    e.g. something like
+        'object' candidates are 'data->post', 'data->content', ...
+        'actor' candidates are 'data->actor', 'data->resharerers' ...
+        'verb' candidates are 'post', 'reshare', 'plus1', ...
+        'attachment' candidates for the post are 'data->link', 'data->picture', 'data->like' "
+        'target' candidates are...
+        and so on
+
+code/: a prototype showcasing the api and the used libraries
+|- lib/: the library files (e.g. zend). please make every prototype self contained, i.e. provide all
+    necessary libraries in the lib/ folder
+|- src/: your prototype code
+
+output/: please provide var_dumps of the extractable information. the files may vary depending on which
+    kind of information is extractable.
+
+
+Organisational
+##############
+
+Please document the time you need for the different tasks in the provided christin.xls excel file.
+    The table is in german but the format is:
+    | Day | Hours |    Task     |
+    so for example:
+    | 21.02.2012 | 05:30 | Evaluating Tumblr Service |
+
+Also when you complete a task, provide the needed time in the git commit message.
+
+Plan of Action
+##############
+
+1. Adapt your earlier Prototypes to the given structure and add possibly missing information.
+2. Afterwards work off the given list of additional services in the order they are provided. The list
+contains all the services we would be interested in, it is however not expected of you to work off
+all the listed services.
+
+
+Already done (only adaption and missing data needed):
+* Google+
+* Youtube
+* LinkedIn
+* Foursquare
+
+Services in prioritized order:
+* General RSS ecosystem -> activitystream format
+* Many internet forums also provide an RSS feed, so please pick a forum of your choice and evaluate the RSS->activitystream as above
+* Tumblr
+* Reddit
+* Pinterest
+* StumbleUpon
+* Wordpress
+* Digg
+* Pinboard.in  <--
+* Flickr
+* FriendFeed
+* Yahoo Groups
+
+* Vimeo
+* Identi.ca
+* Metacafe
+* MySpace
+* Dailymotion
+* Delicious
+* Media
+* Diigo
+* Fotolog
+* Hulu
+* IntenseDebate
+* Newsgator
+* Photobucket
+* Plurk
+* SmugMug
+* Xanga
+
+
+If you have question please don't hesitate to ask.
+

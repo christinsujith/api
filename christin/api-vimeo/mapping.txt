@@ -1,0 +1,4 @@
+object :  data->username, data->display_name
+actor : data->id
+verb : data->number_of_groups, data->number_of_channels
+attachment : data->profileurl, data->videosurl

@@ -1,0 +1,3 @@
+actor : data->first-name, data->last-name
+object : data->id
+attachment : data->picture-url
